@@ -92,7 +92,7 @@ These are the official conventions that this project aims to use. If you would l
 | waa3, waa4              | 嘩        | "wow"                              |
 | wai2, wai3              | 喂        |                                    |
 ### Character Variants
-Where applicable, the Hong Kong variant of characters is chosen.
+Where applicable, the Hong Kong variant of characters is chosen. There are sometimes many similar cases that are not shown, e.g. 温 is also chosen over 溫.
 
 | Selected Variant | Other Variants | Jyutping |
 | ---------------- | -------------- | -------- |
@@ -126,6 +126,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 獎                | 奬              | zoeng2   |
 
 ### Other
+These are other variants chosen for a variety of other Cantonese words.
 | Selected Variant | Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
