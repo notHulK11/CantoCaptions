@@ -8,7 +8,7 @@ These are the official conventions that this project aims to use. If you would l
 
 ### Sentence Final Particles / 句尾助詞
 
-| **Syllable\Tone** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Syllable＼Tone** | **1** | **2** | **3** | **4** | **5** | **6** |
 | ----------------- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **aa**            | 吖     | 嗄     | 啊     | 呀     | 咓     | 𠻺    |
 | **aak**           |       |       | 𡅅    |       |       |       |
