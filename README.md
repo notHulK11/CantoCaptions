@@ -146,7 +146,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 畀                | 俾              | bei2                           |                           |
 | 攰                | 癐              | gui6                           |                           |
 | 郁                | 喐              | juk1                           |                           |
-| 枝                | 支              |                                | 指植物或木嘅嘢                   |
+| 枝                | 支              | zi1                            | 指植物或木嘅嘢                   |
 | 痴線               | 黐線、黐綫、癡線、痴綫    | ci1 sin3                       |                           |
 | 唔單止              | 唔單只            | m4 daan1 zi2                   |                           |
 | 唔止               | 唔只             | m4 zi2                         |                           |
