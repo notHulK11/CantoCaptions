@@ -180,7 +180,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 着                | 著              | zoek3, zoek6                   |                           |
 | 著                | 着              | zyu3                           |                           |
 | 兇                | 凶              | hung1                          | 兇猛、兇手、兇某人                 |
-| 凶                | 凶兆             | hung1                          | 泛指一啲不祥嘅嘢                  |
+| 凶                | 兇            | hung1                          | 泛指一啲不祥嘅嘢，例如「凶兆」                  |
 | 手鏈               | 手鍊             | sau2 lin2                      |                           |
 | 頸鏈               | 頸鍊             | geng2 lin2                     |                           |
 | 證                | 証              | zing3                          |                           |
