@@ -9,8 +9,8 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Table of Contents
-- [Conventions](#Conventions)
- - [Sentence Final Particles](# "Sentence Final Particles｜句尾助詞")
+- #### [Conventions](#Conventions)
+- [Sentence Final Particles](# "Sentence Final Particles｜句尾助詞")
  - [Affixes](#Affixes｜詞綴)
  - [Interjections](#Interjections｜感嘆詞)
  - [Character Variants](# "Character Variants")
