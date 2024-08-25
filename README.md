@@ -53,7 +53,7 @@ These are the official conventions that this project aims to use. If you would l
 | la3 wo3       | 喇喎         |
 | za1 maa3      | 吒嘛         |
 
-## Affixes｜ 詞綴
+## Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子         |
 | ------------- | ---------- | --------------------- |
 | aa3           | 阿          | **阿**爸、**阿**伯、**阿**明  |
