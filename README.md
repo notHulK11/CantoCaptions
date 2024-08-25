@@ -9,7 +9,7 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Table of Contents
-(Conventions)[#Conventions]
+[Conventions](#Conventions)
 
 ## Conventions
 The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
