@@ -9,7 +9,12 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Table of Contents
-[Conventions](#Conventions)
+- [Conventions](#Conventions)
+ - [Sentence Final Particles](# "Sentence Final Particles｜句尾助詞")
+ - [Affixes](#Affixes｜詞綴)
+ - [Interjections](#Interjections｜感嘆詞)
+ - [Character Variants](# "Character Variants")
+ - [Other](#Other)
 
 ## Conventions
 The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
@@ -71,7 +76,7 @@ This subtitle format is chosen because of its wide-ranging compatibility especia
 | la3 wo3       | 喇喎         |
 | za1 maa3      | 吒嘛         |
 
-## Affixes｜詞綴
+### Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子           |
 | ----------- | -------- | --------------------- |
 | aa3         | 阿        | **阿**爸、**阿**伯、**阿**明  |
