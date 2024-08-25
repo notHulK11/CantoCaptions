@@ -6,7 +6,7 @@ This is a repository of accurate written Cantonese subtitles for educational pur
 ## Conventions
 These are the official conventions that this project aims to use. If you would like to contribute, we would greatly appreciate keeping to them as much as you can.
 
-### Sentence Final Particles \ 句尾助詞
+### Sentence Final Particles｜句尾助詞
 
 | **Syllable＼Tone** | **1** | **2** | **3** | **4** | **5** | **6** |
 | ----------------- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -36,7 +36,7 @@ These are the official conventions that this project aims to use. If you would l
 | **lu**            |       |       | 嚕     |       |       |       |
 | **he**            |       | 嚱     |       |       |       |       |
 
-| Jyutping / 粵拼 | Honzi / 漢字 |
+| Jyutping｜粵拼 | Honzi｜漢字 |
 | ------------- | ---------- |
 | a1 maa3       | 吖嘛         |
 | a1 naa4       | 吖嗱         |
@@ -53,8 +53,8 @@ These are the official conventions that this project aims to use. If you would l
 | la3 wo3       | 喇喎         |
 | za1 maa3      | 吒嘛         |
 
-## Affixes / 詞綴
-| Jyutping / 粵拼 | Honzi / 漢字 | Examples / 例子         |
+## Affixes｜ 詞綴
+| Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子         |
 | ------------- | ---------- | --------------------- |
 | aa3           | 阿          | **阿**爸、**阿**伯、**阿**明  |
 | can1          | 親          | **親**隻腳、跌**親**        |
@@ -69,9 +69,9 @@ These are the official conventions that this project aims to use. If you would l
 | maai4         | 埋          | 同**埋**、畀**埋**、交**埋**  |
 | saai3         | 晒          | 多謝**晒**、辛苦**晒**       |
 
-### Interjections / 感嘆詞
+### Interjections｜感嘆詞
 
-| Jyutping / 粵拼                           | Honzi / 漢字 | Explanation / 解釋               |
+| Jyutping｜粵拼                           | Honzi｜漢字 | Explanation｜解釋               |
 | --------------------------------------- | ---------- | ------------------------------ |
 | aai1, aai2                              | 唉          |                                |
 | ai1 jaa3, ai1 jaa5, ai1 jaak3, ai1 jaa6 | 哎吔         |                                |
