@@ -10,10 +10,10 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 
 ## Table of Contents
 - [Conventions](#Conventions)
-  - [Sentence Final Particles](# "Sentence Final Particles｜句尾助詞")
-  - [Affixes](#Affixes｜詞綴)
-  - [Interjections](#Interjections｜感嘆詞)
-  - [Character Variants](# "Character Variants")
+  - [Sentence Final Particles](#sentence-final-particles句尾助詞)
+  - [Affixes](#affixes詞綴)
+  - [Interjections](#interjections感嘆詞)
+  - [Character Variants](#Character-Variants)
   - [Other](#Other)
 
 ## Conventions
