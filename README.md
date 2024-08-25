@@ -71,26 +71,26 @@ These are the official conventions that this project aims to use. If you would l
 
 ### Interjections｜感嘆詞
 
-| Jyutping｜粵拼             | Honzi｜漢字 | Explanation｜解釋                 |
-| ----------------------- | -------- | ------------------------------ |
-| aai1, aai2              | 唉        |                                |
-| ai1 jaa3/5/6, ai1 jaak3 | 哎吔       |                                |
-| ce1                     | 唓        | "tsk"                          |
-| e2, ei2                 | 欸        |                                |
-| e4, e6                  | 誒        | "uh"                           |
-| hei1                    | 嘿        | greeting/satisfaction          |
-| hei5                    | 唏        | discontentment                 |
-| hng6                    | 哼        | "hmph"                         |
-| ji2                     | 咦        |                                |
-| naa4                    | 嗱        | "look" calls attention to sth. |
-| o1                      | 喔        |                                |
-| o2, o3, o4, o5, o6      | 哦        |                                |
-| oi2, oi3                | 噯        | variant of 喂                   |
-| ou3                     | 噢        |                                |
-| syu4                    | 𭉝       | "shh"                          |
-| waa1                    | 哇        | "wah" sound of crying          |
-| waa3, waa4              | 嘩        | "wow"                          |
-| wai2, wai3              | 喂        |                                |
+| Jyutping｜粵拼             | Honzi｜漢字 | Explanation｜解釋                     |
+| ----------------------- | -------- | ---------------------------------- |
+| aai1, aai2              | 唉        |                                    |
+| ai1 jaa3/5/6, ai1 jaak3 | 哎吔       |                                    |
+| ce1                     | 唓        | "tsk"                              |
+| e2, ei2                 | 欸        |                                    |
+| e4, e6                  | 誒        | "uh"                               |
+| hei1                    | 嘿        | as a greeting / shows satisfaction |
+| hei5                    | 唏        | shows discontent                   |
+| hng6                    | 哼        | "hmph"                             |
+| ji2                     | 咦        |                                    |
+| naa4                    | 嗱        | "look"; call for attention         |
+| o1                      | 喔        |                                    |
+| o2, o3, o4, o5, o6      | 哦        |                                    |
+| oi2, oi3                | 噯        | variant of 喂                       |
+| ou3                     | 噢        |                                    |
+| syu4                    | 𭉝       | "shh"                              |
+| waa1                    | 哇        | "wah"; sound of crying             |
+| waa3, waa4              | 嘩        | "wow"                              |
+| wai2, wai3              | 喂        |                                    |
 ### Character Variants
 Where applicable, the Hong Kong variant of characters is chosen.
 
