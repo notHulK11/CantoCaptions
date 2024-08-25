@@ -6,7 +6,7 @@ This is a repository of accurate written Cantonese subtitles for educational pur
 ## Conventions
 These are the official conventions that this project aims to use. If you would like to contribute, we would greatly appreciate keeping to them as much as you can.
 
-### Sentence Final Particles / 句尾助詞
+### Sentence Final Particles \ 句尾助詞
 
 | **Syllable＼Tone** | **1** | **2** | **3** | **4** | **5** | **6** |
 | ----------------- | ----- | ----- | ----- | ----- | ----- | ----- |
