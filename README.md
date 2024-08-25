@@ -6,7 +6,7 @@ This is a project that aims to collect and create accurate written Cantonese sub
 If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/Eh7XCENw4t) server.
 
 > [!IMPORTANT]  
-> Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**highly**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
+> Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Conventions
 The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
@@ -14,6 +14,8 @@ The aim behind establishing conventions is to promote consistency that will enha
 Official CantoCaptions subs always consist of:
  - Traditional Characters
  - .srt format
+
+This subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dicitonaries.
 
 > [!NOTE]
 > There are also some subtitles that don't have respective audio follow the given conventions.
