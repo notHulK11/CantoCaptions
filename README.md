@@ -10,11 +10,11 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 
 ## Table of Contents
 - [Conventions](#Conventions)
- - [Sentence Final Particles](# "Sentence Final Particles｜句尾助詞")
- - [Affixes](#Affixes｜詞綴)
- - [Interjections](#Interjections｜感嘆詞)
- - [Character Variants](# "Character Variants")
- - [Other](#Other)
+  - [Sentence Final Particles](# "Sentence Final Particles｜句尾助詞")
+  - [Affixes](#Affixes｜詞綴)
+  - [Interjections](#Interjections｜感嘆詞)
+  - [Character Variants](# "Character Variants")
+  - [Other](#Other)
 
 ## Conventions
 The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
