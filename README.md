@@ -15,7 +15,7 @@ Official CantoCaptions subs always consist of:
  - Traditional Characters
  - .srt format
 
-This subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dicitonaries.
+This subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 > [!NOTE]
 > There are also some subtitles that don't have respective audio follow the given conventions.
