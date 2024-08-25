@@ -1,7 +1,14 @@
 # CantoCaptions
 
 ## Overview
-This is a repository of accurate written Cantonese subtitles for educational purposes. The subtitles try to stick to the outlined conventions but this is a work in progress and many subtitles may follow them in part or in some cases diverge completely.
+This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
+
+If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/Eh7XCENw4t) server.
+
+[!NOTE] The subtitles try to stick to the outlined conventions but this is a work in progress and many subtitles may follow them in part or in some cases diverge completely.
+
+### Fonts
+Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is **highly** recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Conventions
 These are the official conventions that this project aims to use. If you would like to contribute, we would greatly appreciate keeping to them as much as you can.
@@ -92,7 +99,7 @@ These are the official conventions that this project aims to use. If you would l
 | waa3, waa4              | 嘩        | "wow"                              |
 | wai2, wai3              | 喂        |                                    |
 ### Character Variants
-Where applicable, the Hong Kong variant of characters is chosen. There are sometimes many similar cases that are not shown, e.g. 温 is also chosen over 溫.
+Where applicable, the Hong Kong variant of characters is chosen.
 
 | Selected Variant | Other Variants | Jyutping |
 | ---------------- | -------------- | -------- |
@@ -126,7 +133,6 @@ Where applicable, the Hong Kong variant of characters is chosen. There are somet
 | 獎                | 奬              | zoeng2   |
 
 ### Other
-These are other variants chosen for a variety of other Cantonese words.
 | Selected Variant | Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
