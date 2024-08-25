@@ -173,7 +173,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 唔使旨意             | 唔使指意           | m4 sai2 zi2 ji3                |                           |
 | 抌                | 丼、揼            | dam2                           |                           |
 | 𢱕               | 溚、揼            | dap6                           |                           |
-| 揼                | 耽              | dam1,dam3,dam6                 |                           |
+| 揼                | 耽              | dam1, dam3, dam6                 |                           |
 | 刻劃               | 刻畫             | waak6 waa2                     |                           |
 | 蕩失路              | 盪失路            | dong6 sat1 lou6                |                           |
 | 惡夢               | 噩夢             | ok3 mung6                      |                           |
