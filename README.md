@@ -3,10 +3,10 @@
 ## Overview
 This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
 
-If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/Eh7XCENw4t) server.
-
 > [!NOTE]
 > The subtitles try to stick to the outlined conventions but this is a work in progress and many subtitles may follow them in part or in some cases diverge completely.
+
+If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/Eh7XCENw4t) server.
 
 > [!IMPORTANT]  
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is **highly** recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
