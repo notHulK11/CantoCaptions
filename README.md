@@ -5,10 +5,11 @@ This is a project that aims to collect and create accurate written Cantonese sub
 
 If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/Eh7XCENw4t) server.
 
-> [!NOTE] The subtitles try to stick to the outlined conventions but this is a work in progress and many subtitles may follow them in part or in some cases diverge completely.
+> [!NOTE]
+> The subtitles try to stick to the outlined conventions but this is a work in progress and many subtitles may follow them in part or in some cases diverge completely.
 
-### Fonts
-Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is **highly** recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
+> [!IMPORTANT]  
+> Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is **highly** recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Conventions
 These are the official conventions that this project aims to use. If you would like to contribute, we would greatly appreciate keeping to them as much as you can.
