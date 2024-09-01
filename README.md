@@ -13,7 +13,7 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 - - [Subtitle Style Guide](#Subtitle-Style-Guide)
 	- [Punctuation](#Punctuation)
 	- [Untranscribed Speech](#Untranscribed-Speech)
-  - [Conventions](#Character-Conventions)
+  - [Character Conventions](#Character-Conventions)
 	  - [Sentence Final Particles](#sentence-final-particles句尾助詞)
 	  - [Affixes](#affixes詞綴)
 	  - [Interjections](#interjections感嘆詞)
