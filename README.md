@@ -31,7 +31,7 @@ This subtitle format is chosen because of its wide-ranging compatibility especia
 
 ### Punctuation
 
-| Punctuation                                                                                                                                                 | Examples                                |
+| Explanation                                                                                                                                                 | Examples                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Written or background info is enclosed in Chinese parentheses.                                                                                              | （三年前）                                   |
 | The titles (of episodes, works, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
@@ -43,7 +43,7 @@ This subtitle format is chosen because of its wide-ranging compatibility especia
 | Only 1 Chinese ellipsis character is used (never 2 as in ……).                                                                                               | ❌……<br>✅…                               |
 | When an utterance is repeated, transcribe only 1 instance with a trailing Chinese ellipsis character.                                                       | ❌ 喂喂喂<br>✅ 喂…                           |
 | In the case of interrupted speech, a Chinese ellipsis character is used to mark where the speaker is cut off and a new line begins with the new speech.     | -點解你…<br>-唔知啊                           |
-| In the case of trailing  speech, a Chinese ellipsis character is used.                                                                                      | ❌佢唔可以嘅話…<br>✅佢唔可以嘅話…                    |
+| In the case of trailing  speech, a Chinese ellipsis character is used.                                                                                      | ❌佢唔可以嘅話~~<br>✅佢唔可以嘅話…                   |
 | When listing with 同 or 同埋, Chinese list comma is used on the elements that are not connected with the conjunction.                                          | A、B、C同埋D                                |
 | Subtitles never end in a period and Chinese period is never used.                                                                                           | ❌我個名叫Tom。<br>✅我個名叫Tom                   |
 | The middle period is never used.                                                                                                                            | ❌哈利·波特<br>✅哈利波特                         |
