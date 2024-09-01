@@ -29,14 +29,15 @@ This section details how the subtitles should look. In general, Traditional char
 ### Formatting
 - .srt format
 - single line max length is 18 characters
-- lines should show on screen slightly before the speech (roughly 10-30ms)
-- lines should trail the subtitles slightly assuming no screen change (roughly 30-60ms)
-- lines that end during a scene change, should be synced with the scene change
 
 This .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-WIP
+- lines should show on screen slightly before the speech (roughly 10-30ms)
+- lines should trail the subtitles slightly assuming no screen change (roughly 30-60ms)
+- lines that end during a scene change, should be synced with the scene change
+- the minimum line duration is 750ms
+	- this can be even shorter in the case of lines consisting of 2 characters or less
 
 ### Punctuation
 
