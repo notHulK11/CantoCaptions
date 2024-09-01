@@ -10,15 +10,15 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 
 ## Table of Contents
 
-- - [Subtitle Style Guide](#Subtitle-Style-Guide)
+- [Subtitle Style Guide](#Subtitle-Style-Guide)
 	- [Punctuation](#Punctuation)
 	- [Untranscribed Speech](#Untranscribed-Speech)
-  - [Character Conventions](#Character-Conventions)
-	  - [Sentence Final Particles](#sentence-final-particles句尾助詞)
-	  - [Affixes](#affixes詞綴)
-	  - [Interjections](#interjections感嘆詞)
-	  - [Character Variants](#Character-Variants)
-	  - [Other](#Other)
+- [Character Conventions](#Character-Conventions)
+	- [Sentence Final Particles](#sentence-final-particles句尾助詞)
+	- [Affixes](#affixes詞綴)
+	- [Interjections](#interjections感嘆詞)
+	- [Character Variants](#Character-Variants)
+	- [Other](#Other)
 
 ### Subtitle Style Guide
 
