@@ -11,6 +11,8 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 ## Table of Contents
 
 - [Subtitle Style Guide](#Subtitle-Style-Guide)
+	- [Formatting](#Formatting)
+	- [Timing](#Timing)
 	- [Punctuation](#Punctuation)
 	- [Untranscribed Speech](#Untranscribed-Speech)
 - [Character Conventions](#Character-Conventions)
@@ -22,12 +24,19 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 
 ### Subtitle Style Guide
 
-CantoCaptions subtitles should abide by the following:
-- Traditional characters
+This section details how the subtitles should look. In general, Traditional characters are used as opposed to simplified characters, since they can always be converted to the latter with relative ease.
+
+### Formatting
 - .srt format
 - single line max length is 18 characters
+- lines should show on screen slightly before the speech (roughly 10-30ms)
+- lines should trail the subtitles slightly assuming no screen change (roughly 30-60ms)
+- lines that end during a scene change, should be synced with the scene change
 
-This subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
+This .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
+
+### Timing
+WIP
 
 ### Punctuation
 
