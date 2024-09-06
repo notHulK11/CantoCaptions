@@ -9,21 +9,71 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
 ## Table of Contents
-- [Conventions](#Conventions)
-  - [Sentence Final Particles](#sentence-final-particles句尾助詞)
-  - [Affixes](#affixes詞綴)
-  - [Interjections](#interjections感嘆詞)
-  - [Character Variants](#Character-Variants)
-  - [Other](#Other)
 
-## Conventions
+- [Subtitle Style Guide](#Subtitle-Style-Guide)
+	- [Formatting](#Formatting)
+	- [Timing](#Timing)
+	- [Punctuation](#Punctuation)
+	- [Untranscribed Speech](#Untranscribed-Speech)
+- [Character Conventions](#Character-Conventions)
+	- [Sentence Final Particles](#sentence-final-particles句尾助詞)
+	- [Affixes](#affixes詞綴)
+	- [Interjections](#interjections感嘆詞)
+	- [Character Variants](#Character-Variants)
+	- [Other](#Other)
+
+### Subtitle Style Guide
+
+This section details how the subtitles should look. In general, Traditional characters are used as opposed to simplified characters, since they can always be converted to the latter with relative ease.
+
+### Formatting
+- .srt format
+- single line max length is 18 characters
+
+This .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
+
+### Timing
+- lines should show on screen slightly before the speech (roughly 10-30ms)
+- lines should trail the subtitles slightly assuming no screen change (roughly 30-60ms)
+- lines that end during a scene change, should be synced with the scene change
+- the minimum line duration is 750ms
+	- this can be even shorter in the case of lines consisting of 2 characters or less
+
+### Punctuation
+
+| Explanation                                                                                                                                                 | Examples                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Written or background info is enclosed in Chinese parentheses.                                                                                              | （三年前）                                   |
+| The titles (of episodes, works, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
+| Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
+| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right quotation characters “”.                                           | 我媽媽話：“唔准去嗰度”                            |
+| A Chinese comma is placed after all SFP, except when followed by 你 without a pause.                                                                         | ❌好啦我明喇。<br>✅好啦，我明喇<br>❌好春廢啊，你<br>✅好春廢啊你 |
+| Multiple speaker dialogue uses two lines and dialogue that begins with a hyphen without a following space.                                                  | -speaker 1<br>-speaker 2                |
+| When a question is followed by the name of who is being addressed then the question mark is used as the separator as opposed to a comma and a question mark | ❌你仲喺度，阿明？<br>✅你仲喺度？阿明                   |
+| Only 1 Chinese ellipsis character is used (never 2 as in ……).                                                                                               | ❌……<br>✅…                               |
+| When an utterance is repeated, transcribe only 1 instance with a trailing Chinese ellipsis character.                                                       | ❌ 喂喂喂<br>✅ 喂…                           |
+| In the case of interrupted speech, a Chinese ellipsis character is used to mark where the speaker is cut off and a new line begins with the new speech.     | -點解你…<br>-唔知啊                           |
+| In the case of trailing  speech, a Chinese ellipsis character is used.                                                                                      | ❌佢唔可以嘅話~~<br>✅佢唔可以嘅話…                   |
+| In the case of stammering, the start is separated by a Chinese ellipsis, but this is only done once.                                                        | ❌只只不過<br>❌只…只…只不過<br>✅只…只不過             |
+| When listing with 同 or 同埋, Chinese list comma is used on the elements that are not connected with the conjunction.                                          | A、B、C同埋D                                |
+| Subtitles never end in a period and Chinese period is never used.                                                                                           | ❌我個名叫Tom。<br>✅我個名叫Tom                   |
+| The middle period is never used.                                                                                                                            | ❌哈利·波特<br>✅哈利波特                         |
+| Italics are never used.                                                                                                                                     |                                         |
+
+### Untranscribed Speech
+In general, these subtitles are a learning resource. The goal is not to transcribe verbatim all utterances in their entirety. The goal is have a complete subtitle that contains information useful to the learner. We do not want to include very minor, nearly non-audible speech. SFP are transcribed as accurately as possible to benefit the learner.
+
+| Speech                                                                                                                                                                         | Example                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| The e3/oe3 and other brief "uh" sounds are not transcribed.                                                                                                                    | ❌e3，其實呢 <br>✅其實呢<br>❌我哋可以做到e3~~ <br>✅我哋可以做到 |
+| The Chinese exclamation point is used sparingly in the case of exceptionally loud/declarative yells or for emphasis among quieter speech, such as when calling someone's name. |                                             |
+| Miscellaneous grunts, yells, screams, and the like are not transcribed.                                                                                                        |                                             |
+| Ah, oh, hmm, huh, mhmm and other acknowledgement noises are transcribed sparingly and only in the case that they form part of other utterances.                                | ❌吓？<br>✅吓，你講咩啊？                             |
+
+
+## Character Conventions
 The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
 
-Official CantoCaptions subs always consist of:
- - Traditional Characters
- - .srt format
-
-This subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 > [!NOTE]
 > There are also some subtitles that don't have respective audio follow the given conventions.
@@ -180,7 +230,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 着                | 著              | zoek3, zoek6                   |                           |
 | 著                | 着              | zyu3                           |                           |
 | 兇                | 凶              | hung1                          | 兇猛、兇手、兇某人                 |
-| 凶                | 兇            | hung1                          | 泛指一啲不祥嘅嘢，例如「凶兆」                  |
+| 凶                | 凶兆             | hung1                          | 泛指一啲不祥嘅嘢                  |
 | 手鏈               | 手鍊             | sau2 lin2                      |                           |
 | 頸鏈               | 頸鍊             | geng2 lin2                     |                           |
 | 證                | 証              | zing3                          |                           |
