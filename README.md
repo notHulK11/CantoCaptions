@@ -155,19 +155,21 @@ The aim behind establishing conventions is to promote consistency that will enha
 | hei5                    | 唏        | shows discontent                   |
 | hng6                    | 哼        | "hmph"                             |
 | ji2                     | 咦        |                                    |
+| m2, m3, m6              | 嗯        | "hmm"; "um"; "mhmm"                |
 | naa4                    | 嗱        | "look"; call for attention         |
 | o1                      | 喔        |                                    |
 | o2, o3, o4, o5, o6      | 哦        |                                    |
 | oi2, oi3                | 噯        | variant of 喂                       |
 | ou3                     | 噢        |                                    |
 | syu4                    | 𭉝       | "shh"                              |
+| u1                      | 嗚        | "ooo"; sound of interest/wonder     |
 | waa1                    | 哇        | "wah"; sound of crying             |
 | waa3, waa4              | 嘩        | "wow"                              |
 | wai2, wai3              | 喂        |                                    |
 ### Character Variants
 Where applicable, the Hong Kong variant of characters is chosen.
 
-| Selected Variant | Other Variants | Jyutping |
+| ✅ Selected Variant | ❌ Other Variants | Jyutping |
 | ---------------- | -------------- | -------- |
 | 為                | 爲              | wai4     |
 | 揾                | 搵              | wan2     |
@@ -199,7 +201,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 獎                | 奬              | zoeng2   |
 
 ### Other
-| Selected Variant | Other Variants | Jyutping                       | Explanation               |
+| ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
 | 攰                | 癐              | gui6                           |                           |
@@ -249,7 +251,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 老土               | 老套             | lou5 tou2                      |                           |
 | 瀨屎、瀨尿            | 賴屎、賴尿          | laai6 si2, laai6 niu6          |                           |
 | 鍛鍊               | 鍛煉             | dyun3 lin6                     |                           |
-| 鬭                | 鬥              | dau3                           | 對打；分勝負                    |
+| 鬥                | 鬭              | dau3                           | 對打；分勝負                    |
 | 鬥                | 鬭              | dau3                           | 花工夫去整一樣嘢                  |
 | 抖                | 鬥              | dau3                           | 摸；掂                       |
 | 唞                | 抖              | tau2                           | 休息；歇息                     |
@@ -373,3 +375,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 韞                | 困              | wan3                           | 局限喺一個地方之內，唔出嚟             |
 | 係咁歹              | 係咁大            | hai6 gam3 daai2                |                           |
 | urk              | 嗝              | oet4, oet6, oek4               |                           |
+| 嘍              | 摟              | lau3               |                           |
+| 喼              | gip、篋              | gip1               |                           |
+| 震盪              | 振蕩            | zan3 dong6              |                           |
