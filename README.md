@@ -377,3 +377,4 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | urk              | 嗝              | oet4, oet6, oek4               |                           |
 | 嘍              | 摟              | lau3               |                           |
 | 喼              | gip、篋              | gip1               |                           |
+| 震盪              | 振蕩            | zan3 dong6              |                           |
