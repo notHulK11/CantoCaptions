@@ -155,17 +155,17 @@ The aim behind establishing conventions is to promote consistency that will enha
 | hei5                    | 唏        | shows discontent                   |
 | hng6                    | 哼        | "hmph"                             |
 | ji2                     | 咦        |                                    |
-| naa4                    | 嗱        | "look"; call for attention         |
 | m2, m3, m6              | 嗯        | "hmm"; "um"; "mhmm"                |
+| naa4                    | 嗱        | "look"; call for attention         |
 | o1                      | 喔        |                                    |
 | o2, o3, o4, o5, o6      | 哦        |                                    |
 | oi2, oi3                | 噯        | variant of 喂                       |
 | ou3                     | 噢        |                                    |
 | syu4                    | 𭉝       | "shh"                              |
+| u1                      | 嗚        | "ooo"; sound of interest/wonder     |
 | waa1                    | 哇        | "wah"; sound of crying             |
 | waa3, waa4              | 嘩        | "wow"                              |
 | wai2, wai3              | 喂        |                                    |
-| u1                      | 嗚        | "ooo"; sound of interest/wonder     |
 ### Character Variants
 Where applicable, the Hong Kong variant of characters is chosen.
 
