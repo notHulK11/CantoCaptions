@@ -46,7 +46,9 @@ This .srt subtitle format is chosen because of its wide-ranging compatibility es
 | Written or background info is enclosed in Chinese parentheses.                                                                                              | （三年前）                                   |
 | The titles (of episodes, works, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
 | Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
-| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right quotation characters “”.                                           | 我媽媽話：“唔准去嗰度”                            |
+| Episode titles are enclosed with Chinese square brackets.                                                                                                        | ［戰士］                           |
+| Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                                                        | 【Sub Topic】                           |
+| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                           | 我媽媽話：「唔准去嗰度」                            |
 | A Chinese comma is placed after all SFP, except when followed by 你 without a pause.                                                                         | ❌好啦我明喇。<br>✅好啦，我明喇<br>❌好春廢啊，你<br>✅好春廢啊你 |
 | Multiple speaker dialogue uses two lines and dialogue that begins with a hyphen without a following space.                                                  | -speaker 1<br>-speaker 2                |
 | When a question is followed by the name of who is being addressed then the question mark is used as the separator as opposed to a comma and a question mark | ❌你仲喺度，阿明？<br>✅你仲喺度？阿明                   |
