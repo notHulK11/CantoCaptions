@@ -28,7 +28,7 @@ This section details how the subtitles should look. In general, Traditional char
 
 ### General Guiding Principles
 
-The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the voice actors or actors. Put another way, we want to capture intended, correct speech, and not misspeaks. Furthermore, they do not have to be verbatim in every sense of the word. Grunts, yells, laughter, and miscellaneous expressive noises, should in general be transcribed sparingly and, in some cases, not at all. Such subtitles broadly don't contribute to building understanding of the language. We want to focus on *speech*.
+The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the actors or voice actors. Put another way, we want to capture intended, correct speech, and not misspeaks or agrammatical speech. Furthermore, while the subtitles do aim at comprehensive coverage of what is said, grunts, yells, laughter, and miscellaneous expressive noises should in general be transcribed sparingly and, in some cases, not at all. Such subtitles, broadly speaking, don't contribute to building understanding of the language. To this end, it is recommended to transcribe most interjections only in so far as they are followed by or form part of a longer utterance.
 
 ### Formatting
 - .srt format
