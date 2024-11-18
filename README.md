@@ -22,9 +22,13 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 	- [Character Variants](#Character-Variants)
 	- [Other](#Other)
 
-### Subtitle Style Guide
+## Subtitle Style Guide
 
 This section details how the subtitles should look. In general, Traditional characters are used as opposed to simplified characters, since they can always be converted to the latter with relative ease.
+
+### General Guiding Principles
+
+The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the voice actors or actors. Put another way, we want to capture intended, correct speech, and not misspeaks. Furthermore, they do not have to be verbatim in every sense of the word. Grunts, yells, laughter, and miscellaneous expressive noises, should in general be transcribed sparingly and, in some cases, not at all. Such subtitles broadly don't contribute to building understanding of the language. We want to focus on *speech*.
 
 ### Formatting
 - .srt format
@@ -380,3 +384,8 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 嘍              | 摟              | lau3               |                           |
 | 喼              | gip、篋              | gip1               |                           |
 | 震盪              | 振蕩            | zan3 dong6              |                           |
+| 剁              | 斫、斵            | doek6              |                           |
+| 過份              | 過分            | gwo3 fan6              |                           |
+| 咦咦哦哦              | 咦咦哦哦、咿咿哦哦、依依哦哦 、依依鵝鵝、咦咿𠹷𠹷、咿咿𠹷𠹷            | ji4 ji1 o4 o4, ngi4 ngi1 ngo4 ngo4   |                           |
+| 吟吟沉沉              | 吟吟尋尋            | ngam4 ngam4 cam4 cam4   |                           |
+
