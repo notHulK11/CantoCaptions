@@ -22,9 +22,13 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 	- [Character Variants](#Character-Variants)
 	- [Other](#Other)
 
-### Subtitle Style Guide
+## Subtitle Style Guide
 
 This section details how the subtitles should look. In general, Traditional characters are used as opposed to simplified characters, since they can always be converted to the latter with relative ease.
+
+### General Guiding Principles
+
+The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the actors or voice actors. Put another way, we want to capture intended, correct speech, and not misspeaks or agrammatical speech. Furthermore, while the subtitles do aim at comprehensive coverage of what is said, grunts, yells, laughter, and miscellaneous expressive noises should in general be transcribed sparingly and, in some cases, not at all. Such subtitles, broadly speaking, don't contribute to building understanding of the language. To this end, it is recommended to transcribe most interjections only in so far as they are followed by or form part of a longer utterance.
 
 ### Formatting
 - .srt format
@@ -46,7 +50,9 @@ This .srt subtitle format is chosen because of its wide-ranging compatibility es
 | Written or background info is enclosed in Chinese parentheses.                                                                                              | （三年前）                                   |
 | The titles (of episodes, works, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
 | Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
-| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right quotation characters “”.                                           | 我媽媽話：“唔准去嗰度”                            |
+| Episode titles are enclosed with Chinese square brackets.                                                                                                        | ［戰士］                           |
+| Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                                                        | 【Sub Topic】                           |
+| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                           | 我媽媽話：「唔准去嗰度」                            |
 | A Chinese comma is placed after all SFP, except when followed by 你 without a pause.                                                                         | ❌好啦我明喇。<br>✅好啦，我明喇<br>❌好春廢啊，你<br>✅好春廢啊你 |
 | Multiple speaker dialogue uses two lines and dialogue that begins with a hyphen without a following space.                                                  | -speaker 1<br>-speaker 2                |
 | When a question is followed by the name of who is being addressed then the question mark is used as the separator as opposed to a comma and a question mark | ❌你仲喺度，阿明？<br>✅你仲喺度？阿明                   |
@@ -155,19 +161,21 @@ The aim behind establishing conventions is to promote consistency that will enha
 | hei5                    | 唏        | shows discontent                   |
 | hng6                    | 哼        | "hmph"                             |
 | ji2                     | 咦        |                                    |
+| m2, m3, m6              | 嗯        | "hmm"; "um"; "mhmm"                |
 | naa4                    | 嗱        | "look"; call for attention         |
 | o1                      | 喔        |                                    |
 | o2, o3, o4, o5, o6      | 哦        |                                    |
 | oi2, oi3                | 噯        | variant of 喂                       |
 | ou3                     | 噢        |                                    |
 | syu4                    | 𭉝       | "shh"                              |
+| u1                      | 嗚        | "ooo"; sound of interest/wonder     |
 | waa1                    | 哇        | "wah"; sound of crying             |
 | waa3, waa4              | 嘩        | "wow"                              |
 | wai2, wai3              | 喂        |                                    |
 ### Character Variants
 Where applicable, the Hong Kong variant of characters is chosen.
 
-| Selected Variant | Other Variants | Jyutping |
+| ✅ Selected Variant | ❌ Other Variants | Jyutping |
 | ---------------- | -------------- | -------- |
 | 為                | 爲              | wai4     |
 | 揾                | 搵              | wan2     |
@@ -199,7 +207,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 獎                | 奬              | zoeng2   |
 
 ### Other
-| Selected Variant | Other Variants | Jyutping                       | Explanation               |
+| ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
 | 攰                | 癐              | gui6                           |                           |
@@ -249,7 +257,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 老土               | 老套             | lou5 tou2                      |                           |
 | 瀨屎、瀨尿            | 賴屎、賴尿          | laai6 si2, laai6 niu6          |                           |
 | 鍛鍊               | 鍛煉             | dyun3 lin6                     |                           |
-| 鬭                | 鬥              | dau3                           | 對打；分勝負                    |
+| 鬥                | 鬭              | dau3                           | 對打；分勝負                    |
 | 鬥                | 鬭              | dau3                           | 花工夫去整一樣嘢                  |
 | 抖                | 鬥              | dau3                           | 摸；掂                       |
 | 唞                | 抖              | tau2                           | 休息；歇息                     |
@@ -373,3 +381,11 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 韞                | 困              | wan3                           | 局限喺一個地方之內，唔出嚟             |
 | 係咁歹              | 係咁大            | hai6 gam3 daai2                |                           |
 | urk              | 嗝              | oet4, oet6, oek4               |                           |
+| 嘍              | 摟              | lau3               |                           |
+| 喼              | gip、篋              | gip1               |                           |
+| 震盪              | 振蕩            | zan3 dong6              |                           |
+| 剁              | 斫、斵            | doek6              |                           |
+| 過份              | 過分            | gwo3 fan6              |                           |
+| 咦咦哦哦              | 咦咦哦哦、咿咿哦哦、依依哦哦 、依依鵝鵝、咦咿𠹷𠹷、咿咿𠹷𠹷            | ji4 ji1 o4 o4, ngi4 ngi1 ngo4 ngo4   |                           |
+| 吟吟沉沉              | 吟吟尋尋            | ngam4 ngam4 cam4 cam4   |                           |
+
