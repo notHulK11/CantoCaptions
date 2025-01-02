@@ -37,11 +37,12 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 This .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-- lines should show on screen slightly before the speech (roughly 10-30ms)
-- lines should trail the subtitles slightly assuming no screen change (roughly 30-60ms)
-- lines that end during a scene change, should be synced with the scene change
-- the minimum line duration is 750ms
-	- this can be even shorter in the case of lines consisting of 2 characters or less
+- lines can appear 0-30ms before the start of the speech
+- lines can slightly trail speech 0-60ms after the end of the speech
+- lines that end within roughly 20ms of a scene change, should be synced with the scene change
+- lines with a length of 3 characters or more need a minimum duration of 750ms
+	- this can be shorter in the case of a scene change or based on other factors such as lots of speech or interrupted speech
+- lines with a length of 2 or less characters don't have to follow that minimum
 
 ### Punctuation
 
@@ -50,11 +51,11 @@ This .srt subtitle format is chosen because of its wide-ranging compatibility es
 | Written or background info is enclosed in Chinese parentheses.                                                                                              | （三年前）                                   |
 | The titles (of episodes, works, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
 | Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
-| Episode titles are enclosed with Chinese square brackets.                                                                                                        | ［戰士］                           |
-| Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                                                        | 【Sub Topic】                           |
-| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                           | 我媽媽話：「唔准去嗰度」                            |
+| Episode titles are enclosed with Chinese square brackets.                                                                                                   | ［戰士］                                    |
+| Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                      | 【Sub Topic】                             |
 | A Chinese comma is placed after all SFP, except when followed by 你 without a pause.                                                                         | ❌好啦我明喇。<br>✅好啦，我明喇<br>❌好春廢啊，你<br>✅好春廢啊你 |
 | Multiple speaker dialogue uses two lines and dialogue that begins with a hyphen without a following space.                                                  | -speaker 1<br>-speaker 2                |
+| Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                      | 我媽媽話：「唔准去嗰度」                            |
 | When a question is followed by the name of who is being addressed then the question mark is used as the separator as opposed to a comma and a question mark | ❌你仲喺度，阿明？<br>✅你仲喺度？阿明                   |
 | Only 1 Chinese ellipsis character is used (never 2 as in ……).                                                                                               | ❌……<br>✅…                               |
 | When an utterance is repeated, transcribe only 1 instance with a trailing Chinese ellipsis character.                                                       | ❌ 喂喂喂<br>✅ 喂…                           |
@@ -67,14 +68,14 @@ This .srt subtitle format is chosen because of its wide-ranging compatibility es
 | Italics are never used.                                                                                                                                     |                                         |
 
 ### Untranscribed Speech
-In general, these subtitles are a learning resource. The goal is not to transcribe verbatim all utterances in their entirety. The goal is have a complete subtitle that contains information useful to the learner. We do not want to include very minor, nearly non-audible speech. SFP are transcribed as accurately as possible to benefit the learner.
+In general, these subtitles are a learning resource. The goal is not to transcribe verbatim all utterances in their entirety. The goal is have a complete subtitle that contains information useful to the learner. We do not want to include very minor, incidental speech/sounds, or unintentionally incorrect speech. Sentence Final Particles are transcribed as accurately as possible to benefit the learner.
 
-| Speech                                                                                                                                                                         | Example                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| The e3/oe3 and other brief "uh" sounds are not transcribed.                                                                                                                    | ❌e3，其實呢 <br>✅其實呢<br>❌我哋可以做到e3~~ <br>✅我哋可以做到 |
-| The Chinese exclamation point is used sparingly in the case of exceptionally loud/declarative yells or for emphasis among quieter speech, such as when calling someone's name. |                                             |
-| Miscellaneous grunts, yells, screams, and the like are not transcribed.                                                                                                        |                                             |
-| Ah, oh, hmm, huh, mhmm and other acknowledgement noises are transcribed sparingly and only in the case that they form part of other utterances.                                | ❌吓？<br>✅吓，你講咩啊？                             |
+| Speech                                                                                                                                                                                                                                                                          | Example         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Brief "uh" sounds in the middle of speech are not transcribed.                                                                                                                                                                                                                  |                 |
+| The Chinese exclamation point is used sparingly. For example, for exceptionally loud/declarative yells or for emphasis among quieter speech, such as when calling someone's name. Even if a character is yelling, it's discouraged to end every line with an exclamation point. |                 |
+| Miscellaneous grunts, yells, screams, and the like are not transcribed.                                                                                                                                                                                                         |                 |
+| Ah, oh, hmm, huh, mhmm and other acknowledgement noises are transcribed sparingly and primarily in the case that they form part of other utterances.                                                                                                                            | ❌吓？<br>✅吓？你講咩啊？ |
 
 
 ## Character Conventions
@@ -82,7 +83,7 @@ The aim behind establishing conventions is to promote consistency that will enha
 
 
 > [!NOTE]
-> There are also some subtitles that don't have respective audio follow the given conventions.
+> The conventions have been evolving over time and many of the existing subtitles have not been updated in accordance with the latest standards.
 
 
 ### Sentence Final Particles｜句尾助詞
@@ -137,7 +138,7 @@ The aim behind establishing conventions is to promote consistency that will enha
 | ----------- | -------- | --------------------- |
 | aa3         | 阿        | **阿**爸、**阿**伯、**阿**明  |
 | can1        | 親        | **親**隻腳、跌**親**        |
-| dei2        | 哋        | 嘛嘛**哋**、悶悶**哋**       |
+| dei2        | 地        | 嘛嘛**地**、悶悶**地**       |
 | di1         | 啲        | 細**啲**、靚**啲**         |
 | dou2        | 到        | 見**到**、做唔**到**        |
 | faan1       | 返        | 好**返**、畀**返**你        |
@@ -213,7 +214,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 攰                | 癐              | gui6                           |                           |
 | 郁                | 喐              | juk1                           |                           |
 | 枝                | 支              | zi1                            | 指植物或木嘅嘢                   |
-| 痴線               | 黐線、黐綫、癡線、痴綫    | ci1 sin3                       |                           |
 | 唔單止              | 唔單只            | m4 daan1 zi2                   |                           |
 | 唔止               | 唔只             | m4 zi2                         |                           |
 | 搞                | 攪              | gaau2                          | 指「做」                      |
@@ -225,28 +225,15 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 呢個               | 依個             | ni1 go3                        |                           |
 | 依個               | 𠵱個            | ji1 go3                        |                           |
 | 傾偈               | 傾計             | king1 gai2                     |                           |
-| 𠹻               | 陣、浸、朕          | zam6                           | 係量詞                       |
-| 响                | 響              | hoeng2                         | 指「喺」                      |
-| 咪使旨意             | 咪使指意           | mai5 sai2 zi2 ji3              |                           |
-| 唔使旨意             | 唔使指意           | m4 sai2 zi2 ji3                |                           |
 | 抌                | 丼、揼            | dam2                           |                           |
 | 𢱕               | 溚、揼            | dap6                           |                           |
-| 揼                | 耽              | dam1, dam3, dam6                 |                           |
+| 揼                | 耽              | dam1, dam3, dam6               |                           |
 | 刻劃               | 刻畫             | waak6 waa2                     |                           |
-| 蕩失路              | 盪失路            | dong6 sat1 lou6                |                           |
-| 惡夢               | 噩夢             | ok3 mung6                      |                           |
 | 着                | 著              | zoek3, zoek6                   |                           |
 | 著                | 着              | zyu3                           |                           |
 | 兇                | 凶              | hung1                          | 兇猛、兇手、兇某人                 |
 | 凶                | 凶兆             | hung1                          | 泛指一啲不祥嘅嘢                  |
-| 手鏈               | 手鍊             | sau2 lin2                      |                           |
-| 頸鏈               | 頸鍊             | geng2 lin2                     |                           |
 | 證                | 証              | zing3                          |                           |
-| 台                | 臺              | toi4                           |                           |
-| 燒燬               | 燒毀             | siu1 wai2                      |                           |
-| 焚燬               | 焚毀             | fan4 wai2                      |                           |
-| 託                | 托              | tok3                           | 單字                        |
-| 怕醜               | 怕羞             | paa3 cau2                      |                           |
 | 㧻                | 篤、督、厾          | duk1                           | 係動詞，指「刺」、「戳」              |
 | 涿                | 篤              | duk1                           | 係量詞，指「一涿屎」或「一涿尿」          |
 | 督                | 篤              | duk1                           | 用於「監督」、「都督」等              |
@@ -254,11 +241,8 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 㞘                | 𡰪             | duk1                           | 指最尾或末端，例如「行到㞘」            |
 | 邊                | 便              | bin1, bin6                     | 用於「邊度」、「入邊」               |
 | 弊喇               | 𡃇喇            | bai6 laa3                      |                           |
-| 老土               | 老套             | lou5 tou2                      |                           |
 | 瀨屎、瀨尿            | 賴屎、賴尿          | laai6 si2, laai6 niu6          |                           |
-| 鍛鍊               | 鍛煉             | dyun3 lin6                     |                           |
-| 鬥                | 鬭              | dau3                           | 對打；分勝負                    |
-| 鬥                | 鬭              | dau3                           | 花工夫去整一樣嘢                  |
+| 鬥                | 鬭              | dau3                           | 對打；分勝負；花工夫去整一樣嘢           |
 | 抖                | 鬥              | dau3                           | 摸；掂                       |
 | 唞                | 抖              | tau2                           | 休息；歇息                     |
 | 走夾唔唞             | 走夾唔抖           | zau2 gaap3 m4 tau2             |                           |
@@ -269,7 +253,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 唞暑               | 抖暑             | tau2 syu2                      |                           |
 | 唞氣               | 抖氣             | tau2 hei3                      |                           |
 | 唞大氣              | 抖大氣            | tau2 daai6 hei3                |                           |
-| 抬                | 擡              | toi4                           |                           |
 | 大髀               | 大脾             | daai6 bei2                     |                           |
 | 渣                | 鮓、謯、苴          | zaa2                           |                           |
 | 撳                | 㩒              | gam6                           |                           |
@@ -279,11 +262,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 𡃴               | 除              | ceoi4                          | 臭味                        |
 | 度過               | 渡過             | dou6 gwo3                      |                           |
 | 保佑               | 保祐             | bou2 jau6                      |                           |
-| 盡                | 儘              | zeon6                          |                           |
-| 蠢材               | 蠢才             | ceon2 coi4                     |                           |
-| 尋                | 噚晚、噚日          | cam4                           |                           |
-| 琴                | 噖晚、噖日、禽日       | kam4                           |                           |
-| 乞兒               | 乞衣             | hat1 ji1, hat ji5              |                           |
 | 不嬲               | 不溜、不留          | bat1 lau1, bat1 lau2           | 一直                        |
 | 𢫏               | 冚              | kam2                           | 遮住                        |
 | 扻                | 冚              | kam2                           | 掌摑                        |
@@ -297,7 +275,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 忟憎               | 𤷪𤺧、䒐䒏        | mang2 zang2                    |                           |
 | 老細               | 老世             | lou5 sai3                      |                           |
 | 鴻福齊天             | 洪福齊天           | hung4 fuk1 cai4 tin1           |                           |
-| 啤啤               | BB             | bi4 bi1                        |                           |
+| BB               | 啤啤             | bi4 bi1                        |                           |
 | 秘笈               | 祕笈             | bei3 kap1                      |                           |
 | 秘密               | 祕笈             | bei3 mat6                      |                           |
 | 跣                | 𨃩             | sin3                           |                           |
@@ -307,7 +285,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 搦                | 攊              | nik1                           |                           |
 | 人才               | 人材             | jan4 coi4                      |                           |
 | 𨈇               | 𨂾、揇、檻         | laam3                          |                           |
-| 炮                | 砲              | paau3                          |                           |
 | 係噉意              | 係噉咦            | hai6 gam2 ji2                  |                           |
 | 吽哣               | 吽竇、吽逗          | ngau6 dau6                     |                           |
 | 發吽哣              | 發吽逗、發吽竇        | faat3 ngau6 dau6               |                           |
@@ -318,10 +295,8 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 卡                | car, carat, 黐住 | kaat1                          |                           |
 | 朦                | 矇、蒙            | mung4                          | 朦朧；模糊                     |
 | 賜予               | 賜與             | ci3 jyu5                       |                           |
-| 抰                | 揚              | joeng2                         |                           |
+| 抰                | 揚              | joeng2                         | 揮動一件軟軟地嘅物件                |
 | 揚                |                | joeng4                         | 傳揚；張揚                     |
-| 咀咒               |                | zeoi2 zau3                     |                           |
-| 詛咒               | 咀咒             | zo3 zau3                       |                           |
 | 哽                | 啃、鯁、骾          | kang2                          | 夾硬吞落喉嚨；有啲嘢食卡咗喺喉嚨          |
 | 𬒔               | 哽              | ang2                           | 一啲突起嘅嘢頂住，令人唔舒服或痛          |
 | 樖                | 棵              | po1                            | 植物嘅量詞                     |
@@ -331,8 +306,8 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 籮柚               | 囉柚             | lo1 jau2                       |                           |
 | 㓟                | 批、𠜱           | pai1                           | 1. 刀法 2. 削走啲嘢             |
 | 唯有               | 惟有             | wai4 jau5                      |                           |
-| 惜                | 錫              | sek3                           | 愛、關心、緊張                   |
-| 錫                |                | sek3, sek6                     | 1. 用嘴唇掂另一個人嘅身體 2. 一種金     |
+| 惜                | 錫              | sek3                           | 1. 愛、關心、緊張 2. 用嘴唇掂另一個人嘅身體 |
+| 錫                |                | sek6                           | 一種金                       |
 | 冧                | 㨆              | lam1                           | 1. 甜蜜、氹人 2. 花植物嘅一部分 3. 冧歌 |
 | 㨆                | 冧              | lam3, lam6                     | 1. 跌倒 2. 堆起 3. 連續         |
 | 嘺                | 橋、蹺、巧          | kiu2                           | 表示咁啱                      |
@@ -342,19 +317,15 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 淝                | fea、啡、fe       | fe4                            |                           |
 | 蜑家               | 疍家             | daan6 gaa1                     |                           |
 | 冚家剷              | 冚家鏟            | ham6 gaa1 caan2                |                           |
-| 架撐               | 架生             | gaa3 caang1, gaa3 saang1       |                           |
 | 林沈               | 淋糝、林審          | lam4 sam2                      |                           |
 | 蕃茄               | 番茄             | faan1 ke2                      |                           |
 | 拮                | 㓤              | gat1                           | 用尖而幼細嘅嘢插入                 |
 | 詐諦               | 詐帝             | zaa3 dai3                      |                           |
 | 咖哩雞              | 咖喱雞            | gaa3 lei1 gai1                 |                           |
-| 𦧲               | lur            | loe1*2                         |                           |
+| lur              | 𦧲             | loe1*2                         |                           |
 | 搞喎               | 搞涴、搞腡          | gaau2 wo5                      | 整壞                        |
 | 掹                | 擝              | mang1                          |                           |
 | 得戚               | 得敕             | dak1 cik1                      |                           |
-| 的骰               | 的式、菂薂          | dik1 sik1                      |                           |
-| 溶溶爛爛             | 茸茸爛爛、 蓉蓉爛爛     | jung4 jung4 laan6 laan6        |                           |
-| 爛溶溶              | 爛茸茸、爛蓉蓉        | laan6 jung4 jung4              |                           |
 | 拈                | lim、令、捻        | lim1                           | 紙嘅單位，通常指500張              |
 | 捻                | 掐              | nin2                           | 雙手或者多隻手指夾住一嚿嘢             |
 | 吼住               | 睺住、喉住          | hau1 zyu6, hau4 zyu6           | 望住                        |
@@ -370,7 +341,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 㨃                | 隊              | deoi2                          | 1. 捅 2. 短時間內攝取好多嘢         |
 | 乞嗤               | 乞嚏             | hat1 ci1                       |                           |
 | 盟塞               | 盲塞、萌塞          | mang4 sik1, mang4 sak1         |                           |
-| 哈佬               | hello          | haa1 lou2, haa1 lou3           |                           |
 | 𠝹刀              | 鎅刀             | gaai3 dou1                     |                           |
 | 軟腍腍              | 軟淋淋            | jyun5 nam4 nam4                |                           |
 | 倔頭路              | 掘頭路            | gwat6 tau4 lou6                |                           |
@@ -382,10 +352,8 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 係咁歹              | 係咁大            | hai6 gam3 daai2                |                           |
 | urk              | 嗝              | oet4, oet6, oek4               |                           |
 | 嘍              | 摟              | lau3               |                           |
-| 喼              | gip、篋              | gip1               |                           |
-| 震盪              | 振蕩            | zan3 dong6              |                           |
+| 篋              | gip、喼              | gip1               |                           |
 | 剁              | 斫、斵            | doek6              |                           |
 | 過份              | 過分            | gwo3 fan6              |                           |
 | 咦咦哦哦              | 咦咦哦哦、咿咿哦哦、依依哦哦 、依依鵝鵝、咦咿𠹷𠹷、咿咿𠹷𠹷            | ji4 ji1 o4 o4, ngi4 ngi1 ngo4 ngo4   |                           |
 | 吟吟沉沉              | 吟吟尋尋            | ngam4 ngam4 cam4 cam4   |                           |
-
