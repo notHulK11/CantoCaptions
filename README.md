@@ -38,11 +38,11 @@ This .srt subtitle format is chosen because of its wide-ranging compatibility es
 
 ### Timing
 - lines can appear 0-30ms before the start of the speech
-- lines can slightly trail speech 0-60ms after the end of the speech
-- lines that end within roughly 20ms of a scene change, should be synced with the scene change
+- lines can slightly trail speech (~0-60ms) after the end of the speech
+- lines that end within roughly ~20ms of a scene change should be synced with the scene change
 - lines with a length of 3 characters or more need a minimum duration of 750ms
 	- this can be shorter in the case of a scene change or based on other factors such as lots of speech or interrupted speech
-- lines with a length of 2 or less characters don't have to follow that minimum
+- lines with a length of 2 or fewer characters don't have to follow that minimum
 
 ### Punctuation
 
