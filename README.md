@@ -299,7 +299,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 揚                |                | joeng4                         | 傳揚；張揚                     |
 | 哽                | 啃、鯁、骾          | kang2                          | 夾硬吞落喉嚨；有啲嘢食卡咗喺喉嚨          |
 | 𬒔               | 哽              | ang2                           | 一啲突起嘅嘢頂住，令人唔舒服或痛          |
-| 樖                | 棵              | po1                            | 植物嘅量詞                     |
 | 濕𣲷𣲷            | 濕立立            | sap1 nap6 nap6                 |                           |
 | 嗱嗱聲              | 拿拿聲、啦啦聲        | laa4 laa2 seng1                |                           |
 | 倔                | 掘              | gwat6                          | 執著；鈍                      |
