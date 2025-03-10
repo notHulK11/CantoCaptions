@@ -343,7 +343,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 𠝹刀              | 鎅刀             | gaai3 dou1                     |                           |
 | 軟腍腍              | 軟淋淋            | jyun5 nam4 nam4                |                           |
 | 倔頭路              | 掘頭路            | gwat6 tau4 lou6                |                           |
-| 週圍               | 周圍             | zau1 wai4                      |                           |
 | 吟沉               | 吟噆、唅沈          | ngam4 cam4                     |                           |
 | 𣲷懦              | 𥹉懦            | nap6 no6                       |                           |
 | 䁓                | 裝、𥅾、𥊙        | zong1                          | 偷窺                        |
