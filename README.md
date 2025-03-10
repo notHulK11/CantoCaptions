@@ -321,7 +321,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 拮                | 㓤              | gat1                           | 用尖而幼細嘅嘢插入                 |
 | 詐諦               | 詐帝             | zaa3 dai3                      |                           |
 | 咖哩雞              | 咖喱雞            | gaa3 lei1 gai1                 |                           |
-| lur              | 𦧲             | loe1*2                         |                           |
+| 𦧲              | lur             | loe1*2                         |                           |
 | 搞喎               | 搞涴、搞腡          | gaau2 wo5                      | 整壞                        |
 | 掹                | 擝              | mang1                          |                           |
 | 得戚               | 得敕             | dak1 cik1                      |                           |
