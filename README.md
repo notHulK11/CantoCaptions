@@ -299,7 +299,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 揚                |                | joeng4                         | 傳揚；張揚                     |
 | 哽                | 啃、鯁、骾          | kang2                          | 夾硬吞落喉嚨；有啲嘢食卡咗喺喉嚨          |
 | 𬒔               | 哽              | ang2                           | 一啲突起嘅嘢頂住，令人唔舒服或痛          |
-| 樖                | 棵              | po1                            | 植物嘅量詞                     |
 | 濕𣲷𣲷            | 濕立立            | sap1 nap6 nap6                 |                           |
 | 嗱嗱聲              | 拿拿聲、啦啦聲        | laa4 laa2 seng1                |                           |
 | 倔                | 掘              | gwat6                          | 執著；鈍                      |
@@ -311,27 +310,19 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 冧                | 㨆              | lam1                           | 1. 甜蜜、氹人 2. 花植物嘅一部分 3. 冧歌 |
 | 㨆                | 冧              | lam3, lam6                     | 1. 跌倒 2. 堆起 3. 連續         |
 | 嘺                | 橋、蹺、巧          | kiu2                           | 表示咁啱                      |
-| 得閒               | 得閑             | dak1 haan4                     |                           |
-| 論盡               | 吝盡             | leon6 zeon6                    |                           |
 | 騎呢怪              | 奇離怪            | ke4 le4 gwaai3, ke4 le4 gwaai2 |                           |
 | 淝                | fea、啡、fe       | fe4                            |                           |
-| 蜑家               | 疍家             | daan6 gaa1                     |                           |
-| 冚家剷              | 冚家鏟            | ham6 gaa1 caan2                |                           |
 | 林沈               | 淋糝、林審          | lam4 sam2                      |                           |
 | 蕃茄               | 番茄             | faan1 ke2                      |                           |
 | 拮                | 㓤              | gat1                           | 用尖而幼細嘅嘢插入                 |
-| 詐諦               | 詐帝             | zaa3 dai3                      |                           |
 | 咖哩雞              | 咖喱雞            | gaa3 lei1 gai1                 |                           |
-| lur              | 𦧲             | loe1*2                         |                           |
-| 搞喎               | 搞涴、搞腡          | gaau2 wo5                      | 整壞                        |
+| 𦧲              | lur             | loe1*2                         |                           |
 | 掹                | 擝              | mang1                          |                           |
-| 得戚               | 得敕             | dak1 cik1                      |                           |
 | 拈                | lim、令、捻        | lim1                           | 紙嘅單位，通常指500張              |
 | 捻                | 掐              | nin2                           | 雙手或者多隻手指夾住一嚿嘢             |
 | 吼住               | 睺住、喉住          | hau1 zyu6, hau4 zyu6           | 望住                        |
 | 飆                | 標              | biu1                           |                           |
 | 故仔、故事            | 古仔、古事          | gu3 zai2, gu3 si6              |                           |
-| 盲中中              | 盲舂舂、盲樁樁        | maang4 zung1 zung1             |                           |
 | 囈                | 𠼮、誽、𠱓        | ngai1, ai1                     | 央求                        |
 | 氹                | 𠱁、𧨾          | tam3                           | 1. 令人開心 2. 哄騙             |
 | 凼                | 氹              | tam5                           | 1. 水喺凹陷地方 2. 陷阱           |
@@ -339,13 +330,10 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 席                |                | zik6                           |                           |
 | 𥄫               | gup            | gap6                           | 1. 偷窺 2. 凝視               |
 | 㨃                | 隊              | deoi2                          | 1. 捅 2. 短時間內攝取好多嘢         |
-| 乞嗤               | 乞嚏             | hat1 ci1                       |                           |
 | 盟塞               | 盲塞、萌塞          | mang4 sik1, mang4 sak1         |                           |
 | 𠝹刀              | 鎅刀             | gaai3 dou1                     |                           |
 | 軟腍腍              | 軟淋淋            | jyun5 nam4 nam4                |                           |
 | 倔頭路              | 掘頭路            | gwat6 tau4 lou6                |                           |
-| 週圍               | 周圍             | zau1 wai4                      |                           |
-| 吟沉               | 吟噆、唅沈          | ngam4 cam4                     |                           |
 | 𣲷懦              | 𥹉懦            | nap6 no6                       |                           |
 | 䁓                | 裝、𥅾、𥊙        | zong1                          | 偷窺                        |
 | 韞                | 困              | wan3                           | 局限喺一個地方之內，唔出嚟             |
@@ -355,5 +343,3 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 篋              | gip、喼              | gip1               |                           |
 | 剁              | 斫、斵            | doek6              |                           |
 | 過份              | 過分            | gwo3 fan6              |                           |
-| 咦咦哦哦              | 咦咦哦哦、咿咿哦哦、依依哦哦 、依依鵝鵝、咦咿𠹷𠹷、咿咿𠹷𠹷            | ji4 ji1 o4 o4, ngi4 ngi1 ngo4 ngo4   |                           |
-| 吟吟沉沉              | 吟吟尋尋            | ngam4 ngam4 cam4 cam4   |                           |
