@@ -228,7 +228,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 抌                | 丼、揼            | dam2                           |                           |
 | 𢱕               | 溚、揼            | dap6                           |                           |
 | 揼                | 耽              | dam1, dam3, dam6               |                           |
-| 刻劃               | 刻畫             | waak6 waa2                     |                           |
 | 着                | 著              | zoek3, zoek6                   |                           |
 | 著                | 着              | zyu3                           |                           |
 | 兇                | 凶              | hung1                          | 兇猛、兇手、兇某人                 |
@@ -242,7 +241,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 邊                | 便              | bin1, bin6                     | 用於「邊度」、「入邊」               |
 | 弊喇               | 𡃇喇            | bai6 laa3                      |                           |
 | 瀨屎、瀨尿            | 賴屎、賴尿          | laai6 si2, laai6 niu6          |                           |
-| 鬥                | 鬭              | dau3                           | 對打；分勝負；花工夫去整一樣嘢           |
+| 鬥                | 鬭              | dau3                           | 1. 對打 2. 分勝負 3. 花工夫去整一樣嘢           |
 | 抖                | 鬥              | dau3                           | 摸；掂                       |
 | 唞                | 抖              | tau2                           | 休息；歇息                     |
 | 走夾唔唞             | 走夾唔抖           | zau2 gaap3 m4 tau2             |                           |
@@ -253,7 +252,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 唞暑               | 抖暑             | tau2 syu2                      |                           |
 | 唞氣               | 抖氣             | tau2 hei3                      |                           |
 | 唞大氣              | 抖大氣            | tau2 daai6 hei3                |                           |
-| 大髀               | 大脾             | daai6 bei2                     |                           |
 | 渣                | 鮓、謯、苴          | zaa2                           |                           |
 | 撳                | 㩒              | gam6                           |                           |
 | 拗                | 詏              | aau3                           | 同人爭執                      |
@@ -270,20 +268,10 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 冚                |                | ham6                           | 全部; 接口閂得實                 |
 | 撼                | 冚              | ham6                           | 引起強烈感受                    |
 | 爹哋               | 爹地、爹啲          | de1 di4                        |                           |
-| 老豆               | 老竇             | lou5 dau2                      |                           |
-| 沾污               | 玷污             | zim1 wu3, dim1 wu3, dim3 wu3   |                           |
-| 忟憎               | 𤷪𤺧、䒐䒏        | mang2 zang2                    |                           |
-| 老細               | 老世             | lou5 sai3                      |                           |
-| 鴻福齊天             | 洪福齊天           | hung4 fuk1 cai4 tin1           |                           |
 | BB               | 啤啤             | bi4 bi1                        |                           |
-| 秘笈               | 祕笈             | bei3 kap1                      |                           |
-| 秘密               | 祕笈             | bei3 mat6                      |                           |
-| 跣                | 𨃩             | sin3                           |                           |
 | 錔                | 搭、塔            | taap3                          | 用手銬；鎖                     |
 | 𠹷               | 哦              | ngo4                           | 好煩噉樣批評或者抱怨                |
 | 髹                | 油              | jau4                           | 用油漆或顏料填上顏色、覆蓋表面           |
-| 搦                | 攊              | nik1                           |                           |
-| 人才               | 人材             | jan4 coi4                      |                           |
 | 𨈇               | 𨂾、揇、檻         | laam3                          |                           |
 | 係噉意              | 係噉咦            | hai6 gam2 ji2                  |                           |
 | 吽哣               | 吽竇、吽逗          | ngau6 dau6                     |                           |
@@ -291,6 +279,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 讕                | 懶              | laan2                          | 扮做；自命                     |
 | 莫名其妙             | 莫明其妙           | mok6 ming4 kei4 miu6           |                           |
 | 大部份              | 大部分            | daai6 bou6 fan6                |                           |
+| 過份              | 過分            | gwo3 fan6              |                           |
 | 咭                | 卡              | kaat1                          | 例如：信用卡                    |
 | 卡                | car, carat, 黐住 | kaat1                          |                           |
 | 朦                | 矇、蒙            | mung4                          | 朦朧；模糊                     |
@@ -331,7 +320,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 𥄫               | gup            | gap6                           | 1. 偷窺 2. 凝視               |
 | 㨃                | 隊              | deoi2                          | 1. 捅 2. 短時間內攝取好多嘢         |
 | 盟塞               | 盲塞、萌塞          | mang4 sik1, mang4 sak1         |                           |
-| 𠝹刀              | 鎅刀             | gaai3 dou1                     |                           |
 | 軟腍腍              | 軟淋淋            | jyun5 nam4 nam4                |                           |
 | 倔頭路              | 掘頭路            | gwat6 tau4 lou6                |                           |
 | 𣲷懦              | 𥹉懦            | nap6 no6                       |                           |
@@ -342,4 +330,3 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 嘍              | 摟              | lau3               |                           |
 | 篋              | gip、喼              | gip1               |                           |
 | 剁              | 斫、斵            | doek6              |                           |
-| 過份              | 過分            | gwo3 fan6              |                           |
