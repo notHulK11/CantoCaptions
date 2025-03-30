@@ -112,7 +112,7 @@ The aim behind establishing conventions is to promote consistency that will enha
 | tim               | 𠻹    |       |       |       |       |       |
 | waa               |       |       |       |       | 哇     |       |
 | wo                |       |       | 喎     | 啝     | 𡁜    |       |
-| zaa               | 吒     |       | 咋     | 喳     | 𠾵    |       |
+| zaa               | 吒     |       | 咋     | 喳     | 𠾵    |  咤   |
 | ze                | 啫     |       |       |       |       |       |
 | zek               | 唧     |       |       |       |       |       |
 
