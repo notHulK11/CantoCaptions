@@ -213,16 +213,16 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
+| 搞                | 攪              | gaau2                          | 指「做」                   |
+| 打搞晒            | 打攪晒            | daa2 gaau2 saai3               |                           |
 | 攰                | 癐              | gui6                           |                           |
 | 郁                | 喐              | juk1                           |                           |
-| 枝                | 支              | zi1                            | 指植物或木嘅嘢                   |
-| 唔單止              | 唔單只            | m4 daan1 zi2                   |                           |
+| 𦧷                | 舔、lem         | lem2                           | 用條脷輕輕力掃             |
+| 唔單止             | 唔單只            | m4 daan1 zi2                   |                           |
 | 唔止               | 唔只             | m4 zi2                         |                           |
-| 搞                | 攪              | gaau2                          | 指「做」                      |
-| 打搞晒              | 打攪晒            | daa2 gaau2 saai3               |                           |
 | 而家               | 宜家             | ji4 gaa1                       |                           |
 | 唔使               | 唔駛             | m4 sai2                        |                           |
-| 即係               | 姐係、啫係、唧係       | zik1 hai6                      |                           |
+| 即係               | 姐係、啫係、唧係    | zik1 hai6                      |                           |
 | 淨係               | 剩係             | zing6 hai6                     |                           |
 | 呢個               | 依個             | ni1 go3                        |                           |
 | 依個               | 𠵱個            | ji1 go3                        |                           |
@@ -260,6 +260,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 好嘢               | 好耶             | hou2 je5                       |                           |
 | 𢯎               | R、摳、撓、𢲷       | ngaau1                         |                           |
 | 𡃴               | 除              | ceoi4                          | 臭味                        |
+| 枝                | 支              | zi1                            | 指植物或木嘅嘢                 |
 | 度過               | 渡過             | dou6 gwo3                      |                           |
 | 保佑               | 保祐             | bou2 jau6                      |                           |
 | 不嬲               | 不溜、不留          | bat1 lau1, bat1 lau2           | 一直                        |
