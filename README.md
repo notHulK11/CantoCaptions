@@ -157,6 +157,7 @@ In the interest of clarity, the contraction aa6 maa5 into maa5 should be written
 | ----------------------- | -------- | ---------------------------------- |
 | aai1, aai2              | 唉        |                                    |
 | ai1 jaa3/5/6, ai1 jaak3 | 哎吔       |                                    |
+| ai1 jo3                 | 哎喲       |                                    |
 | ce1                     | 唓        | "tsk"                              |
 | e2, ei2                 | 欸        |                                    |
 | e4, e6                  | 誒        | "uh"                               |
