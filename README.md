@@ -214,8 +214,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
-| 搞                | 攪              | gaau2                          | 指「做」                   |
-| 打搞晒            | 打攪晒            | daa2 gaau2 saai3               |                           |
+| 搞                | 攪              | gaau2                          | 指「做」；打搞晒             |
 | 攰                | 癐              | gui6                           |                           |
 | 郁                | 喐              | juk1                           |                           |
 | 𦧷                | 舔、lem         | lem2                           | 用條脷輕輕力掃             |
@@ -246,24 +245,13 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 瀨屎、瀨尿            | 賴屎、賴尿          | laai6 si2, laai6 niu6          |                           |
 | 鬥                | 鬭              | dau3                           | 1. 對打 2. 分勝負 3. 花工夫去整一樣嘢           |
 | 抖                | 鬥              | dau3                           | 摸；掂                       |
-| 唞                | 抖              | tau2                           | 休息；歇息                     |
-| 走夾唔唞             | 走夾唔抖           | zau2 gaap3 m4 tau2             |                           |
-| 早唞               | 早抖             | zou2 tau2                      |                           |
-| 攤唞               | 攤抖             | taan1 tau2                     |                           |
-| 有氣冇碇唞            | 有氣冇碇抖          | jau5 hei3 mou5 deng6 tau2      |                           |
-| 唞涼               | 抖涼             | tau2 loeng4                    |                           |
-| 唞暑               | 抖暑             | tau2 syu2                      |                           |
-| 唞氣               | 抖氣             | tau2 hei3                      |                           |
-| 唞大氣              | 抖大氣            | tau2 daai6 hei3                |                           |
+| 唞                | 抖              | tau2                           | 休息；歇息（早唞、等等）          |
 | 渣                | 鮓、謯、苴          | zaa2                           |                           |
 | 撳                | 㩒              | gam6                           |                           |
-| 拗                | 詏              | aau3                           | 同人爭執                      |
 | 好嘢               | 好耶             | hou2 je5                       |                           |
 | 𢯎               | R、摳、撓、𢲷       | ngaau1                         |                           |
 | 𡃴               | 除              | ceoi4                          | 臭味                        |
 | 枝                | 支              | zi1                            | 指植物或木嘅嘢                 |
-| 度過               | 渡過             | dou6 gwo3                      |                           |
-| 保佑               | 保祐             | bou2 jau6                      |                           |
 | 不嬲               | 不溜、不留          | bat1 lau1, bat1 lau2           | 一直                        |
 | 𢫏               | 冚              | kam2                           | 遮住                        |
 | 扻                | 冚              | kam2                           | 掌摑                        |
@@ -277,11 +265,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 𠹷               | 哦              | ngo4                           | 好煩噉樣批評或者抱怨                |
 | 髹                | 油              | jau4                           | 用油漆或顏料填上顏色、覆蓋表面           |
 | 𨈇               | 𨂾、揇、檻         | laam3                          |                           |
-| 係噉意              | 係噉咦            | hai6 gam2 ji2                  |                           |
-| 吽哣               | 吽竇、吽逗          | ngau6 dau6                     |                           |
-| 發吽哣              | 發吽逗、發吽竇        | faat3 ngau6 dau6               |                           |
 | 讕                | 懶              | laan2                          | 扮做；自命                     |
-| 莫名其妙             | 莫明其妙           | mok6 ming4 kei4 miu6           |                           |
 | 大部份              | 大部分            | daai6 bou6 fan6                |                           |
 | 過份              | 過分            | gwo3 fan6              |                           |
 | 咭                | 卡              | kaat1                          | 例如：信用卡                    |
