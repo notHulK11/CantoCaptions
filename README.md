@@ -234,7 +234,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 着                | 著              | zoek3, zoek6                   |                           |
 | 著                | 着              | zyu3                           |                           |
 | 兇                | 凶              | hung1                          | 兇猛、兇手、兇某人                 |
-| 凶                | 凶兆             | hung1                          | 泛指一啲不祥嘅嘢                  |
+| 凶                | 兇             | hung1                          | 泛指一啲不祥嘅嘢（凶兆）            |
 | 證                | 証              | zing3                          |                           |
 | 㧻                | 篤、督、厾          | duk1                           | 係動詞，指「刺」、「戳」              |
 | 涿                | 篤              | duk1                           | 係量詞，指「一涿屎」或「一涿尿」          |
