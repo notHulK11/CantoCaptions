@@ -37,7 +37,7 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 This .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-- lines can appear 0-30ms before the start of the speech
+- lines can appear 0-50ms before the start of the speech
 - lines can slightly trail speech (~0-60ms) after the end of the speech
 - lines that end within roughly ~20ms of a scene change should be synced with the scene change
 - lines with a length of 3 characters or more need a minimum duration of 750ms
