@@ -290,7 +290,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 騎呢怪              | 奇離怪            | ke4 le4 gwaai3, ke4 le4 gwaai2 |                           |
 | 淝                | fea、啡、fe       | fe4                            |                           |
 | 林沈               | 淋糝、林審          | lam4 sam2                      |                           |
-| 蕃茄               | 番茄             | faan1 ke2                      |                           |
 | 拮                | 㓤              | gat1                           | 用尖而幼細嘅嘢插入                 |
 | 咖哩雞              | 咖喱雞            | gaa3 lei1 gai1                 |                           |
 | 𦧲              | lur             | loe1*2                         |                           |
@@ -314,7 +313,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 䁓                | 裝、𥅾、𥊙        | zong1                          | 偷窺                        |
 | 韞                | 困              | wan3                           | 局限喺一個地方之內，唔出嚟             |
 | 係咁歹              | 係咁大            | hai6 gam3 daai2                |                           |
+| 係噉咦              | 係咁意            | hai6 gam2 ji2                |                           |
 | urk              | 嗝              | oet4, oet6, oek4               |                           |
 | 嘍              | 摟              | lau3               |                           |
 | 篋              | gip、喼              | gip1               |                           |
-| 剁              | 斫、斵            | doek6              |                           |
