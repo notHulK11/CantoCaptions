@@ -317,3 +317,4 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | urk              | 嗝              | oet4, oet6, oek4               |                           |
 | 嘍              | 摟              | lau3               |                           |
 | 篋              | gip、喼              | gip1               |                           |
+| 鋅盤              | sink盤、星盤、等等              | sing1 pun2          |                         |
