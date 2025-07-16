@@ -120,20 +120,21 @@ In the interest of clarity, the contraction aa6 maa5 into maa5 should be written
 
 | Jyutping｜粵拼 | Honzi｜漢字 |
 | ------------- | ---------- |
-| a1 maa3       | 吖嘛         |
+| a1 maa3       | 吖嗎         |
 | a1 naa4       | 吖嗱         |
 | a3 ho2        | 啊嗬         |
 | a3 haa2       | 啊吓         |
-| a6 maa5       | 𠻺嗎        |
+| a6 maa5       | 𠻺嘛        |
 | baa2 laa1     | 罷啦         |
-| ga1 maa3      | 𠺢嘛        |
+| ga1 maa3      | 𠺢嗎        |
+| ga3 ne1       | 㗎呢         |
 | ga3 wo3       | 㗎喎         |
 | ge3 ze1       | 嘅啫         |
 | ge3 zek1      | 嘅唧         |
 | ha6 waa5      | 下哇         |
-| la1 maa3      | 啦嘛         |
+| la1 maa3      | 啦嗎         |
 | la3 wo3       | 喇喎         |
-| za1 maa3      | 吒嘛         |
+| za1 maa3      | 吒嗎         |
 
 ### Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子           |
