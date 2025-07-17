@@ -116,8 +116,6 @@ The aim behind establishing conventions is to promote consistency that will enha
 | ze                | 啫     |       |       |       |       |       |
 | zek               | 唧     |       |       |       |       |       |
 
-In the interest of clarity, the contraction aa6 maa5 into maa5 should be written out in full: 𠻺嗎. However, when aa6 maa5 contracts to aa5, you can use the character 咓 unambiguously.
-
 | Jyutping｜粵拼 | Honzi｜漢字 |
 | ------------- | ---------- |
 | a1 maa3       | 吖嗎         |
