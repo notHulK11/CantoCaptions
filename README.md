@@ -281,8 +281,6 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 籮柚               | 囉柚             | lo1 jau2                       |                           |
 | 㓟                | 批、𠜱           | pai1                           | 1. 刀法 2. 削走啲嘢             |
 | 唯有               | 惟有             | wai4 jau5                      |                           |
-| 惜                | 錫              | sek3                           | 1. 愛、關心、緊張 2. 用嘴唇掂另一個人嘅身體 |
-| 錫                |                | sek6                           | 一種金                       |
 | 冧                | 㨆              | lam1                           | 1. 甜蜜、氹人 2. 花植物嘅一部分 3. 冧歌 |
 | 㨆                | 冧              | lam3, lam6                     | 1. 跌倒 2. 堆起 3. 連續         |
 | 嘺                | 橋、蹺、巧          | kiu2                           | 表示咁啱                      |
