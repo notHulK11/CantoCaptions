@@ -133,8 +133,10 @@ The aim behind establishing conventions is to promote consistency that will enha
 | ge3 zek1      | 嘅唧        |
 | ha6 waa5      | 下哇        |
 | la1 maa3      | 啦嗎        |
+| la6 maa5      | 嚹嘛        |
 | la3 wo3       | 喇喎        |
 | za1 maa3      | 吒嗎        |
+| za6 maa5      | 咤嘛        |
 
 ### Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子           |
