@@ -89,32 +89,33 @@ The aim behind establishing conventions is to promote consistency that will enha
 ### Sentence Final Particles｜句尾助詞
 
 | **Syllable＼Tone** | **1** | **2** | **3** | **4** | **5** | **6** |
-| ----------------- | ----- | ----- | ----- | ----- | ----- | ----- |
-| aa                | 吖     | 嗄     | 啊     | 呀     | 咓     | 𠻺    |
+| ----------------- | ----- | ----- | ------ | ----- | ----- | ----- |
+| aa                | 吖    | 嗄    | 啊     | 呀    | 咓    | 𠻺    |
 | aak               |       |       | 𡅅    |       |       |       |
-| baa               |       | 罷     |       |       |       |       |
-| bo                |       |       | 噃     |       |       |       |
-| gaa               | 𠺢    | 𠿪    | 㗎     | 嘎     |       |       |
+| baa               |       | 罷    |       |       |       |       |
+| bo                |       |       | 噃    |       |       |       |
+| gaa               | 𠺢    | 𠿪    | 㗎    | 嘎     |       |       |
 | gaak              |       |       | 𠺝    |       |       |       |
-| ge                |       | 𠸏    | 嘅     |       |       |       |
-| gwaa              |       |       | 啩     |       |       |       |
-| haa               |       | 吓     |       |       |       | 下     |
-| he                |       | 嚱     |       |       |       |       |
-| ho                |       | 嗬     |       |       |       |       |
-| laa               | 啦     |       | 喇     | 嗱     |       |       |
-| laak              |       |       | 嘞     |       |       |       |
-| le                | 呢     |       |       | 咧     | 哩     |       |
-| lo                | 囖     |       | 咯     | 囉     |       |       |
-| lok               |       |       | 嚛     |       |       |       |
-| lu                |       |       | 嚕     |       |       |       |
-| maa               |       |       | 嗎     |       | 嘛     |       |
-| me                | 咩     |       |       |       |       |       |
+| ge                |       | 𠸏    | 嘅    |       |       |       |
+| gwaa              |       |       | 啩    |       |       |       |
+| haa               |       | 吓    |       |       |       | 下    |
+| he                |       | 嚱    |       |       |       |       |
+| ho                |       | 嗬    |       |       |       |       |
+| laa               | 啦    |       | 喇    | 嗱    |       | 嚹    |
+| laak              |       |       | 嘞    |       |       |       |
+| le                | 呢    |       |       | 咧    | 哩    |       |
+| lo                | 囖    |       | 咯    | 囉    |       |       |
+| lok               |       |       | 嚛    |       |       |       |
+| lu                |       |       | 嚕    |       |       |       |
+| maa               |       |       | 嗎    |       | 嘛    |       |
+| me                | 咩    |       |       |       |       |       |
 | tim               | 𠻹    |       |       |       |       |       |
-| waa               |       |       |       |       | 哇     |       |
-| wo                |       |       | 喎     | 啝     | 𡁜    |       |
-| zaa               | 吒     |       | 咋     | 喳     | 𠾵    |  咤   |
-| ze                | 啫     |       |       |       |       |       |
-| zek               | 唧     |       |       |       |       |       |
+| waa               |       |       |       |       | 哇    |       |
+| wo                |       |       | 喎    | 啝    | 𡁜    |       |
+| zaa               | 吒    |       | 咋    | 喳    | 𠾵    | 咤    |
+| ze                | 啫    |       |       |       |       |       |
+| zek               | 唧    |       |       |       |       |       |
+
 
 | Jyutping｜粵拼 | Honzi｜漢字 |
 | ------------- | ----------- |
@@ -132,8 +133,10 @@ The aim behind establishing conventions is to promote consistency that will enha
 | ge3 zek1      | 嘅唧        |
 | ha6 waa5      | 下哇        |
 | la1 maa3      | 啦嗎        |
+| la6 maa5      | 嚹嘛        |
 | la3 wo3       | 喇喎        |
 | za1 maa3      | 吒嗎        |
+| za6 maa5      | 咤嘛        |
 
 ### Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子           |
