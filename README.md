@@ -136,7 +136,7 @@ The aim behind establishing conventions is to promote consistency that will enha
 | la6 maa5      | 嚹嘛        |
 | la3 wo3       | 喇喎        |
 | za1 maa3      | 吒嗎        |
-| za6 maa6      | 咤嘛        |
+| za6 maa5      | 咤嘛        |
 
 ### Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子           |
