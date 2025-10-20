@@ -94,14 +94,14 @@ The aim behind establishing conventions is to promote consistency that will enha
 | aak               |       |       | 𡅅    |       |       |       |
 | baa               |       | 罷    |       |       |       |       |
 | bo                |       |       | 噃    |       |       |       |
-| gaa               | 𠺢    | 𠿪    | 㗎    | 嘎     |       |       |
+| gaa               | 𠺢    | 𠿪    | 㗎    | 嘎     | 㗇     |       |
 | gaak              |       |       | 𠺝    |       |       |       |
 | ge                |       | 𠸏    | 嘅    |       |       |       |
 | gwaa              |       |       | 啩    |       |       |       |
 | haa               |       | 吓    |       |       |       | 下    |
 | he                |       | 嚱    |       |       |       |       |
 | ho                |       | 嗬    |       |       |       |       |
-| laa               | 啦    |       | 喇    | 嗱    |       | 嚹    |
+| laa               | 啦    | 𠸎     | 喇    | 嗱    |       | 嚹    |
 | laak              |       |       | 嘞    |       |       |       |
 | le                | 呢    |       |       | 咧    | 哩    |       |
 | lo                | 囖    |       | 咯    | 囉    |       |       |
