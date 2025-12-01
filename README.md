@@ -107,7 +107,7 @@ The aim behind establishing conventions is to promote consistency that will enha
 | lo                | 囖    |       | 咯    | 囉    |       |       |
 | lok               |       |       | 嚛    |       |       |       |
 | lu                |       |       | 嚕    |       |       |       |
-| maa               |       |       | 嗎    |       | 嘛    |       |
+| maa               |       |       | 嘛    |       | 嗎    |       |
 | me                | 咩    |       |       |       |       |       |
 | tim               | 𠻹    |       |       |       |       |       |
 | waa               |       |       |       |       | 哇    |       |
