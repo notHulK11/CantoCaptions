@@ -168,6 +168,7 @@ The aim behind establishing conventions is to promote consistency that will enha
 | hei5                    | 唏        | shows discontent                   |
 | hng6                    | 哼        | "hmph"                             |
 | ji2                     | 咦        |                                    |
+| m2                      | 呣        | "mmm"; sound of enjoyment of food  |
 | m2, m3, m6              | 嗯        | "hmm"; "um"; "mhmm"                |
 | naa4                    | 嗱        | "look"; call for attention         |
 | o1                      | 喔        |                                    |
