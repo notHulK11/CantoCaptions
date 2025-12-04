@@ -119,24 +119,24 @@ The aim behind establishing conventions is to promote consistency that will enha
 
 | Jyutping｜粵拼 | Honzi｜漢字 |
 | ------------- | ----------- |
-| a1 maa3       | 吖嗎        |
+| a1 maa3       | 吖嘛        |
 | a1 naa4       | 吖嗱        |
 | a3 ho2        | 啊嗬        |
 | a3 haa2       | 啊吓        |
-| a6 maa5       | 𠻺嘛        |
+| a6 maa5       | 𠻺嗎        |
 | a6 le5        | 𠻺哩        |
 | baa2 laa1     | 罷啦        |
-| ga1 maa3      | 𠺢嗎        |
+| ga1 maa3      | 𠺢嘛        |
 | ga3 ne1       | 㗎呢        |
 | ga3 wo3       | 㗎喎        |
 | ge3 ze1       | 嘅啫        |
 | ge3 zek1      | 嘅唧        |
 | ha6 waa5      | 下哇        |
-| la1 maa3      | 啦嗎        |
-| la6 maa5      | 嚹嘛        |
+| la1 maa3      | 啦嘛        |
+| la6 maa5      | 嚹嗎        |
 | la3 wo3       | 喇喎        |
-| za1 maa3      | 吒嗎        |
-| za6 maa5      | 咤嘛        |
+| za1 maa3      | 吒嘛        |
+| za6 maa5      | 咤嗎        |
 
 ### Affixes｜詞綴
 | Jyutping｜粵拼 | Honzi｜漢字 | Examples｜例子           |
