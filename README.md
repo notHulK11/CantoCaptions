@@ -214,6 +214,7 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 啓                | 啟              | kai2     |
 | 獎                | 奬              | zoeng2   |
 
+
 ### Other
 | ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
