@@ -213,6 +213,8 @@ Where applicable, the Hong Kong variant of characters is chosen.
 | 匯                | 滙              | wui6     |
 | 啓                | 啟              | kai2     |
 | 獎                | 奬              | zoeng2   |
+| 秘                | 祕              | bei3     |
+
 
 ### Other
 | ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
