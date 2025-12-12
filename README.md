@@ -127,7 +127,7 @@ Written Vernacular Cantonese has no accepted standards, however, establishing ou
 | wai2, wai3              | 喂        |                                    |
 
 ### Character Variants
-Where applicable, these Hong Kong variants are used.
+Where applicable, these Hong Kong variants are used. These map 1:1.
 
 | ✅ Selected Variant | ❌ Other Variants | Jyutping |
 | ---------------- | -------------- | -------- |
