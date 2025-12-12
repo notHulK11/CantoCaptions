@@ -126,8 +126,9 @@ The aim behind establishing conventions is to promote consistency that will enha
 | a6 maa5       | 𠻺嗎        |
 | a6 le5        | 𠻺哩        |
 | baa2 laa1     | 罷啦        |
+| ding2 laa1     | 定啦        |
 | ga1 maa3      | 𠺢嘛        |
-| ga3 ne1       | 㗎呢        |
+| ga3 ne1       | 嘅呢        |
 | ga3 wo3       | 㗎喎        |
 | ge3 ze1       | 嘅啫        |
 | ge3 zek1      | 嘅唧        |
