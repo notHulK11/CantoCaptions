@@ -284,17 +284,19 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 
 ### Formatting
 - .srt format
-- single line max length is 18 characters
+- single line max length is 17 characters
 
-This .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
+The .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-- lines can appear 0-50ms before the start of the speech
-- lines can slightly trail speech (~0-60ms) after the end of the speech
-- lines that end within roughly ~20ms of a scene change should be synced with the scene change
+- lines can appear 0-100ms before the start of the speech
+- lines should slightly trail the end of speech (50-100ms) when possible (e.g. no scene change or interruption)
+- lines that end within roughly 50ms of a scene change should be synced with the scene change
 - lines with a length of 3 characters or more need a minimum duration of 750ms
 	- this can be shorter in the case of a scene change or based on other factors such as lots of speech or interrupted speech
 - lines with a length of 2 or fewer characters don't have to follow that minimum
+- background dialogue does not have to be subtitled
+	- if subtitled, use {\an8} tag to put speech on top
 
 ### Punctuation
 
