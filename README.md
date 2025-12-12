@@ -22,11 +22,15 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 	- [Punctuation](#Punctuation)
 	- [Untranscribed Speech](#Untranscribed-Speech)
 
+
+## Character Conventions
+The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
+
 > [!NOTE]
 > The conventions have been evolving over time and many of the existing subtitles have not been updated in accordance with the latest standards.
 
 
-### Sentence Final Particles｜句尾助詞
+## Sentence Final Particles｜句尾助詞
 
 | **Syllable＼Tone** | **1** | **2** | **3** | **4** | **5** | **6** |
 | ----------------- | ----- | ----- | ------ | ----- | ----- | ----- |
@@ -319,6 +323,3 @@ In general, these subtitles are a learning resource. The goal is not to transcri
 | Miscellaneous grunts, yells, screams, and the like are not transcribed.                                                                                                                                                                                                                         |                                            |
 | Ah, oh, hmm, huh, mhmm and other acknowledgement noises are transcribed sparingly and primarily in the case that they form part of other utterances.                                                                                                                                            | ❌吓？<br>✅吓？你講咩啊？                            |
 
-
-## Character Conventions
-The aim behind establishing conventions is to promote consistency that will enhance learning and further promote written Cantonese. These conventions go out of their way to promote unambiguous character usage in many instances.
