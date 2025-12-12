@@ -161,7 +161,7 @@ Where applicable, these Hong Kong variants are used.
 | 獎                | 奬              | zoeng2   |
 
 ### Other Required CantoCaptions Conventions
-| ✅ Selected Variant | ❌ Other Variants | Jyutping                       | Explanation               |
+| ✅ Selected Variant | ❌ Other Variants | Jyutping                  | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 畀                | 俾              | bei2                           |                           |
 | 搞                | 攪              | gaau2                          | 指「做」；搞錯              |
@@ -186,15 +186,15 @@ Where applicable, these Hong Kong variants are used.
 | 着                | 著              | zoek3, zoek6                   |                           |
 | 著                | 着              | zyu3                           |                           |
 | 證                | 証              | zing3                          |                           |
-| 㧻                | 篤、督、厾          | duk1                           | 係動詞，指「刺」、「戳」              |
-| 涿                | 篤              | duk1                           | 係量詞，指「一涿屎」或「一涿尿」          |
+| 㧻                | 篤、督、厾          | duk1                         | 係動詞，指「刺」、「戳」         |
+| 涿                | 篤              | duk1                           | 係量詞，指「一涿屎」或「一涿尿」     |
 | 督                | 篤              | duk1                           | 用於「監督」、「都督」等              |
 | 篤                | 督              | duk1                           | 用於「篤信」、「篤定」等              |
 | 㞘                | 𡰪             | duk1                           | 指最尾或末端，例如「行到㞘」            |
 | 邊                | 便              | bin1, bin6                     | 用於「邊度」、「入邊」               |
 | 唞                | 抖              | tau2                           | 休息；歇息（早唞、等等）          |
 | 撳                | 㩒              | gam6                           |                           |
-| 爹哋               | 爹地、爹啲          | de1 di4                        |                           |
+| 爹哋               | 爹地、爹啲          | de1 di4                      |                           |
 | BB               | 啤啤             | bi4 bi1                        |                           |
 | 𠹷               | 哦              | ngo4                           | 好煩噉樣批評或者抱怨                |
 | 韞                | 困              | wan3                           | 局限喺一個地方之內，唔出嚟             |
@@ -203,6 +203,8 @@ Where applicable, these Hong Kong variants are used.
 
 
 ### Recommended CantoCaptions Conventions (Disambiguation)
+| ✅ Selected Variant | ❌ Other Variants | Jyutping                  | Explanation               |
+| ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 𠹻               | 陣              | zam6                          |  氣味、風嘅量詞                     |
 | 𡃴               | 除              | ceoi4                          | 臭味                        |
 | 瀨屎、瀨尿            | 賴屎、賴尿          | laai6 si2, laai6 niu6          |                           |
