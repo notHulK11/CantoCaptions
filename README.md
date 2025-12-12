@@ -111,7 +111,7 @@ Written Vernacular Cantonese has no accepted standards, however, establishing ou
 | hei1                    | 嘿        | as a greeting / shows satisfaction |
 | hei5                    | 唏        | shows discontent                   |
 | hng6                    | 哼        | "hmph"                             |
-| hou2 je5                | 好嘢      | woohoo!; yeah!                     |                           |
+| hou2 je5                | 好嘢      | woohoo; yeah                      |                       
 | ji2                     | 咦        |                                    |
 | m2                      | 呣        | "mmm"; sound of enjoyment of food  |
 | m2, m3, m6              | 嗯        | "hmm"; "um"; "mhmm"                |
