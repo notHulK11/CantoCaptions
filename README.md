@@ -150,7 +150,6 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 泄                | 洩              | sit3     |
 | 罵                | 駡              | maa6     |
 | 鏽                | 銹              | sau3     |
-| 鏽                | 銹              | sau3     |
 | 鈎                | 鉤              | ngau1    |
 | 衞                | 衛              | wai6     |
 | 葱                | 蔥              | cung1    |
