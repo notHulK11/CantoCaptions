@@ -71,8 +71,8 @@ Written Vernacular Cantonese has no accepted standards, however, establishing ou
 | baa2 laa1     | 罷啦        |
 | ding2 laa1     | 定啦        |
 | ga1 maa3      | 𠺢嘛        |
-| ga3 ne1       | 嘅呢        |
 | ga3 wo3       | 㗎喎        |
+| ge3 ne1       | 嘅呢        |
 | ge3 ze1       | 嘅啫        |
 | ge3 zek1      | 嘅唧        |
 | ha6 waa5      | 下哇        |
