@@ -31,7 +31,7 @@ Natsukashii yamaru ni nari de mitsubi tizameba Odoteiru chikyuu ga mieru Dekagu 
 
 8
 00:02:32,590 --> 00:02:35,110
-喂喂，你點啊？你有冇事嗎？
+喂喂，你點啊？你有冇事嘛？
 
 9
 00:02:35,570 --> 00:02:36,320
@@ -348,7 +348,7 @@ Natsukashii yamaru ni nari de mitsubi tizameba Odoteiru chikyuu ga mieru Dekagu 
 
 82
 00:08:11,970 --> 00:08:13,970
-你係男仔嚟𠺢嗎，喊咩喎？
+你係男仔嚟𠺢嘛，喊咩喎？
 
 83
 00:08:14,570 --> 00:08:15,350
@@ -431,7 +431,7 @@ Natsukashii yamaru ni nari de mitsubi tizameba Odoteiru chikyuu ga mieru Dekagu 
 
 102
 00:09:04,310 --> 00:09:05,870
-噉你唔係內力不明嗎？
+噉你唔係內力不明嘛？
 
 103
 00:09:06,130 --> 00:09:06,710
@@ -791,7 +791,7 @@ Natsukashii yamaru ni nari de mitsubi tizameba Odoteiru chikyuu ga mieru Dekagu 
 
 191
 00:12:52,660 --> 00:12:55,350
-都係等我去出席茶道大會算啦，好嗎？
+都係等我去出席茶道大會算啦，好嘛？
 
 192
 00:12:55,680 --> 00:12:56,660
@@ -986,7 +986,7 @@ Natsukashii yamaru ni nari de mitsubi tizameba Odoteiru chikyuu ga mieru Dekagu 
 
 239
 00:14:56,980 --> 00:14:59,920
-我哋嘅比試係喺下一個黃土吉日吖嗎
+我哋嘅比試係喺下一個黃土吉日吖嘛
 
 240
 00:15:00,520 --> 00:15:02,000
