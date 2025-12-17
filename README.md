@@ -245,7 +245,6 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 嘺                | 橋、蹺、巧          | kiu2                           | 表示咁啱                      |
 | 騎呢怪              | 奇離怪            | ke4 le4 gwaai3, ke4 le4 gwaai2 |                           |
 | 淝                | fea、啡、fe       | fe4                            |                           |
-| 林沈               | 淋糝、林審          | lam4 sam2                      |                           |
 | 拮                | 㓤              | gat1                           | 用尖而幼細嘅嘢插入                 |
 | 咖哩雞              | 咖喱雞            | gaa3 lei1 gai1                 |                           |
 | 掹                | 擝              | mang1                          |                           |
