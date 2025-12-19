@@ -26,6 +26,12 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 ## Character Conventions
 Written Vernacular Cantonese has no accepted standards, however, establishing our own conventions will make this resource even more useful to learners. With these conventions we can use greater specificity than would normally be shown. For example, we have chosen a set of sentences-final particles (SFP) such that each character represents a certain syllable/tone pair. In this way, learners can build a deeper level of understanding of the language.
 
+There are 3 main resources that served as a starting point.
+
+1. https://www.cantonese.com.hk/cantonese/sfp/ - The sentence-final particles are largely based on the table used here with some modifications. 𠵝 is dropped in favor of 呀 due to the former being unsupported by almost all fonts, as well as 呀 being far more common. 可 is dropped in favor of 嗬 for disambiguation. Aside from those exceptions, there are some additional particles: laa2, laa6, and zaa6.
+2. https://jyutping.org/en/blog/typo/ - Many characters for disambiguation are based on the list here.
+3. https://words.hk/ - A guiding principle behind the conventions are that they are searchable in words.hk which is the most comprehensible and accessible Cantonese dictionary. There are scant exceptions for rare SFP but nearly all selected characters must be searchable. Character variants are also taken directly from what they consider to be the correct Hong Kong variants.
+
 > [!NOTE]
 > The conventions have been evolving over time and many of the existing subtitles have not been updated in accordance with the latest standards.
 
