@@ -11,7 +11,7 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 ## Table of Contents
 
 - [Character Conventions](#Character-Conventions)
-	- [Sentence Final Particles]
+	- [Sentence Final Particles](#simple-sentence-final-particles單一句尾助詞)
 	- [Affixes](#affixes詞綴)
 	- [Interjections](#interjections感嘆詞)
 	- [Character Variants](#Character-Variants)
