@@ -26,6 +26,12 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 ## Character Conventions
 Written Vernacular Cantonese has no accepted standards, however, establishing our own conventions will make this resource even more useful to learners. With these conventions we can use greater specificity than would normally be shown. For example, we have chosen a set of sentences-final particles (SFP) such that each character represents a certain syllable/tone pair. In this way, learners can build a deeper level of understanding of the language.
 
+There are 3 main resources that served as a starting point.
+
+1. https://www.cantonese.com.hk/cantonese/sfp/ - The sentence-final particles are largely based on the table used here with some modifications. 𠵝 is dropped in favor of 呀 due to the former being unsupported by almost all fonts, as well as 呀 being far more common. 可 is dropped in favor of 嗬 for disambiguation. Aside from those exceptions, there are some additional particles (gaa5, laa2, laa6, and zaa6) which exist but which were not mentioned in their table, so we devised our own conventions.
+2. https://jyutping.org/en/blog/typo/ - Many characters for disambiguation are taken directly from the list here.
+3. https://words.hk/ - A guiding principle behind the conventions are that they are searchable in words.hk which is the most comprehensible and accessible Cantonese dictionary. There are scant exceptions for rare SFP but nearly all selected characters must be searchable. Character variants are also taken directly from what they consider to be the correct Hong Kong variants.
+
 > [!NOTE]
 > The conventions have been evolving over time and many of the existing subtitles have not been updated in accordance with the latest standards.
 
@@ -170,6 +176,10 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 𦧷                | 舔、lem         | lem2                           | 用條脷輕輕力掃             |
 | 𦧲              | lur             | loe1*2                         |                           |
 | 唯有               | 惟有             | wai4 jau5                      |                           |
+| 只係              |  衹係             | zi2 hai6                 |                           |
+| 之不過              | 只不過          | zi1 bat1 gwo3                 |                           |
+| 只不過              | 之不過          | zi2 bat1 gwo3                 |                           |
+| 唔止               | 唔只             | m4 zi2                         |                           |
 | 唔單止             | 唔單只            | m4 daan1 zi2                   |                           |
 | 唔止               | 唔只             | m4 zi2                         |                           |
 | 而家               | 宜家             | ji4 gaa1                       |                           |
