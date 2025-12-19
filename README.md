@@ -176,6 +176,10 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 𦧷                | 舔、lem         | lem2                           | 用條脷輕輕力掃             |
 | 𦧲              | lur             | loe1*2                         |                           |
 | 唯有               | 惟有             | wai4 jau5                      |                           |
+| 只係              |  衹係             | zi2 hai6                 |                           |
+| 之不過              | 只不過          | zi1 bat1 gwo3                 |                           |
+| 只不過              | 之不過          | z21 bat1 gwo3                 |                           |
+| 唔止               | 唔只             | m4 zi2                         |                           |
 | 唔單止             | 唔單只            | m4 daan1 zi2                   |                           |
 | 唔止               | 唔只             | m4 zi2                         |                           |
 | 而家               | 宜家             | ji4 gaa1                       |                           |
