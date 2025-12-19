@@ -292,7 +292,7 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 
 ### Formatting
 - .srt format
-- single line max length is 17 characters
+- single line max length is 17.5 characters
 
 The .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
