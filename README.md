@@ -15,7 +15,7 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 	- [Affixes](#affixes詞綴)
 	- [Interjections](#interjections感嘆詞)
 	- [Character Variants](#Character-Variants)
-	- [Other](#Other)
+	- [Other](#other-required-cantocaptions-conventions)
 - [Subtitle Style Guide](#Subtitle-Style-Guide)
 	- [Formatting](#Formatting)
 	- [Timing](#Timing)
