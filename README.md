@@ -24,7 +24,7 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 
 
 ## Character Conventions
-Written Vernacular Cantonese has no recognized oragnization that sets standards for the language. We have decided to establish internal conventions in the hopes that this will make the subtitles even more useful to learners. Having conventions allows us to achieve greater specificity. For example, we have chosen a set of sentences-final particles (SFP) such that each character represents a certain syllable/tone pair. In this way, learners can build a deeper level of understanding of the language.
+There is no official organization that sets standards for the usage of Written Vernacular Cantonese. We have decided to establish our own internal conventions in the hopes that this will make the subtitles even more useful to learners. Having conventions allows us to achieve greater specificity. For example, we have chosen a set of sentences-final particles (SFP) such that each character represents a certain syllable/tone pair. In this way, learners can build a deeper level of understanding of the language.
 
 There are 3 main resources that served as a starting point.
 
