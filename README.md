@@ -301,11 +301,10 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 - lines should slightly trail the end of speech (roughly 350ms) by default
 	- exceptions: start of more speech or a shot change
 - lines that end within roughly 50ms or less of a shot change should be end right on the shot change
+- lines that are trailing should end on a shot change if within 500ms of one
 - lines with a length of 3 characters or more need a minimum duration of 750ms
 	- exceptions: interrupted speech, shot change (though generally allow at least 500ms)
-- lines with a length of 2 or fewer characters don't have to follow that minimum
-- background dialogue does not have to be subtitled
-	- if subtitled and overlapping with main speech, use {\an8} tag to put speech on top
+- lines should never be less than 400ms regardless of length
 
 ### Punctuation
 
@@ -336,6 +335,7 @@ In general, these subtitles are a learning resource. The goal is not to transcri
 
 | Speech                                                                                                                                                                                                                                                                                          | Example                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Background dialogue does not have to be subtitled. If subtitled and overlapping with main speech, use {\an8} tag to put speech on top                                                                                                                                           | ✅{\an8}吓？你做咩啊？                            |
 | The sound of hesitation, e.g. "uh" (a6 / e6), is only transcribed when drawn out and precedes a longer utterance. When directly following a word, it should not be transcribed and an ellipsis should be used instead. | ✅誒…你係邊個啊？<br>❌你誒…係邊個啊？<br>✅你…係邊個啊？<br>❌佢…誒…佢係…誒…我唔知<br>✅佢…佢係…我唔知 |
 | The Chinese exclamation point is used sparingly. For example, for exceptionally loud/declarative yells or for emphasis among quieter speech, such as when calling someone's name. Even if a character is yelling, it's discouraged to end every line with an exclamation point.                 |                                            |
 | Miscellaneous grunts, yells, screams, and the like are not transcribed.                                                                                                                                                                                                                         |                                            |
