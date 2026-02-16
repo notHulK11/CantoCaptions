@@ -288,7 +288,7 @@ This section details how the subtitles should look. In general, Traditional char
 
 ### General Guiding Principles
 
-The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the actors or voice actors. Put another way, we want to capture intended, correct speech, and not misspeaks or agrammatical speech. Furthermore, while the subtitles do aim at comprehensive coverage of what is said, grunts, yells, laughter, and miscellaneous expressive noises should in general be transcribed sparingly and, in some cases, not at all. Such subtitles, broadly speaking, don't contribute to building understanding of the language. To this end, it is recommended to transcribe most interjections only in so far as they are followed by or form part of a longer utterance.
+The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the actors or voice actors. Put another way, we want to capture intended, correct speech, and not misspeaks or agrammatical speech. Furthermore, while the subtitles do aim at comprehensive coverage of what is said, grunts, yells, laughter, and miscellaneous expressive noises should in general be transcribed sparingly. Such subtitles, broadly speaking, don't contribute to building understanding of the language. To this end, it is recommended to transcribe most interjections only in so far as they are followed by or form part of a longer utterance, with the exception of 喂 which is always transcribed.
 
 ### Formatting
 - .srt format
@@ -297,14 +297,15 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 The .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-- lines can appear 0-50ms before the start of the speech
-- lines should slightly trail the end of speech (50-100ms) when possible (e.g. no scene change or interruption)
-- lines that end within roughly 50ms of a scene change should be synced with the scene change
+- lines should begin right as speech does ideally, but realistically just get as close as you can (no more than 50ms away).
+- lines should slightly trail the end of speech (roughly 350ms) by default
+	- exceptions: start of more speech or a shot change
+- lines that end within roughly 50ms or less of a shot change should be end right on the shot change
 - lines with a length of 3 characters or more need a minimum duration of 750ms
-	- this can be shorter in the case of a scene change or based on other factors such as lots of speech or interrupted speech
+	- exceptions: interrupted speech, shot change (though generally allow at least 500ms)
 - lines with a length of 2 or fewer characters don't have to follow that minimum
 - background dialogue does not have to be subtitled
-	- if subtitled, use {\an8} tag to put speech on top
+	- if subtitled and overlapping with main speech, use {\an8} tag to put speech on top
 
 ### Punctuation
 
@@ -320,7 +321,8 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                      | 我媽媽話：「唔准去嗰度」                            |
 | When a question is followed by the name of who is being addressed then the question mark is used as the separator as opposed to a comma and a question mark | ❌你仲喺度，阿明？<br>✅你仲喺度？阿明                   |
 | Only 1 Chinese ellipsis character is used (never 2 as in ……).                                                                                               | ❌……<br>✅…                               |
-| When an utterance is repeated, transcribe only 1 instance with a trailing Chinese ellipsis character.                                                       | ❌ 喂喂喂<br>✅ 喂…                           |
+| When an utterance is repeated, transcribe only 1 instance with a trailing Chinese ellipsis character.                                                       | ❌ 喂喂喂<br>✅ 喂…                       |
+| Adjectives can be repeated and singular characters can be doubled                                                                                           | ✅ 好多好多陪 <br> ✅ 喂喂                      |
 | In the case of interrupted speech, a Chinese ellipsis character is used to mark where the speaker is cut off and a new line begins with the new speech.     | -點解你…<br>-唔知啊                           |
 | In the case of trailing  speech, a Chinese ellipsis character is used.                                                                                      | ❌佢唔可以嘅話~~<br>✅佢唔可以嘅話…                   |
 | In the case of stammering, the start is separated by a Chinese ellipsis, but this is only done once.                                                        | ❌只只不過<br>❌只…只…只不過<br>✅只…只不過             |
