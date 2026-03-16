@@ -1,7 +1,7 @@
 # CantoCaptions
 
 ## Overview
-This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
+This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Hong Kong Written Chinese or Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
 
 If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/ybVe9KmrsG) server.
 
