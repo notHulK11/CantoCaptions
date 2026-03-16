@@ -8,18 +8,18 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 > [!IMPORTANT]  
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
 
-## How can I help?
+## 🤝 How can I help?
 There are many different ways you can contribute to our project. If interested, please join our [Discord](https://discord.gg/ybVe9KmrsG).
 
-### 1. Donate
+### 1. 💖 Donate
 The easiest way you can help us out is by donating to us via Kofi: https://ko-fi.com/cantocaptions
-### 2. Transcription
+### 2. 📄 Transcription
 If you aren't super technically savvy, you can still help out greatly by making written Cantonese transcripts of a show. Simply create a text document with roughly a line of speech on each line. We do have specific conventions for characters and otherwise, but this is not mandatory. We could use all the help we can get.
-### 3. Timing
+### 3. ⏲️ Timing
 If you don't know that much Cantonese yet, a great way you can contribute is by timing AI-generated subtitles. These will be higher quality than the AI ones and serve as a starting point for others to further improve upon. Join our [Discord](https://discord.gg/ybVe9KmrsG) for a guide on how to time for us.
-### 4. Full Subtitles
+### 4. 🎞️ Full Subtitles
 Of course, doing full subtitles is also greatly desired. You need not follow our specific timing or character conventions, though this is of course greatly appreciated. Join our [Discord](https://discord.gg/ybVe9KmrsG) to get help getting started.
-### 5. Proofreading
+### 5. 📝 Proofreading
 We have a lot of learners that help with the subtitles and sometimes there are lines that are particularly difficult. Join the [Discord](https://discord.gg/ybVe9KmrsG) and we can give you a "Proofreader" role so that you can get pinged to help out.
 
 
