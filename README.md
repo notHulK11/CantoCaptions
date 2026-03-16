@@ -16,7 +16,7 @@ The easiest way you can help us out is by donating to us via Kofi: https://ko-fi
 ### 2. Transcription
 If you aren't super technically savvy, you can still help out greatly by making written Cantonese transcripts of a show. Simply create a text document with roughly a line of speech on each line. We do have specific conventions for characters and otherwise, but this is not mandatory. We could use all the help we can get.
 ### 3. Timing
-If you don't know that much Cantonese yet, a great way you can contribute is by timing AI-generated subtitles. These will be higher quality than the AI ones and serve as a starting point for others to further improve. Join our Discord for a guide on how to time for us.
+If you don't know that much Cantonese yet, a great way you can contribute is by timing AI-generated subtitles. These will be higher quality than the AI ones and serve as a starting point for others to further improve upon. Join our Discord for a guide on how to time for us.
 ### 4. Full Subtitles
 Of course, doing full subtitles is also greatly desired. You need not follow our specific timing or character conventions, though this is of course greatly appreciated. Join our Discord to get help getting started.
 ### 5. Proofreading
