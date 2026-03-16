@@ -1,7 +1,7 @@
 # CantoCaptions
 
 ## Overview
-This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
+This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Hong Kong Written Chinese or Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
 
 If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/ybVe9KmrsG) server.
 
@@ -200,7 +200,8 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 督                | 篤              | duk1                           | 用於「監督」、「都督」等              |
 | 篤                | 督              | duk1                           | 用於「篤信」、「篤定」等              |
 | 㞘                | 𡰪             | duk1                           | 指最尾或末端，例如「行到㞘」            |
-| 邊                | 便              | bin1, bin6                     | 用於「邊度」、「入邊」               |
+| 便                | 邊              | bin6                            | 用於「裏便」、「入便」               |
+| 邊                | 便              | bin1                            | 用於「裏邊」、「入邊」               |
 | 唞                | 抖              | tau2                           | 休息；歇息（早唞、等等）          |
 | 撳                | 㩒              | gam6                           |                           |
 | 爹哋               | 爹地、爹啲          | de1 di4                      |                           |
