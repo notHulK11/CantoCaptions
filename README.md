@@ -1,12 +1,27 @@
-# CantoCaptions
+# CantoCaptions - 粵文字幕
 
-## Overview
+## ℹ️ Overview
 This is a project that aims to collect and create accurate written Cantonese subtitles for educational purposes. Accurate subtitles are those that match the spoken dialogue. Written Cantonese is the written form of the Cantonese language that contrasts with what is typically used, known as Hong Kong Written Chinese or Standard Written Chinese. Written Cantonese subtitles are seldom used but are very powerful learning resources.
 
 If you would like to contribute to transcripts or subtitles, make a donation, find out about current projects, or simply learn more, please join our [Discord](https://discord.gg/ybVe9KmrsG) server.
 
 > [!IMPORTANT]  
 > Since many of the characters used in these subtitles fall outside the coverage of typical fonts, it is <ins>**HIGHLY**</ins> recommended that you install a Cantonese specific font. We recommend installing one of the fonts from https://github.com/chiron-fonts/chiron-hei-hk.
+
+## 🤝 How can I help?
+There are many different ways you can contribute to our project. If interested, please join our [Discord](https://discord.gg/ybVe9KmrsG).
+
+### 1. 💖 Donate
+The easiest way you can help us out is by donating to us via Kofi: https://ko-fi.com/cantocaptions
+### 2. 📄 Transcription
+If you aren't super technically savvy, you can still help out greatly by making written Cantonese transcripts of a show. Simply create a text document with roughly a line of speech on each line. We do have specific conventions for characters and otherwise, but this is not mandatory. We could use all the help we can get.
+### 3. ⏲️ Timing
+If you don't know that much Cantonese yet, a great way you can contribute is by timing AI-generated subtitles. These will be higher quality than the AI ones and serve as a starting point for others to further improve upon. Join our [Discord](https://discord.gg/ybVe9KmrsG) for a guide on how to time for us.
+### 4. 🎞️ Full Subtitles
+Of course, doing full subtitles is also greatly desired. You need not follow our specific timing or character conventions, though this is of course greatly appreciated. Join our [Discord](https://discord.gg/ybVe9KmrsG) to get help getting started.
+### 5. 📝 Proofreading
+We have a lot of learners that help with the subtitles and sometimes there are lines that are particularly difficult. Join the [Discord](https://discord.gg/ybVe9KmrsG) and we can give you a "Proofreader" role so that you can get pinged to help out.
+
 
 ## Table of Contents
 
@@ -75,12 +90,12 @@ There are 3 main resources that served as a starting point.
 | a6 maa5       | 𠻺嗎        |
 | a6 le5        | 𠻺哩        |
 | baa2 laa1     | 罷啦        |
-| ding2 laa1     | 定啦        |
+| ding2 laa1    | 定啦        |
 | ga1 maa3      | 𠺢嘛        |
 | ga3 wo3       | 㗎喎        |
-| ge3 ne1       | 嘅呢        |
-| ge3 ze1       | 嘅啫        |
-| ge3 zek1      | 嘅唧        |
+| ga3 ne1       | 嘅呢        |
+| ga3 ze1       | 㗎啫        |
+| ga3 zek1      | 嘅唧        |
 | ha6 waa5      | 下哇        |
 | la1 maa3      | 啦嘛        |
 | la3 wo3       | 喇喎        |
@@ -289,7 +304,7 @@ This section details how the subtitles should look. In general, Traditional char
 
 ### General Guiding Principles
 
-The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the actors or voice actors. Put another way, we want to capture intended, correct speech, and not misspeaks or agrammatical speech. Furthermore, while the subtitles do aim at comprehensive coverage of what is said, grunts, yells, laughter, and miscellaneous expressive noises should in general be transcribed sparingly. Such subtitles, broadly speaking, don't contribute to building understanding of the language. To this end, it is recommended to transcribe most interjections only in so far as they are followed by or form part of a longer utterance, with the exception of 喂 which is always transcribed.
+The goal of these subtitles is to be as useful to learners as possible. The goal is *NOT* to be as faithful to the literal utterances as spoken by the actors or voice actors. Put another way, we want to capture intended, correct speech, and not misspeaks or agrammatical speech. Furthermore, while the subtitles do aim at comprehensive coverage of what is said, grunts, yells, laughter, and miscellaneous expressive noises should in general be transcribed sparingly. Such subtitles, broadly speaking, don't contribute to building understanding of the language. To this end, it is recommended to transcribe most interjections only in so far as they form form part of a longer utterance (directly precedes or follows dialogue). Notable exceptions include 喂 which is always transcribed.
 
 ### Formatting
 - .srt format
