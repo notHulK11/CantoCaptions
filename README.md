@@ -18,7 +18,7 @@ If you aren't super technically savvy, you can still help out greatly by making 
 ### 3. ⏲️ Timing
 If you don't know that much Cantonese yet, a great way you can contribute is by timing AI-generated subtitles. These will be higher quality than the AI ones and serve as a starting point for others to further improve upon. Join our [Discord](https://discord.gg/ybVe9KmrsG) for a guide on how to time for us.
 ### 4. 🎞️ Full Subtitles
-Of course, doing full subtitles is also greatly desired. You need not follow our specific timing or character conventions, though this is of course greatly appreciated. Join our [Discord](https://discord.gg/ybVe9KmrsG) to get help getting started.
+Of course, doing full subtitles is also greatly desired. You need not follow our specific timing or character conventions, though this is of course greatly appreciated. Join our [Discord](https://discord.gg/ybVe9KmrsG) to get help with getting started.
 ### 5. 📝 Proofreading
 We have a lot of learners that help with the subtitles and sometimes there are lines that are particularly difficult. Join the [Discord](https://discord.gg/ybVe9KmrsG) and we can give you a "Proofreader" role so that you can get pinged to help out.
 
