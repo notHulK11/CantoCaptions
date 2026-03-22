@@ -58,7 +58,7 @@ There are 3 main resources that served as a starting point.
 | aak               |       |       | 𡅅    |       |       |       |
 | baa               |       | 罷    |       |       |       |       |
 | bo                |       |       | 噃    |       |       |       |
-| gaa               | 𠺢    | 𠿪    | 㗎    | 嘎     | 㗇     |       |
+| gaa               | 𠺢    | 𠿪    | 㗎    | 嘎     | 㗇    | 噶    |
 | gaak              |       |       | 𠺝    |       |       |       |
 | ge                |       | 𠸏    | 嘅    |       |       |       |
 | gwaa              |       |       | 啩    |       |       |       |
