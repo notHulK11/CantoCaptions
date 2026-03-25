@@ -122,7 +122,8 @@ There are 3 main resources that served as a starting point.
 ### Interjections｜感嘆詞
 | Jyutping｜粵拼           | Honzi｜漢字 | Explanation｜解釋              |
 | ----------------------- | -------- | ---------------------------------- |
-| aai1, aai2              | 唉        |  sigh of exasperation              |
+| ai1                     | 哎        |  sigh of relief/satisfaction      |
+| aai1, aai2              | 唉        |  sigh of exasperation/sadness      |
 | ai1 jaa3/5/6, ai1 jaak3 | 哎吔      |                                  |
 | ai1 jo3                 | 哎喲      |                                  |
 | bai6 laa3               | 弊喇      |  "oh no"                           |                         
