@@ -95,7 +95,7 @@ There are 3 main resources that served as a starting point.
 | ga3 wo3       | 㗎喎        |
 | ga3 ne1       | 嘅呢        |
 | ga3 ze1       | 㗎啫        |
-| ga3 zek1      | 嘅唧        |
+| ga3 zek1      | 㗎唧        |
 | ha6 waa5      | 下哇        |
 | la1 maa3      | 啦嘛        |
 | la3 wo3       | 喇喎        |
