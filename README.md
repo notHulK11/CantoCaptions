@@ -74,7 +74,7 @@ There are 3 main resources that served as a starting point.
 | maa               |       |       | 嘛    |       | 嗎    |       |
 | me                | 咩    |       |       |       |       |       |
 | tim               | 𠻹    |       |       |       |       |       |
-| waa               |       |  話   |       |       | 哇    |       |
+| waa               |       |       |       |       | 哇    |       |
 | wo                |       |       | 喎    | 啝    | 𡁜    |       |
 | zaa               | 吒    |       | 咋    | 喳    | 𠾵    | 咤    |
 | ze                | 啫    |       |       |       |       |       |
