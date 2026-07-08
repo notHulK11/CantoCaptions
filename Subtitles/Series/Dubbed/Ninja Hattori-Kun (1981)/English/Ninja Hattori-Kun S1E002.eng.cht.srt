@@ -12,15 +12,15 @@ Zero again?
 
 4
 00:00:53,123 --> 00:00:54,736
-You're not loyal enough for a day!
+Just this one day and you still don't lend a hand
 
 5
 00:00:54,786 --> 00:00:56,523
-If you were willing to let me peek, this wouldn't happen
+If you would let me peek, this wouldn't happen
 
 6
 00:00:56,574 --> 00:00:57,795
-How can you cheat?
+How could you cheat?
 
 7
 00:00:57,845 --> 00:00:59,096
@@ -48,7 +48,7 @@ This dog is on a leash
 
 13
 00:01:12,144 --> 00:01:13,589
-Huh, what are you going to do about it?
+Ah, what are you going to do about it?
 
 14
 00:01:21,343 --> 00:01:24,072
@@ -85,11 +85,11 @@ You are truly amazing!
 
 22
 00:01:59,814 --> 00:02:00,837
-Ah, what a waste of time
+Ah, you're wasting your breath
 
 23
 00:02:00,887 --> 00:02:03,360
-That puppy won't talk to you anyway
+That puppy isn't gonna talk to you
 
 24
 00:02:04,664 --> 00:02:05,872
@@ -105,7 +105,7 @@ I don't know where it ran off to
 
 27
 00:02:19,714 --> 00:02:21,384
-It looks kinda like that
+It looks kinda like this
 
 28
 00:02:21,814 --> 00:02:24,043
@@ -153,7 +153,7 @@ Seems like Shishimaru has really come
 
 39
 00:02:52,924 --> 00:02:54,352
-I originally left him back at my village
+I left him back at my village
 
 40
 00:02:54,403 --> 00:02:55,784
@@ -181,7 +181,7 @@ Who told you to come here?
 
 46
 00:03:40,127 --> 00:03:42,300
-So outrageous, go back to the village!
+You've got some nerve, go back to the village!
 
 47
 00:03:43,674 --> 00:03:46,007
@@ -193,7 +193,7 @@ I'm here to learn.
 
 49
 00:03:55,811 --> 00:03:59,347
-Oh? It's a ninja technique, the bone-dissecting, shrinking, escaping net method.
+Oh? It's a ninja technique, the bone-dissecting, shrinking, escaping net technique.
 
 50
 00:03:59,397 --> 00:04:01,531
@@ -201,7 +201,7 @@ I didn't expect your technique to improve so much.
 
 51
 00:04:01,926 --> 00:04:02,966
-Excuse me...
+Forgive me...
 
 52
 00:04:03,383 --> 00:04:05,123
@@ -475,7 +475,7 @@ Oh, hold on a moment
 
 119
 00:07:49,752 --> 00:07:51,262
-Let me help push them away
+Let me help send them off
 
 120
 00:07:51,312 --> 00:07:54,024

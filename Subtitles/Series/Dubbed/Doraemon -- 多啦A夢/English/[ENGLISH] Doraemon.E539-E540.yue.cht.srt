@@ -746,8 +746,7 @@ Dictator?
 
 187
 00:10:41,300 --> 00:10:44,888
-This is a button manufactured at the request of a future
-dictator
+This is a button manufactured at the order of a future dictator
 
 188
 00:10:45,405 --> 00:10:47,151
@@ -875,7 +874,7 @@ If that's the case,
 
 219
 00:12:00,810 --> 00:12:03,823
--I'd rather go practice. 
+-I'd rather go practice.
 - What?! Shut up!
 
 220
