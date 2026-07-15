@@ -127,7 +127,7 @@ There are 3 main resources that served as a starting point.
 | ai1 jaa3/5/6, ai1 jaak3 | 哎吔      |                                  |
 | ai1 jo3                 | 哎喲      |                                  |
 | bai6 laa3               | 弊喇      |  "oh no"                           |                         
-| ce1                     | 唓        | "tsk"                              |
+| ce1, ce2                | 唓        | "tsk", "pfft"                      |
 | e2, ei2                 | 欸        |                                    |
 | e4, e6                  | 誒        | "uh"                               |
 | hei1                    | 嘿        | as a greeting / shows satisfaction |
