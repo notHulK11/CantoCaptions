@@ -1,451 +1,445 @@
 1
 00:00:02,760 --> 00:00:04,300
-我叫做Peppa
+My name is Peppa
 
 2
 00:00:04,794 --> 00:00:07,154
-而佢就係我細佬George
+And this is my little brother George
 
 3
 00:00:07,606 --> 00:00:08,866
-佢就係豬太太
+This is Mummy Pig
 
 4
 00:00:09,878 --> 00:00:11,267
-佢係豬先生
+This is Daddy Pig
 
 5
 00:00:13,674 --> 00:00:15,045
-我係Peppa
+And I'm Peppa
 
 6
 00:00:17,035 --> 00:00:18,200
-［奇案］
+[Mysteries]
 
 7
 00:00:21,375 --> 00:00:22,428
-Peppa同屋企人
+Peppa and her family
 
 8
 00:00:22,479 --> 00:00:25,076
-喺度睇緊佢哋最鍾意嘅電視節目
+are watching their favourite TV show
 
 9
 00:00:25,127 --> 00:00:26,477
-《薯仔神探》
+"Potato Detective"
 
 10
 00:00:26,527 --> 00:00:28,420
-我就係薯仔神探喇
+I am Potato Detective
 
 11
 00:00:28,470 --> 00:00:29,965
-我係世界知名嘅神探
+I'm a world-famous detective
 
 12
 00:00:31,860 --> 00:00:33,911
-請你幫下我，神探先生
+Please help me, Mr Detective
 
 13
 00:00:33,961 --> 00:00:35,901
-我周圍都揾唔到我朵花啊
+I can't find my flower anywhere
 
 14
 00:00:35,952 --> 00:00:39,442
-嗯，你要揾嘅嗰朵花就喺你個頭上面囖
+Well, the flower you're looking for is right on your head
 
 15
 00:00:39,500 --> 00:00:41,365
-哦，唔該你啊，神探先生
+Oh, thank you, Mr Detective
 
 16
 00:00:42,043 --> 00:00:44,880
-噉好容易啫，我都做得到
+That's easy, I could've done that
 
 17
 00:00:46,083 --> 00:00:48,153
-我肯定你可以做到嘅
+I'm sure you could
 
 18
 00:00:48,211 --> 00:00:50,023
-爹哋，我大個咗之後
+Daddy, when I grow up
 
 19
 00:00:50,073 --> 00:00:52,313
-想做一個好出名嘅神探
+I want to be a very famous detective
 
 20
 00:00:53,180 --> 00:00:54,946
-George都想做神探喎
+George wants to be a detective too!
 
 21
 00:00:55,360 --> 00:00:57,448
-如果你哋想要做神探
+If you want to be detectives
 
 22
 00:00:57,498 --> 00:00:59,901
-你哋每個人都需要一頂帽
+you each need a hat
 
 23
 00:00:59,952 --> 00:01:02,195
-神探成日都戴住頂帽㗎
+Detectives always wear hats, you know
 
 24
 00:01:02,734 --> 00:01:05,735
-而家你哋睇落好似兩個真正嘅神探喇
+Now you both look like real detectives
 
 25
 00:01:06,077 --> 00:01:07,996
-我哋仲要嗰樣好得意
+We also need that funny thing
 
 26
 00:01:08,046 --> 00:01:10,604
-可以令所有嘢個樣變大嘅嘢
+that makes everything look bigger
 
 27
 00:01:10,655 --> 00:01:12,590
-嗰個係放大鏡啊
+That's a magnifying glass
 
 28
 00:01:12,640 --> 00:01:14,894
-我諗廚房嘅櫃桶有一個啊
+I think there's one in the kitchen drawer
 
 29
 00:01:15,903 --> 00:01:17,165
-喺呢一度
+Here it is
 
 30
 00:01:17,215 --> 00:01:19,391
-係一個真正嘅放大鏡啊
+A real magnifying glass
 
 31
 00:01:19,442 --> 00:01:21,805
-嘩，佢係點用㗎？
+Wow, how does it work?
 
 32
 00:01:22,339 --> 00:01:24,372
-你放佢喺啲嘢嘅前便
+You hold it in front of something
 
 33
 00:01:24,422 --> 00:01:25,901
-嗰樣嘢就會變大㗎喇
+and that thing looks bigger
 
 34
 00:01:25,952 --> 00:01:28,645
-個放大鏡令到條金魚變大咗
+The magnifying glass made the goldfish look bigger
 
 35
 00:01:29,472 --> 00:01:31,031
-我可唔可以試下啊？
+Can I try?
 
 36
 00:01:32,077 --> 00:01:33,353
-嘩
+Wow!
 
 37
 00:01:33,404 --> 00:01:36,697
-個放大鏡令到George隻眼變到好大啊
+The magnifying glass made George's eye look huge
 
 38
 00:01:38,303 --> 00:01:40,531
-而家你哋兩位神探所需要嘅嘢
+Now, what you two detectives need
 
 39
 00:01:40,581 --> 00:01:42,685
-就係一件要破解嘅奇案
+is a mystery to solve
 
 40
 00:01:42,730 --> 00:01:45,565
-爹哋，乜嘢係…曲奇案啊？
+Daddy, what's a... cookie case?
 
 41
 00:01:45,701 --> 00:01:47,263
-係奇案至啱啊
+It's a mystery, not a cookie
 
 42
 00:01:47,319 --> 00:01:50,045
-呢一樣係一啲神探最叻解決嘅嘢
+This is what detectives are best at solving
 
 43
 00:01:50,302 --> 00:01:52,405
-例如，揾啲唔見咗嘅嘢啦
+Like finding things that are lost
 
 44
 00:01:52,817 --> 00:01:53,745
-我知喇
+I know!
 
 45
 00:01:53,795 --> 00:01:56,568
-我哋可以揾George嘅恐龍出嚟啊
+We can find George's dinosaur
 
 46
 00:01:56,676 --> 00:01:58,999
-佢成日都整唔見㗎
+He's always losing it
 
 47
 00:01:59,202 --> 00:02:00,308
-恐龍
+Dinosaur!
 
 48
 00:02:00,802 --> 00:02:02,961
-恐龍先生並冇唔見到
+Mr Dinosaur isn't lost
 
 49
 00:02:03,260 --> 00:02:06,585
-噢，不如揾你副眼鏡吖，爹哋
+Oh, why don't we find your glasses, Daddy
 
 50
 00:02:06,636 --> 00:02:08,854
-你成日都話揾唔到佢㗎
+You're always saying you can't find them
 
 51
 00:02:09,758 --> 00:02:11,145
-今日冇唔見喎
+They're not lost today!
 
 52
 00:02:11,195 --> 00:02:13,114
-我副眼鏡喺呢一度啊
+My glasses are right here
 
 53
 00:02:13,165 --> 00:02:14,620
-哎吔，唔制啊
+Oh no, that's no good
 
 54
 00:02:14,670 --> 00:02:16,954
-都冇曲奇案畀我破𠸏？
+So there's no cookie mystery for me to solve?
 
 55
 00:02:17,542 --> 00:02:19,853
-你想我製造啲奇案畀你查呀？
+You want me to make up some mysteries for you to solve?
 
 56
 00:02:19,904 --> 00:02:21,325
-係啊，唔該
+Yes please
 
 57
 00:02:23,302 --> 00:02:26,041
-豬先生將會製造一啲奇案出嚟
+Daddy Pig is going to make up some mysteries
 
 58
 00:02:26,092 --> 00:02:28,563
-而家，枱上面有啲咩呢？
+Now, what's on the table?
 
 59
 00:02:28,613 --> 00:02:31,142
-有一條魚仔、有啤啤熊
+There's a little fish, a teddy bear
 
 60
 00:02:31,193 --> 00:02:34,562
-有彈弓小丑、仲有恐龍先生𠻹
+a jack-in-the-box, and Mr Dinosaur too
 
 61
 00:02:34,967 --> 00:02:35,805
-冇錯啊
+That's right
 
 62
 00:02:36,202 --> 00:02:37,680
-你而家留心啲睇
+Now watch closely
 
 63
 00:02:37,736 --> 00:02:39,605
-盡量記住佢哋喇喎
+Try to remember them
 
 64
 00:02:40,145 --> 00:02:42,269
-有一條魚仔、啤啤熊
+There's a fish, a teddy bear
 
 65
 00:02:42,319 --> 00:02:44,685
-彈弓小丑、同埋恐龍先生
+a jack-in-the-box clown, and Mr. Dinosaur
 
 66
 00:02:45,292 --> 00:02:46,743
-你記住晒佢哋未啊？
+Have you remembered them all?
 
 67
 00:02:46,794 --> 00:02:48,047
-記住晒喇
+Got them all
 
 68
 00:02:48,262 --> 00:02:49,542
-噉好喇
+Good
 
 69
 00:02:49,592 --> 00:02:52,298
-你哋幾個喺外面等一陣
+You two wait outside for a bit
 
 70
 00:02:52,348 --> 00:02:54,548
-我準備好就會叫你哋㗎喇
+I'll call you when I'm ready
 
 71
 00:02:56,294 --> 00:02:59,655
-呢啲聲聽落好似係爹哋上緊樓上啊
+That sounds like Daddy going up the stairs
 
 72
 00:03:01,445 --> 00:03:04,186
-而家就應該係落返樓下
+Now he should be coming back down
 
 73
 00:03:04,551 --> 00:03:07,439
-搞掂喇，你哋而家可以返入嚟喇
+All done, you can come back in now
 
 74
 00:03:08,399 --> 00:03:10,926
-枱上面有一樣嘢唔見咗
+Something's gone missing from the table
 
 75
 00:03:11,093 --> 00:03:12,399
-知道係咩嘛？
+Do you know what it is?
 
 76
 00:03:12,607 --> 00:03:14,669
-枱上面有恐龍先生
+There's Mr. Dinosaur
 
 77
 00:03:14,719 --> 00:03:17,339
-條魚仔、彈弓小丑
+the fish, the jack-in-the-box clown
 
 78
 00:03:17,457 --> 00:03:19,253
-係噉邊個唔見咗呢？
+So who's missing?
 
 79
 00:03:19,303 --> 00:03:21,385
-誒…啤啤熊
+Um... the teddy bear
 
 80
 00:03:21,436 --> 00:03:23,926
-完全正確，啤啤熊唔見咗
+That's exactly right, the teddy bear is missing
 
 81
 00:03:23,977 --> 00:03:25,885
-Peppa、George，你哋好叻啊
+Peppa, George, you're so clever!
 
 82
 00:03:26,289 --> 00:03:28,233
-呢啲對我哋嚟講好易啫
+This is easy for us
 
 83
 00:03:28,283 --> 00:03:30,365
-因為我哋係出名嘅神探
+Because we're famous detectives
 
 84
 00:03:31,257 --> 00:03:33,512
-但係呢單奇案只係破咗一半
+But this mystery is only half solved
 
 85
 00:03:33,562 --> 00:03:35,059
-啤啤熊去咗邊度呢？
+Where did the teddy bear go?
 
 86
 00:03:35,110 --> 00:03:36,845
-噢，我唔知啊
+Oh, I don't know
 
 87
 00:03:37,615 --> 00:03:40,048
-地下嗰啲一粒粒嘅嘢係咩嚟㗎？
+What are those little bits on the floor?
 
 88
 00:03:40,512 --> 00:03:42,005
-呢啲係蛋糕碎啊
+Those are cake crumbs
 
 89
 00:03:42,593 --> 00:03:45,725
-佢哋用放大鏡
-就好容易睇到嗰啲係蛋糕碎
+With a magnifying glass
+it's easy to see those are cake crumbs
 
 90
 00:03:46,526 --> 00:03:49,529
-唔知啤啤熊頭先係咪食緊蛋糕呢？
+I wonder if the teddy bear was eating cake earlier?
 
 91
 00:03:49,579 --> 00:03:52,581
-啲蛋糕碎係沿住呢邊去㗎
+The cake crumbs go this way
 
 92
 00:03:53,446 --> 00:03:56,005
-啤啤熊一定係食咗好多蛋糕嘞
+The teddy bear must have eaten a lot of cake
 
 93
 00:03:56,433 --> 00:03:59,241
-啲蛋糕碎一直去到Peppa同George間房
+The cake crumbs lead all the way to Peppa and George's room
 
 94
 00:03:59,292 --> 00:04:01,795
-噢，蛋糕碎嚟到呢度
+Oh, the crumbs lead here
 
 95
 00:04:02,064 --> 00:04:03,971
-我哋點樣揾啤啤熊啊？
+How do we find the teddy bear?
 
 96
 00:04:04,022 --> 00:04:05,670
-你問我一啲問題吖
+Ask me some questions
 
 97
 00:04:05,720 --> 00:04:08,945
-但係我只會答你「係」或者「唔係」
+But I'll only answer 'yes' or 'no'
 
 98
 00:04:08,996 --> 00:04:10,024
-噉好啦
+Okay then
 
 99
 00:04:11,405 --> 00:04:13,135
-啤啤熊係喺呢間房？
+Is the teddy bear in this room?
 
 100
 00:04:13,193 --> 00:04:13,943
-係
+Yes
 
 101
 00:04:14,097 --> 00:04:16,273
-啤啤熊係咪喺George張牀度啊？
+Is the teddy bear on George's bed?
 
 102
 00:04:16,324 --> 00:04:17,183
-唔係
+No
 
 103
 00:04:17,234 --> 00:04:19,938
-啤啤熊係咪喺好高嘅地方呢？
+Is the teddy bear somewhere high up?
 
 104
 00:04:19,989 --> 00:04:20,740
-係
+Yes
 
 105
 00:04:22,350 --> 00:04:23,934
-啤啤熊喺我張牀度
+The teddy bear is on my bed
 
 106
 00:04:23,985 --> 00:04:24,805
--好嘢！
--好嘢！
+-Yay!
+-Yay!
 
 107
 00:04:25,306 --> 00:04:26,961
-件奇案破解咗喇
+Mystery solved!
 
 108
 00:04:28,974 --> 00:04:32,085
-你係咪大個咗之後
-都想做神探啊，Peppa？
+Do you want to be a detective when you grow up, Peppa?
 
 109
 00:04:32,162 --> 00:04:35,187
-其實做神探一啲都唔易，好難㗎
+Actually, being a detective isn't easy at all, it's really hard
 
 110
-00:04:35,237 --> 00:04:37,555
-下一次我寧願去做製造奇案
-
-111
-00:04:37,605 --> 00:04:39,139
-嗰個人好過啊
+00:04:35,237 --> 00:04:39,139
+Next time, I'd rather be the one who makes up the mysteries
 
 112
 00:04:39,189 --> 00:04:41,298
-就好似爹哋你噉啊
-
+Just like you, Daddy
