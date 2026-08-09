@@ -329,7 +329,8 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | Explanation                                                                                                                                                 | Examples                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Written or background info is enclosed in Chinese parentheses.                                                                                              | （三年前）                                   |
-| The titles (of episodes, works, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
+| The titles (of works, shows, movies, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
+| Episode titles are enclosed in Chinese square brackets.                                                                                                        | ［那一天：西甘希娜淪陷2］                           |
 | Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
 | Episode titles are enclosed with Chinese square brackets.                                                                                                   | ［戰士］                                    |
 | Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                      | 【Sub Topic】                             |
