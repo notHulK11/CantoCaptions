@@ -333,6 +333,7 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
 | Episode titles are enclosed with Chinese square brackets.                                                                                                   | ［戰士］                                    |
 | Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                      | 【Sub Topic】                             |
+| Foreign speech is prefaced with the name of the language in Cantonese inside lenticular brackets, followed by a Cantonese translation. Mandarin and English do not count as foreign speech. They do not need to be tagged.                                                                      | 【日文】有冇搞錯？                             |
 | A Chinese comma is placed after all SFP, except when followed by 你 without a pause.                                                                         | ❌好啦我明喇。<br>✅好啦，我明喇<br>❌好春廢啊，你<br>✅好春廢啊你 |
 | Multiple speaker dialogue uses two lines and dialogue that begins with a hyphen without a following space.                                                  | -speaker 1<br>-speaker 2                |
 | Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                      | 我媽媽話：「唔准去嗰度」                            |
@@ -347,6 +348,7 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | Subtitles never end in a period and Chinese period is never used.                                                                                           | ❌我個名叫Tom。<br>✅我個名叫Tom                   |
 | The middle period is never used.                                                                                                                            | ❌哈利·波特<br>✅哈利波特                         |
 | Italics are never used.                                                                                                                                     |                                         |
+| English follows typical English casing rules. English words are capitalized at the start of a line but otherwise lowercased.       |      ✅你幾時開完meeting啊？<br>✅Meeting幾時開？                                   |
 
 ### Untranscribed Speech
 In general, these subtitles are a learning resource. The goal is not to transcribe verbatim all utterances in their entirety. The goal is have a complete subtitle that contains information useful to the learner. We do not want to include very minor, incidental speech/sounds, or unintentionally incorrect speech. Sentence Final Particles are transcribed as accurately as possible to benefit the learner.
