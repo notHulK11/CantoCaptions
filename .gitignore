@@ -1,5 +1,5 @@
 #Ignore SubtitleEdit bookmarks files
 #*.SE.bookmarks
-*.bookmarks
+#*.bookmarks
 Subtitles/subtitle_replacements.log
 *.ini
