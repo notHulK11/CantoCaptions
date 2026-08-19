@@ -229,7 +229,7 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 
 
 
-### Recommended CantoCaptions Conventions (Disambiguation)
+### Recommended CantoCaptions Conventions (for disambiguation or consistency)
 | ✅ Selected Variant | ❌ Other Variants | Jyutping                  | Explanation               |
 | ---------------- | -------------- | ------------------------------ | ------------------------- |
 | 𠹻               | 陣              | zam6                          |  氣味、風嘅量詞                     |
@@ -299,6 +299,8 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 嘍              | 摟              | lau3               |                           |
 | 篋              | gip、喼              | gip1               |                           |
 | 鋅盤              | sink盤、星盤、等等              | sing1 pun2          |                         |
+| 註定              | 注定              | zyu3 ding6       |                         |
+
 
 ## Subtitle Style Guide
 
