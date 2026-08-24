@@ -341,7 +341,9 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                      | 我媽媽話：「唔准去嗰度」                            |
 | When a question is followed by the name of who is being addressed then the question mark is used as the separator as opposed to a comma and a question mark | ❌你仲喺度，阿明？<br>✅你仲喺度？阿明                   |
 | Only 1 Chinese ellipsis character is used (never 2 as in ……).                                                                                               | ❌……<br>✅…                               |
-| When an utterance is repeated, transcribe only 1 instance with a trailing Chinese ellipsis character.                                                       | ❌ 喂喂喂<br>✅ 喂…                       |
+| Repetition of a one-character word one should be transcribed fully. If repeated more than once, use a trailing Chinese ellipsis character.                 | ✅ 喂喂            |
+| Repetition of a two-character once can either be abbreviated with a Chines ellipsis or not depending on the speed and length of the subtitle line. The quicker the repetition and the longer the line should use an ellipsis.      | ✅ 係啊，係啊<br>✅ 係啊…             |
+| Repetition of any word more than 2 times a trailing Chinese ellipsis character.                                                     | ❌ 喂喂喂<br>✅ 喂…             |
 | Adjectives can be repeated and singular characters can be doubled                                                                                           | ✅ 好多好多陪 <br> ✅ 喂喂                      |
 | In the case of interrupted speech, a Chinese ellipsis character is used to mark where the speaker is cut off and a new line begins with the new speech.     | -點解你…<br>-唔知啊                           |
 | In the case of trailing  speech, a Chinese ellipsis character is used.                                                                                      | ❌佢唔可以嘅話~~<br>✅佢唔可以嘅話…                   |
