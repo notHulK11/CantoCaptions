@@ -1,51 +1,51 @@
 1
 00:00:02,766 --> 00:00:04,213
-我叫做Peppa
+My name is Peppa
 
 2
 00:00:04,900 --> 00:00:06,981
-而佢就係我細佬George
+And this is my little brother George
 
 3
 00:00:07,557 --> 00:00:09,226
-佢就係豬太太
+This is Mummy Pig
 
 4
 00:00:09,830 --> 00:00:11,406
-佢係豬先生
+This is Daddy Pig
 
 5
 00:00:13,576 --> 00:00:14,836
-我係Peppa
+I'm Peppa
 
 6
 00:00:18,430 --> 00:00:20,656
-［George的朋友］
+[George's Friend]
 
 7
 00:00:21,316 --> 00:00:24,027
-Peppa同佢啲朋友喺遊樂場度玩
+Peppa and her friends are playing at the playground
 
 8
 00:00:25,030 --> 00:00:26,892
-Peppa、Suzy仲有Danny
+Peppa, Suzy and Danny
 
 9
 00:00:26,932 --> 00:00:28,172
-喺度玩氹氹轉
+are playing on the roundabout
 
 10
 00:00:28,213 --> 00:00:29,275
-你哋準備好未啊？
+Are you ready?
 
 11
 00:00:29,316 --> 00:00:30,382
--準備好
--準備好
+-Ready!
+-Ready!
 
 12
 00:00:30,423 --> 00:00:32,395
-係噉，開始喇
+Okay, here we go
 
 13
 00:00:33,024 --> 00:00:34,530
@@ -54,11 +54,11 @@ Peppa、Suzy仲有Danny
 
 14
 00:00:34,570 --> 00:00:36,465
-轉快啲，轉快啲
+Faster, faster!
 
 15
 00:00:36,505 --> 00:00:37,724
-噉好啦
+All right then
 
 16
 00:00:37,844 --> 00:00:39,799
@@ -67,56 +67,56 @@ Peppa、Suzy仲有Danny
 
 17
 00:00:42,872 --> 00:00:45,308
-George太細個，唔可以玩氹氹轉
+George is too little to play on the roundabout
 
 18
 00:00:45,348 --> 00:00:46,847
-佢喺度打緊韆鞦
+He's on the swings instead
 
 19
 00:00:50,389 --> 00:00:51,734
-Rebecca佢嚟咗
+Rebecca's here
 
 20
 00:00:51,796 --> 00:00:53,876
-仲帶埋佢細佬Richard嚟𠻹
+And she's brought her little brother Richard too
 
 21
 00:00:54,871 --> 00:00:56,325
-大家好嘛？
+Hi, everyone!
 
 22
 00:00:58,076 --> 00:00:59,583
--好嘛？
--好嘛？
+-Hi!
+-Hi!
 
 23
 00:01:00,089 --> 00:01:02,329
-我可唔可以一齊玩氹氹轉啊？
+Can I play on the roundabout too?
 
 24
 00:01:02,369 --> 00:01:04,049
-跳上嚟啦，Rebecca
+Hop on, Rebecca
 
 25
 00:01:04,889 --> 00:01:07,450
-我哋今次要轉得好快，好快嘅
+This time we're going to spin really, really fast
 
 26
 00:01:08,890 --> 00:01:11,585
-Richard都好想跳上去玩氹氹轉
+Richard wants to hop on the roundabout too
 
 27
 00:01:12,520 --> 00:01:14,219
-如果Richard上埋嚟
+If Richard gets on as well
 
 28
 00:01:14,260 --> 00:01:16,927
-噉我哋就唔可以轉咁快喇
+then we won't be able to spin so fast
 
 29
 00:01:17,144 --> 00:01:19,303
-Richard可以同George玩𠺝
+Richard can play with George instead
 
 30
 00:01:19,556 --> 00:01:20,496
@@ -124,35 +124,35 @@ Richard
 
 31
 00:01:20,670 --> 00:01:22,591
-你想去同George玩嘛？
+Do you want to go and play with George?
 
 32
 00:01:22,711 --> 00:01:23,605
-唔想
+No
 
 33
 00:01:23,945 --> 00:01:25,291
-George有一隻恐龍
+George has a dinosaur
 
 34
 00:01:25,331 --> 00:01:26,835
-好似你嗰隻噉㗎噃
+Just like yours!
 
 35
 00:01:26,876 --> 00:01:28,156
-我哋去睇下吖
+Let's go and see
 
 36
 00:01:29,556 --> 00:01:31,869
-George同Richard嘅年紀一樣咁大
+George and Richard are about the same age
 
 37
 00:01:31,909 --> 00:01:34,466
-Richard想睇下George嗰隻恐龍啊
+Richard wants to see George's dinosaur
 
 38
 00:01:35,672 --> 00:01:36,947
-恐龍
+Dinosaur!
 
 39
 00:01:38,475 --> 00:01:39,349
@@ -160,11 +160,11 @@ George
 
 40
 00:01:39,415 --> 00:01:41,878
-可唔可以借隻恐龍畀Richard玩下啊？
+Can you lend your dinosaur to Richard to play with?
 
 41
 00:01:41,918 --> 00:01:42,979
-唔制
+No way
 
 42
 00:01:43,159 --> 00:01:43,955
@@ -172,16 +172,15 @@ Richard
 
 43
 00:01:43,996 --> 00:01:46,362
-可唔可以借隻恐龍畀George玩下啊？
+Can you lend your dinosaur to George to play with?
 
 44
 00:01:46,402 --> 00:01:47,280
-唔制
+No way
 
 45
 00:01:47,654 --> 00:01:50,974
-George同Richard
-都唔想分享大家嘅恐龍喎
+George and Richard don't want to share their dinosaurs
 
 46
 00:01:51,446 --> 00:01:52,443
@@ -189,19 +188,19 @@ George
 
 47
 00:01:52,483 --> 00:01:55,770
-如果同人分享玩具，好玩好多㗎
+It's much more fun when you share your toys
 
 48
 00:01:56,642 --> 00:01:59,222
-George真係一個好乖嘅小朋友啊
+George is such a good little boy
 
 49
 00:02:00,085 --> 00:02:01,655
-恐龍
+Dinosaur!
 
 50
 00:02:03,985 --> 00:02:05,772
-George唔鍾意同人分享
+George doesn't like sharing
 
 51
 00:02:05,813 --> 00:02:06,665
@@ -209,151 +208,151 @@ Richard
 
 52
 00:02:06,872 --> 00:02:09,558
-而家輪到你畀George攬住啲恐龍喇
+Now it's your turn to let George hold the dinosaur
 
 53
 00:02:12,024 --> 00:02:14,291
-Richard亦都唔鍾意同人分享
+Richard doesn't like sharing either
 
 54
 00:02:15,844 --> 00:02:18,068
-你哋為咩事喊到咁大聲啊？
+Why are you two crying so loudly?
 
 55
 00:02:18,108 --> 00:02:20,270
-每次George同Richard一齊玩
+Every time George and Richard play together
 
 56
 00:02:20,311 --> 00:02:21,987
-到咗最後都會喊㗎
+they end up crying
 
 57
 00:02:22,027 --> 00:02:25,325
-佢哋太細喇，唔識點同人哋一齊玩啊
+They're too little, they don't know how to play with others yet
 
 58
 00:02:25,366 --> 00:02:26,253
-做姐姐嘅
+As the big sister
 
 59
 00:02:26,293 --> 00:02:28,139
-教下佢哋點樣同人哋一齊玩吖
+why don't you teach them how to play together?
 
 60
 00:02:28,180 --> 00:02:29,152
-冇問題
+No problem
 
 61
 00:02:29,192 --> 00:02:31,798
-我哋可以教佢哋堆沙城堡啊
+We could teach them to build sandcastles
 
 62
 00:02:31,865 --> 00:02:32,904
-好主意啊
+Good idea
 
 63
 00:02:32,944 --> 00:02:34,393
-我哋去沙池咯
+Let's go to the sandpit
 
 64
 00:02:38,949 --> 00:02:41,182
-George同Richard鍾意玩泥沙
+George and Richard love playing in the sand
 
 65
 00:02:41,649 --> 00:02:43,730
-George、Richard
+George, Richard
 
 66
 00:02:43,863 --> 00:02:47,465
-今日我哋幾個一齊堆沙城堡吖
+Let's all build a sandcastle together today
 
 67
 00:02:47,731 --> 00:02:50,501
-首先要將個水桶填滿沙
+First, fill the bucket with sand
 
 68
 00:02:53,280 --> 00:02:55,515
-然後你哋就反轉個水桶
+Then you turn the bucket upside down
 
 69
 00:02:55,555 --> 00:02:57,796
-跟住就輕輕噉拍下佢
+And gently pat it down
 
 70
 00:02:59,958 --> 00:03:02,196
-而家我哋拎起個水桶
+Now we lift up the bucket
 
 71
 00:03:02,556 --> 00:03:04,160
-成功咗喇
+It worked!
 
 72
 00:03:04,333 --> 00:03:06,077
-Richard整咗個沙城堡
+Richard made a sandcastle
 
 73
 00:03:06,410 --> 00:03:07,745
-成功咗喇
+It worked!
 
 74
 00:03:07,878 --> 00:03:10,062
-而George都整咗個沙城堡喎
+And George made a sandcastle too!
 
 75
 00:03:13,145 --> 00:03:16,578
-見啦，一齊玩會幾開心㗎
+See, playing together is fun
 
 76
 00:03:24,546 --> 00:03:25,516
-哦，弊喇
+Oh no
 
 77
 00:03:25,556 --> 00:03:27,676
-呢個遊戲進展得唔順利啊
+This isn't going well
 
 78
 00:03:27,716 --> 00:03:29,915
-係你細佬唔啱先㗎
+It's your little brother's fault
 
 79
 00:03:30,241 --> 00:03:33,368
-佢頭先整爛咗George嘅沙城堡啊
+He just wrecked George's sandcastle
 
 80
 00:03:33,795 --> 00:03:37,670
-頭先係你細佬整爛我細佬嘅沙城堡先㗎
+Your little brother wrecked my little brother's sandcastle first
 
 81
 00:03:38,223 --> 00:03:39,396
-喂，喂
+Hey, hey
 
 82
 00:03:39,436 --> 00:03:40,637
-你哋兩個做姐姐嘅
+You two, as the big sisters
 
 83
 00:03:40,677 --> 00:03:42,018
-應該教Richard同埋George
+should be teaching Richard and George
 
 84
 00:03:42,058 --> 00:03:44,239
-點樣和睦相處同埋一齊玩㗎
+how to get along and play together
 
 85
 00:03:44,279 --> 00:03:46,561
-冇錯啊，我哋係姐姐啊
+That's right, we're the big sisters
 
 86
 00:03:46,601 --> 00:03:48,441
-而George同Richard太細個
+And George and Richard are too little
 
 87
 00:03:48,482 --> 00:03:50,895
-唔識得點同人哋好好噉一齊玩
+to know how to play nicely with others
 
 88
 00:03:51,674 --> 00:03:53,325
-我有一個好主意啊
+I have a good idea
 
 89
 00:03:53,385 --> 00:03:54,213
@@ -361,78 +360,78 @@ George
 
 90
 00:03:54,254 --> 00:03:57,386
-你喺遊樂場度最鍾意玩邊樣遊戲啊？
+What's your favorite thing to play at the playground?
 
 91
 00:03:58,289 --> 00:03:59,489
-搖搖板
+The seesaw
 
 92
 00:03:59,683 --> 00:04:01,717
-George最鍾意玩搖搖板
+George's favorite is the seesaw
 
 93
 00:04:05,501 --> 00:04:07,181
-搖搖板
+Seesaw
 
 94
 00:04:08,014 --> 00:04:10,662
-原來一個人玩搖搖板係有困難㗎
+Turns out it's hard to play seesaw alone
 
 95
 00:04:14,136 --> 00:04:16,085
-Richard都想玩搖搖板
+Richard wants to play seesaw too
 
 96
 00:04:17,135 --> 00:04:18,734
-搖搖板
+Seesaw
 
 97
 00:04:18,775 --> 00:04:20,100
-搖搖板
+Seesaw
 
 98
 00:04:20,141 --> 00:04:21,634
-搖搖板
+Seesaw
 
 99
 00:04:21,675 --> 00:04:22,491
-睇下吖
+Look
 
 100
 00:04:22,532 --> 00:04:25,110
-George同Richard終於一齊玩喇
+George and Richard are finally playing together
 
 101
 00:04:25,151 --> 00:04:26,546
-搖搖板
+Seesaw
 
 102
 00:04:26,666 --> 00:04:27,976
-搖搖板
+Seesaw
 
 103
 00:04:28,017 --> 00:04:29,285
-搖搖板
+Seesaw
 
 104
 00:04:29,326 --> 00:04:30,636
-搖搖板
+Seesaw
 
 105
 00:04:31,674 --> 00:04:33,300
-George鍾意Richard
+George likes Richard
 
 106
 00:04:34,772 --> 00:04:36,536
-Richard都好鍾意George喎
+And Richard really likes George too!
 
 107
 00:04:36,933 --> 00:04:39,276
-George同Richard都鍾意一齊玩啊
+George and Richard both love playing together
 
 108
 00:04:41,119 --> 00:04:44,106
--搖搖板…
--搖搖板…
+-Seesaw...
+-Seesaw...
 
