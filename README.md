@@ -194,8 +194,8 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 𦧲              | lur             | loe1*2                         |                           |
 | 唯有               | 惟有             | wai4 jau5                      |                           |
 | 只係              |  衹係             | zi2 hai6                 |                           |
-| 之不過              | 只不過          | zi1 bat1 gwo3                 |                           |
-| 只不過              | 之不過          | zi2 bat1 gwo3                 |                           |
+| 之不過              | 只不過          | zi1 bat1 gwo3                 |   conjunction       |
+| 只不過              | 之不過          | zi2 bat1 gwo3                 |   conjunction or adverb       |
 | 唔止               | 唔只             | m4 zi2                         |                           |
 | 唔單止             | 唔單只            | m4 daan1 zi2                   |                           |
 | 唔止               | 唔只             | m4 zi2                         |                           |
@@ -344,7 +344,7 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | Repetition of a one-character word once should be transcribed fully. If repeated more than once, use a trailing Chinese ellipsis character.                 | ✅ 喂喂            |
 | Repetition of a two-character once can either be abbreviated with a Chinese ellipsis or not depending on the speed and length of the subtitle line. Faster pacing and tighter line-length constraints favor usage of an ellipsis.      | ✅ 係啊，係啊<br>✅ 係啊…             |
 | Repetition of any word more than 2 times a trailing Chinese ellipsis character.                                                     | ❌ 喂喂喂<br>✅ 喂…             |
-| Adjectives can be repeated and singular characters can be doubled                                                                                           | ✅ 好多好多陪 <br> ✅ 喂喂                      |
+| Adjectives can be repeated.                                                                                                          | ✅ 好多好多陪                  |
 | In the case of interrupted speech, a Chinese ellipsis character is used to mark where the speaker is cut off and a new line begins with the new speech.     | -點解你…<br>-唔知啊                           |
 | In the case of trailing  speech, a Chinese ellipsis character is used.                                                                                      | ❌佢唔可以嘅話~~<br>✅佢唔可以嘅話…                   |
 | In the case of stammering, the start is separated by a Chinese ellipsis, but this is only done once.                                                        | ❌只只不過<br>❌只…只…只不過<br>✅只…只不過             |
