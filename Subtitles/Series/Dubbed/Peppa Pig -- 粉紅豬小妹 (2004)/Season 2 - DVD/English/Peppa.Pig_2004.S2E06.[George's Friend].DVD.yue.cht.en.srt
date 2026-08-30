@@ -1,437 +1,436 @@
-1
+2766
 00:00:02,766 --> 00:00:04,213
 My name is Peppa
 
-2
+4900
 00:00:04,900 --> 00:00:06,981
 And this is my little brother George
 
-3
+7557
 00:00:07,557 --> 00:00:09,226
 This is Mummy Pig
 
-4
+9830
 00:00:09,830 --> 00:00:11,406
 This is Daddy Pig
 
-5
+13576
 00:00:13,576 --> 00:00:14,836
 I'm Peppa
 
-6
+18430
 00:00:18,430 --> 00:00:20,656
 [George's Friend]
 
-7
+21316
 00:00:21,316 --> 00:00:24,027
 Peppa and her friends are playing at the playground
 
-8
+25030
 00:00:25,030 --> 00:00:26,892
 Peppa, Suzy and Danny
 
-9
+26932
 00:00:26,932 --> 00:00:28,172
 are playing on the roundabout
 
-10
+28213
 00:00:28,213 --> 00:00:29,275
 Are you ready?
 
-11
+29316
 00:00:29,316 --> 00:00:30,382
 -Ready!
 -Ready!
 
-12
+30423
 00:00:30,423 --> 00:00:32,395
 Okay, here we go
 
-13
+33024
 00:00:33,024 --> 00:00:34,530
 -Whee!
 -Whee!
 
-14
+34570
 00:00:34,570 --> 00:00:36,465
 Faster, faster!
 
-15
+36505
 00:00:36,505 --> 00:00:37,724
 All right then
 
-16
+37844
 00:00:37,844 --> 00:00:39,799
 -Whee!
 -Whee!
 
-17
+42872
 00:00:42,872 --> 00:00:45,308
 George is too little to play on the roundabout
 
-18
+45348
 00:00:45,348 --> 00:00:46,847
 He's on the swings instead
 
-19
+50389
 00:00:50,389 --> 00:00:51,734
 Rebecca's here
 
-20
+51796
 00:00:51,796 --> 00:00:53,876
 And she's brought her little brother Richard too
 
-21
+54871
 00:00:54,871 --> 00:00:56,325
 Hi, everyone!
 
-22
+58076
 00:00:58,076 --> 00:00:59,583
 -Hi!
 -Hi!
 
-23
+60089
 00:01:00,089 --> 00:01:02,329
 Can I play on the roundabout too?
 
-24
+62369
 00:01:02,369 --> 00:01:04,049
 Hop on, Rebecca
 
-25
+64889
 00:01:04,889 --> 00:01:07,450
 This time we're going to spin really, really fast
 
-26
+68890
 00:01:08,890 --> 00:01:11,585
 Richard wants to hop on the roundabout too
 
-27
+72520
 00:01:12,520 --> 00:01:14,219
 If Richard gets on as well
 
-28
+74260
 00:01:14,260 --> 00:01:16,927
 then we won't be able to spin so fast
 
-29
+77144
 00:01:17,144 --> 00:01:19,303
 Richard can play with George instead
 
-30
+79556
 00:01:19,556 --> 00:01:20,496
 Richard
 
-31
+80670
 00:01:20,670 --> 00:01:22,591
 Do you want to go and play with George?
 
-32
+82711
 00:01:22,711 --> 00:01:23,605
 No
 
-33
+83945
 00:01:23,945 --> 00:01:25,291
 George has a dinosaur
 
-34
+85331
 00:01:25,331 --> 00:01:26,835
 Just like yours!
 
-35
+86876
 00:01:26,876 --> 00:01:28,156
 Let's go and see
 
-36
+89556
 00:01:29,556 --> 00:01:31,869
 George and Richard are about the same age
 
-37
+91909
 00:01:31,909 --> 00:01:34,466
 Richard wants to see George's dinosaur
 
-38
+95672
 00:01:35,672 --> 00:01:36,947
 Dinosaur!
 
-39
+98475
 00:01:38,475 --> 00:01:39,349
 George
 
-40
+99415
 00:01:39,415 --> 00:01:41,878
 Can you lend your dinosaur to Richard to play with?
 
-41
+101918
 00:01:41,918 --> 00:01:42,979
 No way
 
-42
+103159
 00:01:43,159 --> 00:01:43,955
 Richard
 
-43
+103996
 00:01:43,996 --> 00:01:46,362
 Can you lend your dinosaur to George to play with?
 
-44
+106402
 00:01:46,402 --> 00:01:47,280
 No way
 
-45
+107654
 00:01:47,654 --> 00:01:50,974
 George and Richard don't want to share their dinosaurs
 
-46
+111446
 00:01:51,446 --> 00:01:52,443
 George
 
-47
+112483
 00:01:52,483 --> 00:01:55,770
 It's much more fun when you share your toys
 
-48
+116642
 00:01:56,642 --> 00:01:59,222
 George is such a good little boy
 
-49
+120085
 00:02:00,085 --> 00:02:01,655
 Dinosaur!
 
-50
+123985
 00:02:03,985 --> 00:02:05,772
 George doesn't like sharing
 
-51
+125813
 00:02:05,813 --> 00:02:06,665
 Richard
 
-52
+126872
 00:02:06,872 --> 00:02:09,558
 Now it's your turn to let George hold the dinosaur
 
-53
+132024
 00:02:12,024 --> 00:02:14,291
 Richard doesn't like sharing either
 
-54
+135844
 00:02:15,844 --> 00:02:18,068
 Why are you two crying so loudly?
 
-55
+138108
 00:02:18,108 --> 00:02:20,270
 Every time George and Richard play together
 
-56
+140311
 00:02:20,311 --> 00:02:21,987
 they end up crying
 
-57
+142027
 00:02:22,027 --> 00:02:25,325
 They're too little, they don't know how to play with others yet
 
-58
+145366
 00:02:25,366 --> 00:02:26,253
 As the big sister
 
-59
+146293
 00:02:26,293 --> 00:02:28,139
 why don't you teach them how to play together?
 
-60
+148180
 00:02:28,180 --> 00:02:29,152
 No problem
 
-61
+149192
 00:02:29,192 --> 00:02:31,798
 We could teach them to build sandcastles
 
-62
+151865
 00:02:31,865 --> 00:02:32,904
 Good idea
 
-63
+152944
 00:02:32,944 --> 00:02:34,393
 Let's go to the sandpit
 
-64
+158949
 00:02:38,949 --> 00:02:41,182
 George and Richard love playing in the sand
 
-65
+161649
 00:02:41,649 --> 00:02:43,730
 George, Richard
 
-66
+163863
 00:02:43,863 --> 00:02:47,465
 Let's all build a sandcastle together today
 
-67
+167731
 00:02:47,731 --> 00:02:50,501
 First, fill the bucket with sand
 
-68
+173280
 00:02:53,280 --> 00:02:55,515
 Then you turn the bucket upside down
 
-69
+175555
 00:02:55,555 --> 00:02:57,796
 And gently pat it down
 
-70
+179958
 00:02:59,958 --> 00:03:02,196
 Now we lift up the bucket
 
-71
+182556
 00:03:02,556 --> 00:03:04,160
 It worked!
 
-72
+184333
 00:03:04,333 --> 00:03:06,077
 Richard made a sandcastle
 
-73
+186410
 00:03:06,410 --> 00:03:07,745
 It worked!
 
-74
+187878
 00:03:07,878 --> 00:03:10,062
 And George made a sandcastle too!
 
-75
+193145
 00:03:13,145 --> 00:03:16,578
 See, playing together is fun
 
-76
+204546
 00:03:24,546 --> 00:03:25,516
 Oh no
 
-77
+205556
 00:03:25,556 --> 00:03:27,676
 This isn't going well
 
-78
+207716
 00:03:27,716 --> 00:03:29,915
 It's your little brother's fault
 
-79
+210241
 00:03:30,241 --> 00:03:33,368
 He just wrecked George's sandcastle
 
-80
+213795
 00:03:33,795 --> 00:03:37,670
 Your little brother wrecked my little brother's sandcastle first
 
-81
+218223
 00:03:38,223 --> 00:03:39,396
 Hey, hey
 
-82
+219436
 00:03:39,436 --> 00:03:40,637
 You two, as the big sisters
 
-83
+220677
 00:03:40,677 --> 00:03:42,018
 should be teaching Richard and George
 
-84
+222058
 00:03:42,058 --> 00:03:44,239
 how to get along and play together
 
-85
+224279
 00:03:44,279 --> 00:03:46,561
 That's right, we're the big sisters
 
-86
+226601
 00:03:46,601 --> 00:03:48,441
 And George and Richard are too little
 
-87
+228482
 00:03:48,482 --> 00:03:50,895
 to know how to play nicely with others
 
-88
+231674
 00:03:51,674 --> 00:03:53,325
 I have a good idea
 
-89
+233385
 00:03:53,385 --> 00:03:54,213
 George
 
-90
+234254
 00:03:54,254 --> 00:03:57,386
 What's your favorite thing to play at the playground?
 
-91
+238289
 00:03:58,289 --> 00:03:59,489
 The seesaw
 
-92
+239683
 00:03:59,683 --> 00:04:01,717
 George's favorite is the seesaw
 
-93
+245501
 00:04:05,501 --> 00:04:07,181
 Seesaw
 
-94
+248014
 00:04:08,014 --> 00:04:10,662
 Turns out it's hard to play seesaw alone
 
-95
+254136
 00:04:14,136 --> 00:04:16,085
 Richard wants to play seesaw too
 
-96
+257135
 00:04:17,135 --> 00:04:18,734
 Seesaw
 
-97
+258775
 00:04:18,775 --> 00:04:20,100
 Seesaw
 
-98
+260141
 00:04:20,141 --> 00:04:21,634
 Seesaw
 
-99
+261675
 00:04:21,675 --> 00:04:22,491
 Look
 
-100
+262532
 00:04:22,532 --> 00:04:25,110
 George and Richard are finally playing together
 
-101
+265151
 00:04:25,151 --> 00:04:26,546
 Seesaw
 
-102
+266666
 00:04:26,666 --> 00:04:27,976
 Seesaw
 
-103
+268017
 00:04:28,017 --> 00:04:29,285
 Seesaw
 
-104
+269326
 00:04:29,326 --> 00:04:30,636
 Seesaw
 
-105
+271674
 00:04:31,674 --> 00:04:33,300
 George likes Richard
 
-106
+274772
 00:04:34,772 --> 00:04:36,536
 And Richard really likes George too!
 
-107
+276933
 00:04:36,933 --> 00:04:39,276
 George and Richard both love playing together
 
-108
+281119
 00:04:41,119 --> 00:04:44,106
 -Seesaw...
 -Seesaw...
-

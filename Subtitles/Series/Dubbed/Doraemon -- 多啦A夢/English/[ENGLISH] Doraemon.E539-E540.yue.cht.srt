@@ -1,1714 +1,1713 @@
-1
+8105
 00:00:08,105 --> 00:00:09,585
 As if in a dreamland
 
-2
+9845
 00:00:09,845 --> 00:00:11,398
 Magical power gifted to me
 
-3
+11758
 00:00:11,758 --> 00:00:13,525
 The magic bag's treasures
 
-4
+15898
 00:00:15,898 --> 00:00:17,418
 Traveling together through the universe
 
-5
+17685
 00:00:17,685 --> 00:00:19,344
 Chasing across the galaxies
 
-6
+19458
 00:00:19,458 --> 00:00:21,551
 The beauty of time
 
-7
+23471
 00:00:23,471 --> 00:00:25,218
 If problems are encountered
 
-8
+25438
 00:00:25,438 --> 00:00:30,311
 Transform anytime and anywhere, full of inspiration
 
-9
+30724
 00:00:30,724 --> 00:00:33,078
 Quickly fly to a carefree paradise
 
-10
+33228
 00:00:33,228 --> 00:00:35,028
 Hand in hand with the starlight
 
-11
+35053
 00:00:35,053 --> 00:00:37,750
 Dancing and shimmering
 
-12
+39131
 00:00:39,131 --> 00:00:42,691
 Casually step through this door
 
-13
+42965
 00:00:42,965 --> 00:00:46,645
 Achieve ideals, dreams come true
 
-14
+47045
 00:00:47,045 --> 00:00:50,672
 Crossing railways and countryside
 
-15
+50845
 00:00:50,845 --> 00:00:54,412
 In a blink, the Dream Express reappears
 
-16
+54772
 00:00:54,772 --> 00:00:55,958
 Sha la la la la
 
-17
+56145
 00:00:56,145 --> 00:00:58,565
 Sing along with me
 
-18
+58772
 00:00:58,772 --> 00:00:59,998
 Singing out loud
 
-19
+60098
 00:01:00,098 --> 00:01:02,564
 Happily strolling together
 
-20
+62618
 00:01:02,618 --> 00:01:03,845
 Doraemon
 
-21
+63958
 00:01:03,958 --> 00:01:05,891
 Let this moment never grow old
 
-22
+65918
 00:01:05,918 --> 00:01:09,965
 Dreams can finally be reached
 
-23
+70345
 00:01:10,345 --> 00:01:11,585
 sha la la la la
 
-24
+71765
 00:01:11,765 --> 00:01:13,998
 Sing along with me
 
-25
+74338
 00:01:14,338 --> 00:01:15,538
 Sing out loud
 
-26
+75845
 00:01:15,845 --> 00:01:18,135
 Happily strolling together
 
-27
+78289
 00:01:18,289 --> 00:01:19,522
 Doraemon
 
-28
+79589
 00:01:19,589 --> 00:01:21,529
 Let this moment never grow old
 
-29
+81582
 00:01:21,582 --> 00:01:28,915
 Beautiful scenery can finally be seen
 
-30
+91535
 00:01:31,535 --> 00:01:34,192
 [Nap in Heaven]
 
-31
+101418
 00:01:41,418 --> 00:01:42,885
 What’s all the noise about?
 
-32
+104230
 00:01:44,230 --> 00:01:45,155
 Mom!
 
-33
+105295
 00:01:45,295 --> 00:01:48,062
 The neighbors have started construction work.
 
-34
+108149
 00:01:48,149 --> 00:01:50,237
 Ah, it’s really noisy!
 
-35
+110556
 00:01:50,556 --> 00:01:52,256
 I guess I’ll just go to Shizuka’s house.
 
-36
+113458
 00:01:53,458 --> 00:01:54,898
 Why is it like this?
 
-37
+114939
 00:01:54,939 --> 00:01:57,104
 The neighbors bought a new sound system.
 
-38
+117145
 00:01:57,145 --> 00:01:59,265
 They turn it up really loud every morning.
 
-39
+120010
 00:02:00,010 --> 00:02:01,272
 There’s nothing we can do.
 
-40
+121352
 00:02:01,352 --> 00:02:02,932
 Let’s go to the open lot to escape.
 
-41
+125404
 00:02:05,404 --> 00:02:06,357
 Still noisy.
 
-42
+126398
 00:02:06,398 --> 00:02:07,517
 Nope.
 
-43
+128183
 00:02:08,183 --> 00:02:10,057
 We are recyclers
 
-44
+130157
 00:02:10,157 --> 00:02:12,857
 Bicycles, computers...
 
-45
+133278
 00:02:13,278 --> 00:02:15,245
 Selling bamboo
 
-46
+136030
 00:02:16,030 --> 00:02:18,151
 -Japan is really very noisy
 -Drying rack bamboo
 
-47
+138192
 00:02:18,192 --> 00:02:21,441
 -I want to go to a quiet country
 -Selling bamboo
 
-48
+144512
 00:02:24,512 --> 00:02:26,665
 Got it, Doraemon
 
-49
+146705
 00:02:26,705 --> 00:02:28,825
 Doesn't your magic bag have cloud-condense spray?
 
-50
+148866
 00:02:28,866 --> 00:02:29,718
 Huh?
 
-51
+149885
 00:02:29,885 --> 00:02:32,392
 Let's use it to sleep in the clouds!
 
-52
+152432
 00:02:32,432 --> 00:02:34,006
 Oh, so that's it?
 
-53
+154079
 00:02:34,079 --> 00:02:35,633
 Which cloud is better?
 
-54
+155674
 00:02:35,674 --> 00:02:37,453
 That big one is good
 
-55
+158838
 00:02:38,838 --> 00:02:40,876
 "Cloud Condensing Mist"
 
-56
+165804
 00:02:45,804 --> 00:02:47,692
 It should have solidified by now
 
-57
+169102
 00:02:49,102 --> 00:02:51,217
 Okay, no problem
 
-58
+176565
 00:02:56,565 --> 00:02:59,052
 Big and quiet, it's great!
 
-59
+179197
 00:02:59,197 --> 00:03:01,097
 Yeah, wait a moment
 
-60
+181603
 00:03:01,603 --> 00:03:04,516
 It would be a pain if the wind blew the cloud away
 
-61
+189270
 00:03:09,270 --> 00:03:11,962
 We will be over this area
 
-62
+192871
 00:03:12,871 --> 00:03:14,751
 Shizuka
 
-63
+197549
 00:03:17,549 --> 00:03:18,943
 What is it, Nobita?
 
-64
+198983
 00:03:18,983 --> 00:03:20,569
 Shall we go up to the clouds?
 
-65
+201560
 00:03:21,560 --> 00:03:23,095
 Hurry up...
 
-66
+212709
 00:03:32,709 --> 00:03:35,116
 Welcome, Shizuka
 
-67
+218592
 00:03:38,592 --> 00:03:40,505
 This is so much fun
 
-68
+247897
 00:04:07,897 --> 00:04:09,764
 Let's climb the cloud hills
 
-69
+260269
 00:04:20,269 --> 00:04:22,829
 We can't play like this on the ground
 
-70
+266640
 00:04:26,640 --> 00:04:28,967
 Ah, so comfortable
 
-71
+269008
 00:04:29,008 --> 00:04:30,760
 It's so quiet here too
 
-72
+270801
 00:04:30,801 --> 00:04:32,747
 It's simply like heaven
 
-73
+273510
 00:04:33,510 --> 00:04:34,795
 Heaven?
 
-74
+275375
 00:04:35,375 --> 00:04:37,855
 Right, make it into a real heaven!
 
-75
+277896
 00:04:37,896 --> 00:04:39,874
 What is a real heaven like?
 
-76
+281200
 00:04:41,200 --> 00:04:43,747
 Build a beautiful pool near here
 
-77
+283788
 00:04:43,788 --> 00:04:44,840
 Got it!
 
-78
+286490
 00:04:46,490 --> 00:04:48,525
 "Floating gas"
 
-79
+293163
 00:04:53,163 --> 00:04:55,372
 Build a temple on the mountaintop
 
-80
+296156
 00:04:56,156 --> 00:04:58,684
 "Automatic multi-purpose engineering machine"
 
-81
+299290
 00:04:59,290 --> 00:05:00,659
 After putting in the design plans
 
-82
+300699
 00:05:00,699 --> 00:05:03,038
 it will be built according to the design plans
 
-83
+322463
 00:05:22,463 --> 00:05:23,908
 Amazing
 
-84
+325136
 00:05:25,136 --> 00:05:26,443
 That's right
 
-85
+327930
 00:05:27,930 --> 00:05:29,591
 To create some atmosphere...
 
-86
+329884
 00:05:29,884 --> 00:05:31,017
 I found it
 
-87
+331058
 00:05:31,058 --> 00:05:32,834
 It's the costume from last year's play
 
-88
+333021
 00:05:33,021 --> 00:05:34,907
 To live happily in heaven
 
-89
+335307
 00:05:35,307 --> 00:05:37,612
 We need to bring lots of snacks and drinks
 
-90
+340025
 00:05:40,025 --> 00:05:41,072
 I'm back
 
-91
+341113
 00:05:41,113 --> 00:05:42,425
 It's done already
 
-92
+347356
 00:05:47,356 --> 00:05:48,649
 Amazing
 
-93
+348802
 00:05:48,802 --> 00:05:50,128
 Nobita
 
-94
+351899
 00:05:51,899 --> 00:05:53,239
 How's this look?
 
-95
+353280
 00:05:53,280 --> 00:05:55,543
 Amazing, like a real angel
 
-96
+355584
 00:05:55,584 --> 00:05:57,323
 Then add one more thing
 
-97
+357535
 00:05:57,535 --> 00:05:59,795
 "Automatic Rainbow Maker"
 
-98
+365104
 00:06:05,104 --> 00:06:06,711
 Even the sparrows have flown here
 
-99
+366752
 00:06:06,752 --> 00:06:08,884
 No matter how you look at it, it's paradise
 
-100
+383687
 00:06:23,687 --> 00:06:25,775
 This feeling is so good
 
-101
+396259
 00:06:36,259 --> 00:06:38,285
 Look at that cloud, it's so strange
 
-102
+398345
 00:06:38,345 --> 00:06:39,639
 It's really strange
 
-103
+399680
 00:06:39,680 --> 00:06:41,439
 It can stay still for hours
 
-104
+401480
 00:06:41,480 --> 00:06:43,945
 That's strange, what's happening?
 
-105
+405092
 00:06:45,092 --> 00:06:46,792
 It's really strange
 
-106
+406960
 00:06:46,960 --> 00:06:47,800
 Alright
 
-107
+407840
 00:06:47,840 --> 00:06:49,933
 I'll use this ball to test it
 
-108
+413846
 00:06:53,846 --> 00:06:55,346
 Who is it?
 
-109
+418134
 00:06:58,134 --> 00:07:00,082
 It's Gian and Suneo!
 
-110
+420180
 00:07:00,180 --> 00:07:01,429
 Outrageous
 
-111
+421636
 00:07:01,636 --> 00:07:03,109
 Back to you!
 
-112
+425488
 00:07:05,488 --> 00:07:06,362
 Ouch
 
-113
+429000
 00:07:09,000 --> 00:07:11,393
 Catch me if you can!
 
-114
+432521
 00:07:12,521 --> 00:07:14,828
 Nobita, how dare you be so arrogant
 
-115
+434869
 00:07:14,869 --> 00:07:17,104
 The rocket is ready to launch
 
-116
+437145
 00:07:17,145 --> 00:07:18,839
 Three, two, one…
 
-117
+438880
 00:07:18,880 --> 00:07:19,811
 Launch!
 
-118
+445142
 00:07:25,142 --> 00:07:26,222
 Success!
 
-119
+447451
 00:07:27,451 --> 00:07:29,791
 Nobita, you jerk, watch this!
 
-120
+450440
 00:07:30,440 --> 00:07:32,101
 Not that easy
 
-121
+455313
 00:07:35,313 --> 00:07:36,990
 Alright, since it's like this
 
-122
+459210
 00:07:39,210 --> 00:07:42,515
 He actually threw balls at us from the clouds
 
-123
+463543
 00:07:43,543 --> 00:07:46,130
 After throwing them, he wouldn't let us go up either
 
-124
+466170
 00:07:46,170 --> 00:07:47,477
 This way of thinking, where as long as you're happy
 
-125
+467518
 00:07:47,518 --> 00:07:50,304
 You don't care about others' feelings, is wrong
 
-126
+470619
 00:07:50,619 --> 00:07:52,173
 Nobita!
 
-127
+473299
 00:07:53,299 --> 00:07:55,090
 Come down right now!
 
-128
+477200
 00:07:57,200 --> 00:07:58,307
 Mom
 
-129
+478348
 00:07:58,348 --> 00:08:00,180
 It seems Mom is very angry
 
-130
+480248
 00:08:00,248 --> 00:08:01,561
 It doesn't really matter anyway
 
-131
+481602
 00:08:01,602 --> 00:08:03,081
 Because we've already played enough
 
-132
+483500
 00:08:03,500 --> 00:08:04,814
 That's true, isn't it?
 
-133
+486181
 00:08:06,181 --> 00:08:07,427
 Nobita
 
-134
+487668
 00:08:07,668 --> 00:08:10,296
 You hogged the cloud all to yourself, that's too selfish!
 
-135
+490337
 00:08:10,337 --> 00:08:11,123
 Doraemon
 
-136
+491164
 00:08:11,164 --> 00:08:13,857
 Hurry up and lend us the Anywhere Door so we can go play up there!
 
-137
+493898
 00:08:13,898 --> 00:08:15,731
 Got it, got it
 
-138
+502707
 00:08:22,707 --> 00:08:23,753
 Awesome
 
-139
+503794
 00:08:23,794 --> 00:08:25,841
 There's a swimming pool and a house too
 
-140
+505907
 00:08:25,907 --> 00:08:28,120
 That's right, it's called the Sky-House
 
-141
+508160
 00:08:28,160 --> 00:08:30,235
 This house belongs to us now
 
-142
+510276
 00:08:30,276 --> 00:08:32,613
 This is outrageous! Don't you know you're causing trouble for people?
 
-143
+512654
 00:08:32,654 --> 00:08:34,606
 It's gonna be cloudy all the time like this!
 
-144
+514983
 00:08:34,983 --> 00:08:36,856
 My clothes have been hung all day and still aren't dry
 
-145
+517080
 00:08:37,080 --> 00:08:39,029
 Excuse me, please move that cloud away immediately
 
-146
+519920
 00:08:39,920 --> 00:08:41,161
 You idiots!
 
-147
+532448
 00:08:52,448 --> 00:08:54,648
 [Dictator Button]
 
-148
+544232
 00:09:04,232 --> 00:09:05,840
 18 to 2
 
-149
+545947
 00:09:05,947 --> 00:09:07,379
 It's a crushing defeat
 
-150
+547500
 00:09:07,500 --> 00:09:09,388
 This time we lost by 18 points
 
-151
+549461
 00:09:09,461 --> 00:09:12,155
 15 of those points were because of your mistakes, Nobita!
 
-152
+552382
 00:09:12,382 --> 00:09:15,363
 18 points minus 15 points is...
 
-153
+555404
 00:09:15,404 --> 00:09:16,163
 three
 
-154
+556204
 00:09:16,204 --> 00:09:18,110
 So, even if I didn't score those 15 points,
 
-155
+558150
 00:09:18,150 --> 00:09:19,783
 we still lost by three to two
 
-156
+559940
 00:09:19,940 --> 00:09:22,062
 It wasn't because of me that we lost, really!
 
-157
+562103
 00:09:22,103 --> 00:09:23,289
 Shut up!
 
-158
+563506
 00:09:23,506 --> 00:09:24,886
 If it weren't for your mistakes,
 
-159
+564926
 00:09:24,926 --> 00:09:26,529
 we could have scored at least five more points
 
-160
+566570
 00:09:26,570 --> 00:09:28,462
 So, in total, we lost 20 points
 
-161
+568720
 00:09:28,720 --> 00:09:31,637
 It all comes down to you that we lost
 
-162
+571684
 00:09:31,684 --> 00:09:33,021
 Is that so?
 
-163
+573160
 00:09:33,160 --> 00:09:35,134
 Let me retrain you
 
-164
+575280
 00:09:35,280 --> 00:09:37,806
 The first training is for me to hit a thousand balls to you
 
-165
+577966
 00:09:37,966 --> 00:09:40,200
 Okay, but I have something to do...
 
-166
+580266
 00:09:40,266 --> 00:09:41,441
 Don't go!
 
-167
+582266
 00:09:42,266 --> 00:09:43,796
 Don't go...
 
-168
+584095
 00:09:44,095 --> 00:09:46,130
 Nobita, don't you want to improve?
 
-169
+586336
 00:09:46,336 --> 00:09:49,374
 I really want to improve, but I don't like practicing
 
-170
+599662
 00:09:59,662 --> 00:10:00,864
 This is terrifying!
 
-171
+602869
 00:10:02,869 --> 00:10:04,382
 So mean!
 
-172
+604465
 00:10:04,465 --> 00:10:07,238
 Why does Gian do this to me all the time?
 
-173
+607372
 00:10:07,372 --> 00:10:10,327
 In the end, it's because you're too bad at playing.
 
-174
+611380
 00:10:11,380 --> 00:10:12,533
 I'll go with you.
 
-175
+612574
 00:10:12,574 --> 00:10:15,214
 To stop being treated like this, go practice.
 
-176
+615314
 00:10:15,314 --> 00:10:15,959
 Let's go!
 
-177
+616000
 00:10:16,000 --> 00:10:16,882
 No!
 
-178
+618357
 00:10:18,357 --> 00:10:20,508
 The problem now is with Gian.
 
-179
+620881
 00:10:20,881 --> 00:10:21,888
 That's right.
 
-180
+621929
 00:10:21,929 --> 00:10:24,602
 If only Gian didn't exist, this wouldn't happen.
 
-181
+626053
 00:10:26,053 --> 00:10:29,166
 Actually, it's simple. If Gian moved away, it would be fine
 
-182
+630011
 00:10:30,011 --> 00:10:31,605
 You really think that?
 
-183
+631957
 00:10:31,957 --> 00:10:34,504
 That's just a fact, he just needs to go
 
-184
+634545
 00:10:34,545 --> 00:10:35,928
 Then try this
 
-185
+637601
 00:10:37,601 --> 00:10:39,567
 "Dictator Button"
 
-186
+640155
 00:10:40,155 --> 00:10:41,188
 Dictator?
 
-187
+641300
 00:10:41,300 --> 00:10:44,888
 This is a button manufactured at the order of a future dictator
 
-188
+645405
 00:10:45,405 --> 00:10:47,151
 The so-called dictator is like this
 
-189
+647330
 00:10:47,330 --> 00:10:48,688
 They want to make the whole world follow
 
-190
+648729
 00:10:48,729 --> 00:10:51,708
 their own ideas and develop according to their tastes.
 
-191
+651890
 00:10:51,890 --> 00:10:54,760
 What would they do if other people had different ideas?
 
-192
+655019
 00:10:55,019 --> 00:10:56,120
 They would be eliminated.
 
-193
+656339
 00:10:56,339 --> 00:10:58,088
 In order to realize their own ideals,
 
-194
+658128
 00:10:58,128 --> 00:10:59,147
 they would use this button
 
-195
+659188
 00:10:59,188 --> 00:11:02,567
 to eliminate one by one the people who oppose them and hinder them.
 
-196
+664377
 00:11:04,377 --> 00:11:06,297
 Eliminate? What does that mean?
 
-197
+666344
 00:11:06,344 --> 00:11:09,242
 They would disappear from the world, without a trace.
 
-198
+669722
 00:11:09,722 --> 00:11:11,102
 Oh, that came just in time.
 
-199
+671678
 00:11:11,678 --> 00:11:12,488
 Watch
 
-200
+674420
 00:11:14,420 --> 00:11:15,959
 What? What?
 
-201
+676000
 00:11:16,000 --> 00:11:17,840
 The fly is really gone
 
-202
+677880
 00:11:17,880 --> 00:11:19,799
 Isn't it simple?
 
-203
+679840
 00:11:19,840 --> 00:11:21,701
 Eliminate the eyesore person!
 
-204
+682713
 00:11:22,713 --> 00:11:25,763
 Use it to change the world as you wish
 
-205
+686766
 00:11:26,766 --> 00:11:29,720
 But I think it's terrifying to eliminate people
 
-206
+690253
 00:11:30,253 --> 00:11:32,176
 Let me consider it first
 
-207
+692608
 00:11:32,608 --> 00:11:35,216
 Suit yourself, take your time to consider
 
-208
+696872
 00:11:36,872 --> 00:11:39,372
 Although Gian is an annoying person
 
-209
+699604
 00:11:39,604 --> 00:11:42,744
 it's too shameful to eliminate him
 
-210
+706420
 00:11:46,420 --> 00:11:47,800
 That hurts!
 
-211
+707840
 00:11:47,840 --> 00:11:48,939
 Who is it?
 
-212
+708980
 00:11:48,980 --> 00:11:50,112
 It is I, your lord!
 
-213
+710225
 00:11:50,225 --> 00:11:51,907
 You just ran away!
 
-214
+711948
 00:11:51,948 --> 00:11:54,114
 If you don't want me to pitch to you,
 
-215
+714207
 00:11:54,207 --> 00:11:56,148
 Then I'll just hit you directly.
 
-216
+717294
 00:11:57,294 --> 00:11:58,280
 Don't run away!
 
-217
+718320
 00:11:58,320 --> 00:11:59,560
 Please spare me!
 
-218
+719600
 00:11:59,600 --> 00:12:00,756
 If that's the case,
 
-219
+720810
 00:12:00,810 --> 00:12:03,823
 -I'd rather go practice.
 - What?! Shut up!
 
-220
+725993
 00:12:05,993 --> 00:12:07,325
 Don't go!
 
-221
+727599
 00:12:07,599 --> 00:12:09,598
 Nobita, get ready to be beaten!
 
-222
+729731
 00:12:09,731 --> 00:12:10,704
 G... Gian
 
-223
+730745
 00:12:10,745 --> 00:12:11,898
 The first blow
 
-224
+732004
 00:12:12,004 --> 00:12:13,107
 Disappear!
 
-225
+749003
 00:12:29,003 --> 00:12:30,103
 He disappeared?
 
-226
+751220
 00:12:31,220 --> 00:12:32,760
 He really disappeared
 
-227
+755543
 00:12:35,543 --> 00:12:37,689
 I've done something very serious
 
-228
+759997
 00:12:39,997 --> 00:12:41,137
 Is that Nobita?
 
-229
+762470
 00:12:42,470 --> 00:12:44,549
 What are you doing? Your face is pale
 
-230
+764590
 00:12:44,590 --> 00:12:46,582
 I've eliminated Gian... what should I do?
 
-231
+766623
 00:12:46,623 --> 00:12:48,102
 I've eliminated Gian.
 
-232
+768143
 00:12:48,143 --> 00:12:50,262
 Who's Gian? Who is that?
 
-233
+771070
 00:12:51,070 --> 00:12:54,070
 I'm said Gian, so Gian, Takeshi Goda.
 
-234
+774110
 00:12:54,110 --> 00:12:56,450
 He's huge and always bullying people.
 
-235
+776491
 00:12:56,491 --> 00:12:58,864
 He's a classmate who lives nearby.
 
-236
+779236
 00:12:59,236 --> 00:13:01,166
 Is there really someone like that?
 
-237
+781207
 00:13:01,207 --> 00:13:03,750
 Shizuka, you've had headaches because of him too.
 
-238
+783833
 00:13:03,833 --> 00:13:07,370
 My name is Gian, I'm the little overlord.
 
-239
+787417
 00:13:07,417 --> 00:13:09,144
 Strong and tough.
 
-240
+789290
 00:13:09,290 --> 00:13:10,150
 Like that?
 
-241
+790516
 00:13:10,516 --> 00:13:12,079
 That song is quite interesting
 
-242
+792120
 00:13:12,120 --> 00:13:13,246
 No way
 
-243
+793672
 00:13:13,672 --> 00:13:15,372
 Just in time
 
-244
+795507
 00:13:15,507 --> 00:13:16,953
 Teacher...
 
-245
+797579
 00:13:17,579 --> 00:13:18,651
 What are you doing, Nobita?
 
-246
+798692
 00:13:18,692 --> 00:13:19,473
 Teacher, you...
 
-247
+799513
 00:13:19,513 --> 00:13:21,412
 You should know a person named Gian, right?
 
-248
+801453
 00:13:21,453 --> 00:13:22,427
 Gian?
 
-249
+802784
 00:13:22,784 --> 00:13:25,671
 It seems like there's no one like that in our class.
 
-250
+805712
 00:13:25,712 --> 00:13:28,345
 So far, there are no students with that name.
 
-251
+808386
 00:13:28,386 --> 00:13:29,672
 How can that be?
 
-252
+809732
 00:13:29,732 --> 00:13:31,419
 Shizuka, come with me.
 
-253
+818200
 00:13:38,200 --> 00:13:39,632
 Little G!
 
-254
+821044
 00:13:41,044 --> 00:13:42,530
 Nobita, what's wrong?
 
-255
+823210
 00:13:43,210 --> 00:13:46,165
 We want to ask about your brother.
 
-256
+826206
 00:13:46,206 --> 00:13:48,300
 My brother? Go ahead and ask.
 
-257
+828340
 00:13:48,340 --> 00:13:51,319
 That's great, the sibling relationship hasn't changed.
 
-258
+831360
 00:13:51,360 --> 00:13:53,085
 This is my brother.
 
-259
+835377
 00:13:55,377 --> 00:13:58,710
 So this is what your brother is like in your mind, Little G.
 
-260
+839362
 00:13:59,362 --> 00:14:02,316
 He is a good person, very stylish, and best at playing the flute.
 
-261
+842365
 00:14:02,365 --> 00:14:04,510
 It would be great to have a brother like that.
 
-262
+844664
 00:14:04,664 --> 00:14:06,750
 How could it be like this?
 
-263
+847287
 00:14:07,287 --> 00:14:09,067
 Your brother is rough.
 
-264
+850067
 00:14:10,067 --> 00:14:11,830
 He looks like this.
 
-265
+851944
 00:14:11,944 --> 00:14:13,424
 Skilled at eating and drinking excessively.
 
-266
+855322
 00:14:15,322 --> 00:14:16,582
 You've gone too far!
 
-267
+858730
 00:14:18,730 --> 00:14:19,883
 Nobita!
 
-268
+859924
 00:14:19,924 --> 00:14:21,537
 I'm sorry, it was fake...
 
-269
+861578
 00:14:21,578 --> 00:14:22,684
 I was just kidding.
 
-270
+866386
 00:14:26,386 --> 00:14:27,941
 Rather than saying he disappeared
 
-271
+867982
 00:14:27,982 --> 00:14:29,941
 Better to say he never existed in the first place
 
-272
+876896
 00:14:36,896 --> 00:14:37,831
 Nobita
 
-273
+878610
 00:14:38,610 --> 00:14:41,211
 If you make another mistake, you'll be in trouble
 
-274
+881990
 00:14:41,990 --> 00:14:43,004
 Got it!
 
-275
+886589
 00:14:46,589 --> 00:14:48,504
 You have to hit it!
 
-276
+889829
 00:14:49,829 --> 00:14:52,312
 Ball is good, batter out!
 
-277
+893217
 00:14:53,217 --> 00:14:55,292
 It really wasn't my fault
 
-278
+901270
 00:15:01,270 --> 00:15:02,517
 Who is it?
 
-279
+902558
 00:15:02,558 --> 00:15:03,331
 It's me
 
-280
+903384
 00:15:03,384 --> 00:15:04,615
 Suneo?
 
-281
+904677
 00:15:04,677 --> 00:15:07,614
 Nobita, you made us lose today's game.
 
-282
+908689
 00:15:08,689 --> 00:15:10,516
 In a world without Gian...
 
-283
+910556
 00:15:10,556 --> 00:15:12,049
 Suneo is the leader?
 
-284
+912090
 00:15:12,090 --> 00:15:12,935
 As punishment,
 
-285
+912975
 00:15:12,975 --> 00:15:15,828
 I'm going to hit a thousand balls to you.
 
-286
+915869
 00:15:15,869 --> 00:15:18,959
 If you don't want to catch them, I'll come and hit you!
 
-287
+919560
 00:15:19,560 --> 00:15:20,859
 It's exactly the same.
 
-288
+920900
 00:15:20,900 --> 00:15:22,185
 Here I come!
 
-289
+923733
 00:15:23,733 --> 00:15:25,700
 I hate it when this happens!
 
-290
+926177
 00:15:26,177 --> 00:15:28,458
 Stop talking! First strike!
 
-291
+928580
 00:15:28,580 --> 00:15:30,197
 Suneo disappear!
 
-292
+932211
 00:15:32,211 --> 00:15:32,811
 Hey
 
-293
+933552
 00:15:33,552 --> 00:15:34,469
 Suneo
 
-294
+936283
 00:15:36,283 --> 00:15:37,543
 It's like this again?
 
-295
+937623
 00:15:37,623 --> 00:15:39,356
 It's not my fault
 
-296
+939840
 00:15:39,840 --> 00:15:41,480
 I won't use it again
 
-297
+941520
 00:15:41,520 --> 00:15:43,319
 I have to give it back to Doraemon quickly
 
-298
+943620
 00:15:43,620 --> 00:15:44,719
 Hey, Nobita
 
-299
+944792
 00:15:44,792 --> 00:15:47,574
 Today's game was lost because of you
 
-300
+947702
 00:15:47,702 --> 00:15:49,122
 Don't go too far.
 
-301
+949163
 00:15:49,163 --> 00:15:50,749
 Watch out, or I'll get rid of you!
 
-302
+952339
 00:15:52,339 --> 00:15:53,899
 Each and every one of you is like this.
 
-303
+954500
 00:15:54,500 --> 00:15:55,518
 Nobita
 
-304
+955660
 00:15:55,660 --> 00:15:58,106
 You didn't do your homework, where did you go to play?
 
-305
+958147
 00:15:58,147 --> 00:16:00,332
 Mom, I beg you, don't make me angry!
 
-306
+961565
 00:16:01,565 --> 00:16:04,640
 You want me to make Gian and Suneo, who disappeared, reappear?
 
-307
+964708
 00:16:04,708 --> 00:16:06,095
 It can't be done.
 
-308
+966400
 00:16:06,400 --> 00:16:08,788
 This isn't a magic show.
 
-309
+968880
 00:16:08,880 --> 00:16:10,227
 How can that be?
 
-310
+970268
 00:16:10,268 --> 00:16:11,540
 Forget them.
 
-311
+974160
 00:16:14,160 --> 00:16:15,708
 This button is scary.
 
-312
+975748
 00:16:15,748 --> 00:16:17,728
 When I get angry, I naturally want to press it.
 
-313
+977768
 00:16:17,768 --> 00:16:18,847
 I don't care anymore!
 
-314
+995391
 00:16:35,391 --> 00:16:37,838
 Nobita is really useless.
 
-315
+998290
 00:16:38,290 --> 00:16:40,371
 This boy is really infuriating.
 
-316
+1000828
 00:16:40,828 --> 00:16:42,622
 -Nobita is good at nothing
 -Nobita is good at nothing
 
-317
+1002663
 00:16:42,663 --> 00:16:44,028
 -and a scaredy-cat.
 -and a scaredy-cat.
 
-318
+1004149
 00:16:44,149 --> 00:16:45,056
 Stop...
 
-319
+1005104
 00:16:45,104 --> 00:16:46,929
 I really don't want to press the button anymore.
 
-320
+1007044
 00:16:47,044 --> 00:16:48,770
 But with annoying things all disappeared
 
-321
+1008811
 00:16:48,811 --> 00:16:50,595
 Wouldn't you be happy?
 
-322
+1010636
 00:16:50,636 --> 00:16:51,328
 No!
 
-323
+1011369
 00:16:51,369 --> 00:16:52,371
 Always lying!
 
-324
+1013829
 00:16:53,829 --> 00:16:55,306
 Even Doraemon is like this
 
-325
+1015346
 00:16:55,346 --> 00:16:57,772
 Stop it, you guys are ganging up on me!
 
-326
+1017910
 00:16:57,910 --> 00:16:59,972
 I'm going to destroy all of you!
 
-327
+1028260
 00:17:08,260 --> 00:17:10,021
 It's so strangely quiet?
 
-328
+1030607
 00:17:10,607 --> 00:17:11,966
 Mom!
 
-329
+1032172
 00:17:12,172 --> 00:17:13,565
 Doraemon!
 
-330
+1034640
 00:17:14,640 --> 00:17:16,027
 Mom!
 
-331
+1037905
 00:17:17,905 --> 00:17:18,972
 Mom!
 
-332
+1043858
 00:17:23,858 --> 00:17:26,631
 Always scolding me for not turning off the faucet, but you do the same thing?
 
-333
+1050752
 00:17:30,752 --> 00:17:31,976
 There's no one here?
 
-334
+1052293
 00:17:32,293 --> 00:17:34,495
 Everyone must have gone to the open lot to play
 
-335
+1054536
 00:17:34,536 --> 00:17:35,467
 That's right!
 
-336
+1055508
 00:17:35,508 --> 00:17:37,769
 Hey, let me join you!
 
-337
+1062859
 00:17:42,859 --> 00:17:45,039
 Shizuka, let's play together!
 
-338
+1065079
 00:17:45,079 --> 00:17:46,322
 Shizuka!
 
-339
+1066515
 00:17:46,515 --> 00:17:48,214
 Shizuka, hey!
 
-340
+1068254
 00:17:48,254 --> 00:17:49,774
 If you're here, then answer me!
 
-341
+1069815
 00:17:49,815 --> 00:17:51,345
 Hey, come out!
 
-342
+1071910
 00:17:51,910 --> 00:17:53,970
 Hello...
 
-343
+1074011
 00:17:54,011 --> 00:17:56,050
 Hello, is anyone there?
 
-344
+1076376
 00:17:56,376 --> 00:17:57,896
 Is anyone there?
 
-345
+1077960
 00:17:57,960 --> 00:18:00,173
 Hello, is anyone there?
 
-346
+1084035
 00:18:04,035 --> 00:18:05,382
 Oh right, find Dad
 
-347
+1092686
 00:18:12,686 --> 00:18:14,404
 Why aren't you picking up the phone?
 
-348
+1096927
 00:18:16,927 --> 00:18:18,321
 I can't see even a single person?
 
-349
+1099769
 00:18:19,769 --> 00:18:20,832
 Here too
 
-350
+1101945
 00:18:21,945 --> 00:18:23,951
 Here too, here too
 
-351
+1103992
 00:18:23,992 --> 00:18:25,245
 What should I do?
 
-352
+1106790
 00:18:26,790 --> 00:18:29,217
 I made everyone in the world eliminated.
 
-353
+1109263
 00:18:29,263 --> 00:18:31,306
 This is a big problem!
 
-354
+1122310
 00:18:42,310 --> 00:18:43,467
 So what?
 
-355
+1124220
 00:18:44,220 --> 00:18:46,360
 What's done is done.
 
-356
+1127227
 00:18:47,227 --> 00:18:49,100
 Always look on the bright side of things.
 
-357
+1129140
 00:18:49,140 --> 00:18:51,298
 I no longer have friends who look down on me.
 
-358
+1131339
 00:18:51,339 --> 00:18:53,654
 Nor do I have my mother and teacher to bother me.
 
-359
+1133819
 00:18:53,819 --> 00:18:54,752
 So from now on
 
-360
+1134792
 00:18:54,792 --> 00:18:56,908
 I can do whatever, whenever, and wherever I want.
 
-361
+1136958
 00:18:56,958 --> 00:18:58,025
 Alright!
 
-362
+1138690
 00:18:58,690 --> 00:19:01,219
 I've wanted to try sleeping on the highway since long ago.
 
-363
+1141852
 00:19:01,852 --> 00:19:04,072
 This place will be called Nobita Station from now on.
 
-364
+1144565
 00:19:04,565 --> 00:19:06,342
 What a magnificent building!
 
-365
+1147278
 00:19:07,278 --> 00:19:09,485
 This place will be used for afternoon naps from now on!
 
-366
+1151371
 00:19:11,371 --> 00:19:13,925
 The entire Earth belongs to me now.
 
-367
+1154251
 00:19:14,251 --> 00:19:17,324
 I am the dictator, long live me!
 
-368
+1160440
 00:19:20,440 --> 00:19:22,710
 All the TV stations aren't broadcasting.
 
-369
+1162751
 00:19:22,751 --> 00:19:24,277
 I guess I expected this.
 
-370
+1166296
 00:19:26,296 --> 00:19:28,939
 Now I can do anything at any time.
 
-371
+1169203
 00:19:29,203 --> 00:19:31,743
 But, on the other hand, there's nothing special I want to do.
 
-372
+1172210
 00:19:32,210 --> 00:19:35,410
 If I had known it would be like this, I would have at least left Doraemon here
 
-373
+1176579
 00:19:36,579 --> 00:19:37,379
 Mom!
 
-374
+1182190
 00:19:42,190 --> 00:19:44,251
 There should be enough money
 
-375
+1185562
 00:19:45,562 --> 00:19:46,957
 It looks delicious
 
-376
+1192601
 00:19:52,601 --> 00:19:54,761
 I can just eat what I like
 
-377
+1195348
 00:19:55,348 --> 00:19:57,267
 I can drink whatever I want, anytime
 
-378
+1202434
 00:20:02,434 --> 00:20:04,400
 Special dessert, complete!
 
-379
+1216435
 00:20:16,435 --> 00:20:18,348
 I can't eat anymore
 
-380
+1222200
 00:20:22,200 --> 00:20:23,427
 Okay, here it comes!
 
-381
+1227640
 00:20:27,640 --> 00:20:29,820
 Great, impressive!
 
-382
+1231186
 00:20:31,186 --> 00:20:33,000
 Actually it's not impressive at all
 
-383
+1236043
 00:20:36,043 --> 00:20:37,760
 Since I have nothing better to do
 
-384
+1261210
 00:21:01,210 --> 00:21:03,104
 Great! Did you see that?
 
-385
+1263170
 00:21:03,170 --> 00:21:04,971
 Doraemon said I need to practice more
 
-386
+1265011
 00:21:05,011 --> 00:21:06,430
 He was actually right!
 
-387
+1267827
 00:21:07,827 --> 00:21:11,060
 Well, now Gian and Suneo won't look down on me anymore
 
-388
+1298836
 00:21:38,836 --> 00:21:40,220
 I'm back
 
-389
+1303927
 00:21:43,927 --> 00:21:46,413
 I'm the only one whose light is on
 
-390
+1311492
 00:21:51,492 --> 00:21:53,872
 I'll sleep with the light on tonight
 
-391
+1315620
 00:21:55,620 --> 00:21:56,946
 There's a power outage?
 
-392
+1327890
 00:22:07,890 --> 00:22:09,665
 Nobody is listening
 
-393
+1330385
 00:22:10,385 --> 00:22:12,024
 There is no one else here
 
-394
+1341445
 00:22:21,445 --> 00:22:22,939
 Come out quickly
 
-395
+1343365
 00:22:23,365 --> 00:22:24,679
 I don't care who it is
 
-396
+1344719
 00:22:24,719 --> 00:22:27,298
 I don't even mind if it's Gian
 
-397
+1348399
 00:22:28,399 --> 00:22:29,906
 It's just me left
 
-398
+1351487
 00:22:31,487 --> 00:22:33,407
 I can't survive
 
-399
+1353488
 00:22:33,488 --> 00:22:35,859
 Eliminating people one by one because you don't like them
 
-400
+1355899
 00:22:35,899 --> 00:22:38,003
 Things will end up like this
 
-401
+1358043
 00:22:38,043 --> 00:22:39,318
 Do you understand now?
 
-402
+1359778
 00:22:39,778 --> 00:22:41,011
 I understand now
 
-403
+1362987
 00:22:42,987 --> 00:22:45,145
 Doraemon, why are you here?
 
-404
+1367077
 00:22:47,077 --> 00:22:48,737
 Actually, this gadget
 
-405
+1368797
 00:22:48,797 --> 00:22:51,784
 was specifically invented to discipline dictators
 
-406
+1372430
 00:22:52,430 --> 00:22:53,760
 Restore original state
 
-407
+1397690
 00:23:17,690 --> 00:23:20,710
 Being a dictator is not a good thing, isn't that right?
 
-408
+1402515
 00:23:22,515 --> 00:23:23,542
 Mm-hmm
 
-409
+1409191
 00:23:29,191 --> 00:23:31,924
 Huh? An incompetent person is practicing here
 
-410
+1414765
 00:23:34,765 --> 00:23:35,716
 Hey!
 
-411
+1415841
 00:23:35,841 --> 00:23:36,875
 You have to try harder next time
 
-412
+1416916
 00:23:36,916 --> 00:23:39,521
 Don't make me hit you again, understand?
 
-413
+1419715
 00:23:39,715 --> 00:23:42,253
 It's quite fun to have people around bothering us!
 
-414
+1424569
 00:23:44,569 --> 00:23:46,604
 Suneo, come on, let's start.
 
-415
+1426645
 00:23:46,645 --> 00:23:47,931
 Oh, of course.
 
-416
+1431212
 00:23:51,212 --> 00:23:53,504
 Nobita, give it your all!
 
-417
+1433545
 00:23:53,545 --> 00:23:54,858
 No problem!
 
-418
+1439903
 00:23:59,903 --> 00:24:02,343
 -Good catch, Nobita!
 -Good catch, Nobita!
 
-419
+1442457
 00:24:02,457 --> 00:24:03,157
 Okay!
 
-420
+1443198
 00:24:03,198 --> 00:24:04,542
 Let's go again!
 
-421
+1448601
 00:24:08,601 --> 00:24:10,128
 Sha la la la la.
 
-422
+1450188
 00:24:10,188 --> 00:24:12,627
 Sing along with me
 
-423
+1452714
 00:24:12,714 --> 00:24:14,067
 Singing aloudl
 
-424
+1454121
 00:24:14,121 --> 00:24:16,555
 Happily strolling together
 
-425
+1456734
 00:24:16,734 --> 00:24:17,947
 Doraemon
 
-426
+1458002
 00:24:18,002 --> 00:24:19,981
 Let this moment never grow old
 
-427
+1460014
 00:24:20,014 --> 00:24:26,391
 Beautiful scenery can be seen
-

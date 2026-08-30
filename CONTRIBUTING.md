@@ -44,9 +44,9 @@ A Pull Request will get created to track your changes. On the Pull Request, an
 automated check will run against your files and and will flag lines if 
 something needs fixing (wrong file encoding, a line that's too long, etc.).
 
-If you just added the file and didn't run any scripts, a maintainer will run 
-a process to normalize the line numbers in the SRT file (see 
-[`MAINTAINERS.md`](./github/MAINTAINERS.md) to know how that works). This allows 
+If you just added the file and didn't run any scripts, a maintainer will run a
+process to normalize the line numbers in the SRT file (see 
+[`MAINTAINERS.md`](/.github/MAINTAINERS.md) to know how that works). This allows 
 us to view changes to the file more clearly on Github.
 
 ## If you use Git locally
