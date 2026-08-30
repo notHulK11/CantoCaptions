@@ -44,9 +44,37 @@ A Pull Request will get created to track your changes. On the Pull Request, an
 automated check will run against your files and and will flag lines if 
 something needs fixing (wrong file encoding, a line that's too long, etc.).
 
-If you just added the file and didn't run any scripts, a maintainer will run 
+If you just added the file and didn't run any scripts, a maintainer will run￼
+:thumbsup:
+Click to react
+:joy:
+Click to react
+:wave:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[12:29 PM]Sunday, August 30, 2026 at 12:29 PM
+https://github.com/notHulK11/CantoCaptions/blob/main/.github/MAINTAINERS.md
+GitHub
+CantoCaptions/.github/MAINTAINERS.md at main · notHulK11/CantoCapt...
+Contribute to notHulK11/CantoCaptions development by creating an account on GitHub.
+￼
+:thumbsup:
+Click to react
+:joy:
+Click to react
+:wave:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[12:29 PM]Sunday, August 30, 2026 at 12:29 PM
+Someone who will run the scripts for people who are submitting but don't know all the tech stuff 
 a process to normalize the line numbers in the SRT file (see 
-[`MAINTAINERS.md`](./github/MAINTAINERS.md) to know how that works). This allows 
+[`MAINTAINERS.md`](/.github/MAINTAINERS.md) to know how that works). This allows 
 us to view changes to the file more clearly on Github.
 
 ## If you use Git locally
