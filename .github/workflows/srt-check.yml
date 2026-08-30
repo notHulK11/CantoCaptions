@@ -1,0 +1,76 @@
+name: SRT check
+
+# Read-only by design: a pull_request from a fork always gets a read-only
+# GITHUB_TOKEN no matter what this `permissions:` block says, so this job
+# must never try to push or comment -- it reports results as inline
+# annotations instead, which need no write permission at all. It never
+# touches any file: ci_annotate.py only reads bytes to analyze them.
+#
+# Also runs on push to main, for maintainers who push directly rather than
+# through a PR -- there's no PR to annotate inline in that case, so results
+# show up on the commit's Actions run instead.
+#
+# See docs/srt-canonicalization-spec.md, Component 2.
+
+on:
+  pull_request:
+    paths:
+      - "Subtitles/**"
+  push:
+    branches:
+      - main
+    paths:
+      - "Subtitles/**"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 1
+
+      - name: Determine base and head commits
+        id: refs
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            base="${{ github.event.pull_request.base.sha }}"
+            head="${{ github.event.pull_request.head.sha }}"
+          else
+            base="${{ github.event.before }}"
+            head="${{ github.sha }}"
+          fi
+
+          # A push's "before" SHA is all-zeros on a branch's first push, and
+          # may be unreachable after a force-push -- fall back to git's
+          # well-known empty-tree hash so the diff still succeeds, just
+          # treating every .srt file in this commit as "changed" instead of
+          # only what actually changed.
+          empty_tree="4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+          if [ "$base" = "0000000000000000000000000000000000000000" ] || \
+             ! git fetch --no-tags --depth=1 origin "$base" 2>/dev/null; then
+            base="$empty_tree"
+          fi
+
+          echo "base=$base" >> "$GITHUB_OUTPUT"
+          echo "head=$head" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find changed .srt files
+        run: |
+          python3 .github/scripts/find_changed_srts.py \
+            "${{ steps.refs.outputs.base }}" \
+            "${{ steps.refs.outputs.head }}" \
+            changed_files.bin
+
+      - name: Check canonical form and style guide
+        run: python3 .github/scripts/ci_annotate.py --paths-file changed_files.bin

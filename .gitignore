@@ -3,3 +3,7 @@
 #*.bookmarks
 Subtitles/subtitle_replacements.log
 *.ini
+
+# Python bytecode caches (e.g. from running .github/scripts/test_*.py locally)
+__pycache__/
+*.pyc

@@ -11,6 +11,9 @@ If you would like to contribute to transcripts or subtitles, make a donation, fi
 ## 🤝 How can I help?
 There are many different ways you can contribute to our project. If interested, please join our [Discord](https://discord.gg/ybVe9KmrsG).
 
+> [!TIP]
+> Want to submit a fix or a new file but don't use Git? See [`CONTRIBUTING.md`](CONTRIBUTING.md). You can do it entirely from your browser, no installation required.
+
 ### 1. 💖 Donate
 The easiest way you can help us out is by donating to us via Kofi: https://ko-fi.com/cantocaptions
 ### 2. 📄 Transcription

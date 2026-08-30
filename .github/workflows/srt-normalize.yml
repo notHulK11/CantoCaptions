@@ -1,0 +1,57 @@
+name: SRT normalize
+
+# Runs on every push to main and rewrites any drifted .srt file back to full
+# canonical form -- including cue IDs, which srt-check.yml deliberately does
+# NOT block on (see srtfmt.py's diagnose()/_diagnose_id_order). This job is
+# what actually fixes editor-renumbered IDs and anything else --check
+# tolerates, guaranteeing main is always canonical even when something is
+# merged past the check. See docs/srt-canonicalization-spec.md, Component 2.
+#
+# The commit this job makes includes [skip ci], so it does not retrigger
+# this same workflow -- it touches Subtitles/**, which is this workflow's
+# own trigger path, and would otherwise loop.
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "Subtitles/**"
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Canonicalize all subtitles
+        # A handful of legacy files predate this tooling and still fail to
+        # parse (see the repo's known hard-failure list); --write reports
+        # and skips those. That must not abort this step -- there is
+        # otherwise-canonicalizable drift elsewhere in the tree every time.
+        run: |
+          find Subtitles -name '*.srt' -print0 \
+            | xargs -0 python3 .github/scripts/srtfmt.py --write || true
+
+      - name: Commit any drift
+        run: |
+          if git status --porcelain -- Subtitles | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -- Subtitles
+            git commit -m "Normalize subtitle formatting [skip ci]"
+            git push
+          else
+            echo "Nothing to normalize."
+          fi
