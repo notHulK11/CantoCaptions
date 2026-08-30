@@ -1,445 +1,445 @@
-1
+2760
 00:00:02,760 --> 00:00:04,300
 My name is Peppa
 
-2
+4794
 00:00:04,794 --> 00:00:07,154
 And this is my little brother George
 
-3
+7606
 00:00:07,606 --> 00:00:08,866
 This is Mummy Pig
 
-4
+9878
 00:00:09,878 --> 00:00:11,267
 This is Daddy Pig
 
-5
+13674
 00:00:13,674 --> 00:00:15,045
 And I'm Peppa
 
-6
+17035
 00:00:17,035 --> 00:00:18,200
 [Mysteries]
 
-7
+21375
 00:00:21,375 --> 00:00:22,428
 Peppa and her family
 
-8
+22479
 00:00:22,479 --> 00:00:25,076
 are watching their favourite TV show
 
-9
+25127
 00:00:25,127 --> 00:00:26,477
 "Potato Detective"
 
-10
+26527
 00:00:26,527 --> 00:00:28,420
 I am Potato Detective
 
-11
+28470
 00:00:28,470 --> 00:00:29,965
 I'm a world-famous detective
 
-12
+31860
 00:00:31,860 --> 00:00:33,911
 Please help me, Mr Detective
 
-13
+33961
 00:00:33,961 --> 00:00:35,901
 I can't find my flower anywhere
 
-14
+35952
 00:00:35,952 --> 00:00:39,442
 Well, the flower you're looking for is right on your head
 
-15
+39500
 00:00:39,500 --> 00:00:41,365
 Oh, thank you, Mr Detective
 
-16
+42043
 00:00:42,043 --> 00:00:44,880
 That's easy, I could've done that
 
-17
+46083
 00:00:46,083 --> 00:00:48,153
 I'm sure you could
 
-18
+48211
 00:00:48,211 --> 00:00:50,023
 Daddy, when I grow up
 
-19
+50073
 00:00:50,073 --> 00:00:52,313
 I want to be a very famous detective
 
-20
+53180
 00:00:53,180 --> 00:00:54,946
 George wants to be a detective too!
 
-21
+55360
 00:00:55,360 --> 00:00:57,448
 If you want to be detectives
 
-22
+57498
 00:00:57,498 --> 00:00:59,901
 you each need a hat
 
-23
+59952
 00:00:59,952 --> 00:01:02,195
 Detectives always wear hats, you know
 
-24
+62734
 00:01:02,734 --> 00:01:05,735
 Now you both look like real detectives
 
-25
+66077
 00:01:06,077 --> 00:01:07,996
 We also need that funny thing
 
-26
+68046
 00:01:08,046 --> 00:01:10,604
 that makes everything look bigger
 
-27
+70655
 00:01:10,655 --> 00:01:12,590
 That's a magnifying glass
 
-28
+72640
 00:01:12,640 --> 00:01:14,894
 I think there's one in the kitchen drawer
 
-29
+75903
 00:01:15,903 --> 00:01:17,165
 Here it is
 
-30
+77215
 00:01:17,215 --> 00:01:19,391
 A real magnifying glass
 
-31
+79442
 00:01:19,442 --> 00:01:21,805
 Wow, how does it work?
 
-32
+82339
 00:01:22,339 --> 00:01:24,372
 You hold it in front of something
 
-33
+84422
 00:01:24,422 --> 00:01:25,901
 and that thing looks bigger
 
-34
+85952
 00:01:25,952 --> 00:01:28,645
 The magnifying glass made the goldfish look bigger
 
-35
+89472
 00:01:29,472 --> 00:01:31,031
 Can I try?
 
-36
+92077
 00:01:32,077 --> 00:01:33,353
 Wow!
 
-37
+93404
 00:01:33,404 --> 00:01:36,697
 The magnifying glass made George's eye look huge
 
-38
+98303
 00:01:38,303 --> 00:01:40,531
 Now, what you two detectives need
 
-39
+100581
 00:01:40,581 --> 00:01:42,685
 is a mystery to solve
 
-40
+102730
 00:01:42,730 --> 00:01:45,565
 Daddy, what's a... cookie case?
 
-41
+105701
 00:01:45,701 --> 00:01:47,263
 It's a mystery, not a cookie
 
-42
+107319
 00:01:47,319 --> 00:01:50,045
 This is what detectives are best at solving
 
-43
+110302
 00:01:50,302 --> 00:01:52,405
 Like finding things that are lost
 
-44
+112817
 00:01:52,817 --> 00:01:53,745
 I know!
 
-45
+113795
 00:01:53,795 --> 00:01:56,568
 We can find George's dinosaur
 
-46
+116676
 00:01:56,676 --> 00:01:58,999
 He's always losing it
 
-47
+119202
 00:01:59,202 --> 00:02:00,308
 Dinosaur!
 
-48
+120802
 00:02:00,802 --> 00:02:02,961
 Mr Dinosaur isn't lost
 
-49
+123260
 00:02:03,260 --> 00:02:06,585
 Oh, why don't we find your glasses, Daddy
 
-50
+126636
 00:02:06,636 --> 00:02:08,854
 You're always saying you can't find them
 
-51
+129758
 00:02:09,758 --> 00:02:11,145
 They're not lost today!
 
-52
+131195
 00:02:11,195 --> 00:02:13,114
 My glasses are right here
 
-53
+133165
 00:02:13,165 --> 00:02:14,620
 Oh no, that's no good
 
-54
+134670
 00:02:14,670 --> 00:02:16,954
 So there's no cookie mystery for me to solve?
 
-55
+137542
 00:02:17,542 --> 00:02:19,853
 You want me to make up some mysteries for you to solve?
 
-56
+139904
 00:02:19,904 --> 00:02:21,325
 Yes please
 
-57
+143302
 00:02:23,302 --> 00:02:26,041
 Daddy Pig is going to make up some mysteries
 
-58
+146092
 00:02:26,092 --> 00:02:28,563
 Now, what's on the table?
 
-59
+148613
 00:02:28,613 --> 00:02:31,142
 There's a little fish, a teddy bear
 
-60
+151193
 00:02:31,193 --> 00:02:34,562
 a jack-in-the-box, and Mr Dinosaur too
 
-61
+154967
 00:02:34,967 --> 00:02:35,805
 That's right
 
-62
+156202
 00:02:36,202 --> 00:02:37,680
 Now watch closely
 
-63
+157736
 00:02:37,736 --> 00:02:39,605
 Try to remember them
 
-64
+160145
 00:02:40,145 --> 00:02:42,269
 There's a fish, a teddy bear
 
-65
+162319
 00:02:42,319 --> 00:02:44,685
 a jack-in-the-box clown, and Mr. Dinosaur
 
-66
+165292
 00:02:45,292 --> 00:02:46,743
 Have you remembered them all?
 
-67
+166794
 00:02:46,794 --> 00:02:48,047
 Got them all
 
-68
+168262
 00:02:48,262 --> 00:02:49,542
 Good
 
-69
+169592
 00:02:49,592 --> 00:02:52,298
 You two wait outside for a bit
 
-70
+172348
 00:02:52,348 --> 00:02:54,548
 I'll call you when I'm ready
 
-71
+176294
 00:02:56,294 --> 00:02:59,655
 That sounds like Daddy going up the stairs
 
-72
+181445
 00:03:01,445 --> 00:03:04,186
 Now he should be coming back down
 
-73
+184551
 00:03:04,551 --> 00:03:07,439
 All done, you can come back in now
 
-74
+188399
 00:03:08,399 --> 00:03:10,926
 Something's gone missing from the table
 
-75
+191093
 00:03:11,093 --> 00:03:12,399
 Do you know what it is?
 
-76
+192607
 00:03:12,607 --> 00:03:14,669
 There's Mr. Dinosaur
 
-77
+194719
 00:03:14,719 --> 00:03:17,339
 the fish, the jack-in-the-box clown
 
-78
+197457
 00:03:17,457 --> 00:03:19,253
 So who's missing?
 
-79
+199303
 00:03:19,303 --> 00:03:21,385
 Um... the teddy bear
 
-80
+201436
 00:03:21,436 --> 00:03:23,926
 That's exactly right, the teddy bear is missing
 
-81
+203977
 00:03:23,977 --> 00:03:25,885
 Peppa, George, you're so clever!
 
-82
+206289
 00:03:26,289 --> 00:03:28,233
 This is easy for us
 
-83
+208283
 00:03:28,283 --> 00:03:30,365
 Because we're famous detectives
 
-84
+211257
 00:03:31,257 --> 00:03:33,512
 But this mystery is only half solved
 
-85
+213562
 00:03:33,562 --> 00:03:35,059
 Where did the teddy bear go?
 
-86
+215110
 00:03:35,110 --> 00:03:36,845
 Oh, I don't know
 
-87
+217615
 00:03:37,615 --> 00:03:40,048
 What are those little bits on the floor?
 
-88
+220512
 00:03:40,512 --> 00:03:42,005
 Those are cake crumbs
 
-89
+222593
 00:03:42,593 --> 00:03:45,725
 With a magnifying glass
 it's easy to see those are cake crumbs
 
-90
+226526
 00:03:46,526 --> 00:03:49,529
 I wonder if the teddy bear was eating cake earlier?
 
-91
+229579
 00:03:49,579 --> 00:03:52,581
 The cake crumbs go this way
 
-92
+233446
 00:03:53,446 --> 00:03:56,005
 The teddy bear must have eaten a lot of cake
 
-93
+236433
 00:03:56,433 --> 00:03:59,241
 The cake crumbs lead all the way to Peppa and George's room
 
-94
+239292
 00:03:59,292 --> 00:04:01,795
 Oh, the crumbs lead here
 
-95
+242064
 00:04:02,064 --> 00:04:03,971
 How do we find the teddy bear?
 
-96
+244022
 00:04:04,022 --> 00:04:05,670
 Ask me some questions
 
-97
+245720
 00:04:05,720 --> 00:04:08,945
 But I'll only answer 'yes' or 'no'
 
-98
+248996
 00:04:08,996 --> 00:04:10,024
 Okay then
 
-99
+251405
 00:04:11,405 --> 00:04:13,135
 Is the teddy bear in this room?
 
-100
+253193
 00:04:13,193 --> 00:04:13,943
 Yes
 
-101
+254097
 00:04:14,097 --> 00:04:16,273
 Is the teddy bear on George's bed?
 
-102
+256324
 00:04:16,324 --> 00:04:17,183
 No
 
-103
+257234
 00:04:17,234 --> 00:04:19,938
 Is the teddy bear somewhere high up?
 
-104
+259989
 00:04:19,989 --> 00:04:20,740
 Yes
 
-105
+262350
 00:04:22,350 --> 00:04:23,934
 The teddy bear is on my bed
 
-106
+263985
 00:04:23,985 --> 00:04:24,805
 -Yay!
 -Yay!
 
-107
+265306
 00:04:25,306 --> 00:04:26,961
 Mystery solved!
 
-108
+268974
 00:04:28,974 --> 00:04:32,085
 Do you want to be a detective when you grow up, Peppa?
 
-109
+272162
 00:04:32,162 --> 00:04:35,187
 Actually, being a detective isn't easy at all, it's really hard
 
-110
+275237
 00:04:35,237 --> 00:04:39,139
 Next time, I'd rather be the one who makes up the mysteries
 
-112
+279189
 00:04:39,189 --> 00:04:41,298
 Just like you, Daddy

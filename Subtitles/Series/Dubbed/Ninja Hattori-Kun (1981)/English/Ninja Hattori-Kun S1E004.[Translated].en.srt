@@ -1,1510 +1,1509 @@
-1
+1783
 00:00:01,783 --> 00:00:05,029
 Crossing high mountains and deep valleys
 
-2
+5390
 00:00:05,390 --> 00:00:08,596
 A ninja's body like a plane, flying freely in the sky
 
-3
+8848
 00:00:08,848 --> 00:00:12,281
 Honest and kind, Hattori-kun brings joy to all
 
-4
+12435
 00:00:12,435 --> 00:00:15,615
 With round open eyes and a tightly closed little mouth
 
-5
+15948
 00:00:15,948 --> 00:00:19,349
 Face concealed behind a mask, cheeks puffed up
 
-6
+19515
 00:00:19,515 --> 00:00:22,673
 Catching villains with lightning-fast agility
 
-7
+22973
 00:00:22,973 --> 00:00:26,440
 Catching bad guys with strange tricks just like magic
 
-8
+26793
 00:00:26,793 --> 00:00:29,819
 Speaking like poetry, polite and spirited
 
-9
+31753
 00:00:31,753 --> 00:00:33,853
 "Making Up for Mistakes"
 
-10
+40753
 00:00:40,753 --> 00:00:42,779
 Oh, Hattori-kun, I'm really sorry
 
-11
+42827
 00:00:42,827 --> 00:00:44,586
 Could you please go play outside for a bit today?
 
-12
+44627
 00:00:44,627 --> 00:00:45,540
 Okay?
 
-13
+45580
 00:00:45,580 --> 00:00:46,440
 Why is that?
 
-14
+46480
 00:00:46,480 --> 00:00:49,061
 Because the teacher is coming for a home visit today
 
-15
+49173
 00:00:49,173 --> 00:00:52,259
 Do you remember last time,
 how badly you pranked the teacher?
 
-16
+52300
 00:00:52,300 --> 00:00:53,626
 You can't really blame me for that
 
-17
+53667
 00:00:53,667 --> 00:00:56,159
 Back then I thought the teacher was always bullying you
 
-18
+56200
 00:00:56,200 --> 00:00:57,382
 Right, but anyway, this time...
 
-19
+57422
 00:00:57,422 --> 00:00:58,939
 you must never be rude to the teacher!
 
-20
+58980
 00:00:58,980 --> 00:01:00,213
 I understand
 
-21
+60316
 00:01:00,316 --> 00:01:01,889
 Alright, then you stay here
 
-22
+62586
 00:01:02,586 --> 00:01:04,946
 Big brother, are we just going to let it go like this?
 
-23
+65426
 00:01:05,426 --> 00:01:07,574
 If we ninjas of the Iga clan make a mistake,
 
-24
+67614
 00:01:07,614 --> 00:01:09,242
 we must find a way to make amends!
 
-25
+69282
 00:01:09,282 --> 00:01:11,402
 We can never just brush it off carelessly
 
-26
+71443
 00:01:11,443 --> 00:01:13,548
 Shinzo has a point
 
-27
+73589
 00:01:13,589 --> 00:01:15,179
 Alright, let's make up for our mistake!
 
-28
+75225
 00:01:15,225 --> 00:01:18,038
 Let's find a way to give Kenichi's teacher a warm welcome
 
-29
+81478
 00:01:21,478 --> 00:01:22,864
 This must be the place
 
-30
+84036
 00:01:24,036 --> 00:01:25,319
 Is anyone home?
 
-31
+86507
 00:01:26,507 --> 00:01:28,000
 Who is it, please?
 
-32
+88546
 00:01:28,546 --> 00:01:30,553
 I'm Kenichi's homeroom teacher
 
-33
+90640
 00:01:30,640 --> 00:01:32,253
 Ah, Teacher, please come in
 
-34
+93636
 00:01:33,636 --> 00:01:36,014
 Come in, Teacher, make yourself at home, please have a seat
 
-35
+96956
 00:01:36,956 --> 00:01:38,638
 Sorry for the intrusion
 
-36
+101503
 00:01:41,503 --> 00:01:43,117
 Teacher, is something wrong?
 
-37
+103237
 00:01:43,237 --> 00:01:44,570
 That's... really strange
 
-38
+104610
 00:01:44,610 --> 00:01:46,790
 Excuse me, is your front door an automatic door?
 
-39
+106831
 00:01:46,831 --> 00:01:48,044
 No, not at all
 
-40
+108170
 00:01:48,170 --> 00:01:49,610
 You're so humorous, Teacher
 
-41
+109650
 00:01:49,650 --> 00:01:50,841
 Then that's really bizarre
 
-42
+110901
 00:01:50,901 --> 00:01:52,112
 Kenichi
 
-43
+112153
 00:01:52,153 --> 00:01:54,000
 Come out quickly, Teacher is here for the home visit!
 
-44
+114041
 00:01:54,041 --> 00:01:54,739
 Coming
 
-45
+114780
 00:01:54,780 --> 00:01:55,618
 Hello, Teacher
 
-46
+115659
 00:01:55,659 --> 00:01:57,375
 Teacher, please step up and have a seat
 
-47
+117683
 00:01:57,683 --> 00:01:58,510
 Alright
 
-48
+121958
 00:02:01,958 --> 00:02:03,043
 What on earth?
 
-49
+123084
 00:02:03,084 --> 00:02:05,006
 Why is a shadow taking my shoes?
 
-50
+125132
 00:02:05,132 --> 00:02:06,874
 Oh dear, is Hattori-kun playing tricks?
 
-51
+127111
 00:02:07,111 --> 00:02:09,249
 How could that be, Teacher? You must be seeing things
 
-52
+129290
 00:02:09,290 --> 00:02:11,467
 Hey, I clearly saw a shadow!
 
-53
+131777
 00:02:11,777 --> 00:02:15,236
 - Teacher, please come sit over here
 - Hurry up... walk faster!
 
-54
+136502
 00:02:16,502 --> 00:02:18,604
 Hattori-kun, you promised me
 
-55
+138644
 00:02:18,644 --> 00:02:20,089
 that you wouldn't mess with him
 
-56
+140130
 00:02:20,130 --> 00:02:21,623
 I'm only being of service
 
-57
+141664
 00:02:21,664 --> 00:02:23,200
 No need for you to bother!
 
-58
+144080
 00:02:24,080 --> 00:02:25,610
 Thank you so much, don't mention it
 
-59
+145650
 00:02:25,650 --> 00:02:26,685
 No need
 
-60
+146745
 00:02:26,745 --> 00:02:29,372
 Where did my good boy go? Let me go call him
 
-61
+150351
 00:02:30,351 --> 00:02:31,632
 No need to be polite
 
-62
+155070
 00:02:35,070 --> 00:02:36,829
 That's really weird
 
-63
+159706
 00:02:39,706 --> 00:02:41,353
 Aah, a ghost...
 
-64
+162072
 00:02:42,072 --> 00:02:44,369
 Shinzo, please, I beg you not to do this
 
-65
+164410
 00:02:44,410 --> 00:02:45,670
 Don't scare the teacher!
 
-66
+165711
 00:02:45,711 --> 00:02:47,265
 I didn't mean to scare the teacher
 
-67
+167306
 00:02:47,306 --> 00:02:49,070
 I was just peeking from the ceiling
 
-68
+169110
 00:02:49,110 --> 00:02:51,590
 But doing that will scare the teacher to death!
 
-69
+171630
 00:02:51,630 --> 00:02:52,604
 Knock it off!
 
-70
+172645
 00:02:52,645 --> 00:02:53,824
 You two, listen up
 
-71
+173865
 00:02:53,865 --> 00:02:55,538
 Stay in the room and don't go outside!
 
-72
+175579
 00:02:55,579 --> 00:02:57,110
 Understood, Yan...
 
-73
+177458
 00:02:57,458 --> 00:02:59,117
 Oh, Kenichi
 
-74
+179157
 00:02:59,157 --> 00:03:00,922
 I'd like to take a look at your bedroom now
 
-75
+180963
 00:03:00,963 --> 00:03:02,522
 Please take me there, okay?
 
-76
+182916
 00:03:02,916 --> 00:03:05,162
 Kenichi, hurry up and take the teacher there
 
-77
+185784
 00:03:05,784 --> 00:03:07,015
 Teacher, please don't go
 
-78
+187056
 00:03:07,056 --> 00:03:08,456
 The room is very messy
 
-79
+188643
 00:03:08,643 --> 00:03:09,757
 That doesn't matter
 
-80
+189797
 00:03:09,797 --> 00:03:11,569
 I just want to see how your daily life is
 
-81
+191610
 00:03:11,610 --> 00:03:13,871
 - Come on, take me to see your room
 - Yes, sir
 
-82
+195274
 00:03:15,274 --> 00:03:18,037
 Oh no, what if those two are in the room?
 
-83
+198313
 00:03:18,313 --> 00:03:21,204
 Teacher, my room is upstairs!
 
-84
+201520
 00:03:21,520 --> 00:03:24,643
 I'm right next to you, why yell so loudly?
 
-85
+204925
 00:03:24,925 --> 00:03:26,510
 The teacher is coming, Big Brother
 
-86
+206550
 00:03:26,550 --> 00:03:28,330
 Kenichi told us that no matter what
 
-87
+208371
 00:03:28,371 --> 00:03:29,983
 We must not leave this place
 
-88
+210024
 00:03:30,024 --> 00:03:31,702
 But if we stay here...
 
-89
+211743
 00:03:31,743 --> 00:03:33,155
 We ninjas have a code
 
-90
+213196
 00:03:33,196 --> 00:03:34,770
 If we make a promise, we must keep it
 
-91
+214810
 00:03:34,810 --> 00:03:36,189
 That's true
 
-92
+216275
 00:03:36,275 --> 00:03:38,231
 Why be so strict?
 
-93
+219125
 00:03:39,125 --> 00:03:41,565
 Teacher, we've arrived, this is the room
 
-94
+221944
 00:03:41,944 --> 00:03:42,849
 Are you going in?
 
-95
+222890
 00:03:42,890 --> 00:03:44,784
 Of course I'm going in to see
 
-96
+225183
 00:03:45,183 --> 00:03:46,928
 Alright, let's head in then
 
-97
+231379
 00:03:51,379 --> 00:03:52,733
 Please come in, Teacher
 
-98
+232774
 00:03:52,774 --> 00:03:55,338
 Huh, you have such a big room all to yourself?
 
-99
+237770
 00:03:57,770 --> 00:03:58,891
 Is something wrong?
 
-100
+239191
 00:03:59,191 --> 00:04:01,678
 No... I just saw...
 
-101
+242250
 00:04:02,250 --> 00:04:03,557
 Just some trash on the floor
 
-102
+243830
 00:04:03,830 --> 00:04:05,998
 Kenichi, have you finished your homework?
 
-103
+248200
 00:04:08,200 --> 00:04:09,480
 Oh dear, it's happening again
 
-104
+249521
 00:04:09,521 --> 00:04:11,333
 Ever since I walked in, I keep seeing illusions
 
-105
+251374
 00:04:11,374 --> 00:04:13,440
 I'm not mistaken, I really saw it!
 
-106
+253554
 00:04:13,554 --> 00:04:14,708
 How strange
 
-107
+255040
 00:04:15,040 --> 00:04:16,519
 Oh dear, what are those?
 
-108
+256615
 00:04:16,615 --> 00:04:17,955
 I didn't get away in time!
 
-109
+258676
 00:04:18,676 --> 00:04:20,531
 Kenichi, why would you
 
-110
+260572
 00:04:20,572 --> 00:04:21,800
 Stick monsters on the ceiling like that?
 
-111
+261840
 00:04:21,840 --> 00:04:23,459
 Do you think that looks good?
 
-112
+263543
 00:04:23,543 --> 00:04:25,219
 Oh, you're calling me a monster?
 
-113
+265706
 00:04:25,706 --> 00:04:28,287
 Sticking them on the ceiling saves space, you know
 
-114
+269008
 00:04:29,008 --> 00:04:30,035
 Come to think of it
 
-115
+270075
 00:04:30,075 --> 00:04:31,941
 The figures on the ceiling look pretty lifelike
 
-116
+272401
 00:04:32,401 --> 00:04:34,701
 I'm losing my grip, I can't hold on, oh no...
 
-117
+276810
 00:04:36,810 --> 00:04:38,971
 I feel like something is moving
 
-118
+279011
 00:04:39,011 --> 00:04:40,682
 Oh no... an earthquake is coming!
 
-119
+280723
 00:04:40,723 --> 00:04:41,731
 Quick, get out...
 
-120
+281772
 00:04:41,772 --> 00:04:42,971
 Don't say such crazy things!
 
-121
+283012
 00:04:43,012 --> 00:04:45,104
 If it were an earthquake, it'd be everywhere
 
-122
+287956
 00:04:47,956 --> 00:04:50,966
 I really feel like everything is shaking around us
 
-123
+291112
 00:04:51,112 --> 00:04:53,256
 -Teacher, hurry and go to the bathroom!
 -I don't need to!
 
-124
+293406
 00:04:53,406 --> 00:04:55,839
 Teacher, does this drawing look good?
 
-125
+295880
 00:04:55,880 --> 00:04:58,121
 Looking good on the surface is useless if it lacks depth
 
-126
+298400
 00:04:58,400 --> 00:05:00,413
 Teacher, do you know how to play this?
 
-127
+303772
 00:05:03,772 --> 00:05:05,858
 Woah, all six sides in three seconds!
 
-128
+305898
 00:05:05,898 --> 00:05:07,258
 That's a world record!
 
-129
+307491
 00:05:07,491 --> 00:05:08,737
 I can't hold on, I've got no strength left
 
-130
+308857
 00:05:08,857 --> 00:05:09,870
 Teacher, look!
 
-131
+309911
 00:05:09,911 --> 00:05:11,270
 A pretty girl is walking by
 
-132
+311310
 00:05:11,310 --> 00:05:12,263
 What?
 
-133
+312445
 00:05:12,445 --> 00:05:13,871
 I've got no strength left
 
-134
+316357
 00:05:16,357 --> 00:05:18,754
 -Oh no, Teacher!
 -Don't worry, Teacher
 
-135
+318795
 00:05:18,795 --> 00:05:20,213
 Everything's fine now
 
-136
+320253
 00:05:20,253 --> 00:05:22,350
 Teacher, h-how are you feeling now?
 
-137
+322449
 00:05:22,449 --> 00:05:24,349
 By the way, what happened with the earthquake?
 
-138
+324503
 00:05:24,503 --> 00:05:25,779
 It wasn't an earthquake earlier
 
-139
+325813
 00:05:25,813 --> 00:05:28,412
 It was just a monster figure falling down
 
-140
+328646
 00:05:28,646 --> 00:05:30,339
 Oh, that monster?
 
-141
+330519
 00:05:30,519 --> 00:05:32,440
 So where did you put it now?
 
-142
+332481
 00:05:32,481 --> 00:05:33,525
 I'm worried it's dangerous
 
-143
+333611
 00:05:33,611 --> 00:05:34,786
 In the closet
 
-144
+334827
 00:05:34,827 --> 00:05:35,706
 That's a relief
 
-145
+335746
 00:05:35,746 --> 00:05:38,228
 No point risking it falling on someone else, right?
 
-146
+338269
 00:05:38,269 --> 00:05:39,358
 Right
 
-147
+340355
 00:05:40,355 --> 00:05:41,820
 Teacher, I'm really sorry
 
-148
+341860
 00:05:41,860 --> 00:05:43,037
 We barely hosted you properly
 
-149
+343078
 00:05:43,078 --> 00:05:45,226
 Don't mention it, I must take my leave now
 
-150
+347274
 00:05:47,274 --> 00:05:50,041
 Oh my, who polished my shoes so nicely?
 
-151
+351334
 00:05:51,334 --> 00:05:53,980
 I didn't expect Kenichi to be so sharp today
 
-152
+354021
 00:05:54,021 --> 00:05:55,245
 Good job, Hattori-kun!
 
-153
+355957
 00:05:55,957 --> 00:05:57,849
 Thanks for having me
 
-154
+361439
 00:06:01,439 --> 00:06:02,693
 That's really strange
 
-155
+362733
 00:06:02,733 --> 00:06:04,839
 Doesn't look like there's any hidden mechanism here
 
-156
+369102
 00:06:09,102 --> 00:06:10,161
 So strange
 
-157
+370501
 00:06:10,501 --> 00:06:13,180
 There are stickers, and even illusions, how bizarre
 
-158
+373220
 00:06:13,220 --> 00:06:14,407
 Bye-bye
 
-159
+374455
 00:06:14,455 --> 00:06:16,527
 Aah, I'm terrified!
 
-160
+376840
 00:06:16,840 --> 00:06:18,899
 My service wasn't top-notch this time
 
-161
+378939
 00:06:18,939 --> 00:06:20,620
 So next time Teacher visits
 
-162
+380660
 00:06:20,660 --> 00:06:24,255
 I'll definitely step up my service, Yan...
 
-163
+388047
 00:06:28,047 --> 00:06:30,552
 "Shinzo Makes Things Worse"
 
-164
+396960
 00:06:36,960 --> 00:06:39,593
 Kenichi, could you run an errand for me?
 
-165
+399633
 00:06:39,633 --> 00:06:41,093
 Would you?
 
-166
+401458
 00:06:41,458 --> 00:06:42,292
 Sure
 
-167
+403372
 00:06:43,372 --> 00:06:44,573
 Let me go!
 
-168
+406475
 00:06:46,475 --> 00:06:48,042
 Shinzo, wait a second
 
-169
+408082
 00:06:48,082 --> 00:06:50,275
 With Shinzo on the case, I can do anything!
 
-170
+410315
 00:06:50,315 --> 00:06:52,092
 Can you really do it, Shinzo?
 
-171
+412133
 00:06:52,133 --> 00:06:53,567
 Don't worry, I've got this!
 
-172
+419827
 00:06:59,827 --> 00:07:01,648
 What do you need me to buy?
 
-173
+423694
 00:07:03,694 --> 00:07:05,948
 Now, you're very careless
 
-174
+426934
 00:07:06,934 --> 00:07:08,306
 Look carefully, the things to buy...
 
-175
+428347
 00:07:08,347 --> 00:07:10,806
 are all written down here, just get what's on the list
 
-176
+431025
 00:07:11,025 --> 00:07:13,852
 That's simple, I'm setting off right now!
 
-177
+437381
 00:07:17,381 --> 00:07:20,247
 Where on earth are the grocery store and the fish market?
 
-178
+442585
 00:07:22,585 --> 00:07:23,370
 What's wrong?
 
-179
+443410
 00:07:23,410 --> 00:07:25,564
 You'd better not go, let me go instead
 
-180
+446177
 00:07:26,177 --> 00:07:27,710
 If you don't let me go...
 
-181
+448056
 00:07:28,056 --> 00:07:29,556
 Then I'm gonna cry!
 
-182
+450853
 00:07:30,853 --> 00:07:33,254
 Oh no, don't... don't cry
 
-183
+453295
 00:07:33,295 --> 00:07:34,607
 Oh, I give in
 
-184
+458023
 00:07:38,023 --> 00:07:41,231
 As long as I have a map, there's nowhere Shinzo can't go!
 
-185
+462608
 00:07:42,608 --> 00:07:43,561
 Shishimaru
 
-186
+463601
 00:07:43,601 --> 00:07:44,873
 I know what to do
 
-187
+469407
 00:07:49,407 --> 00:07:50,807
 Hey
 
-188
+471666
 00:07:51,666 --> 00:07:52,613
 Hey
 
-189
+473646
 00:07:53,646 --> 00:07:56,127
 I can go shopping all by myself now!
 
-190
+486867
 00:08:06,867 --> 00:08:07,720
 Hey
 
-191
+488186
 00:08:08,186 --> 00:08:11,036
 Listen up, I can go shopping all by myself now!
 
-192
+491903
 00:08:11,903 --> 00:08:13,070
 So troublesome
 
-193
+493156
 00:08:13,156 --> 00:08:13,910
 Hey
 
-194
+494056
 00:08:14,056 --> 00:08:14,922
 What is it?
 
-195
+495929
 00:08:15,929 --> 00:08:18,629
 Listen up, I can go shopping all by myself
 
-196
+499462
 00:08:19,462 --> 00:08:22,609
 What a good boy, didn't think you'd be so capable at your age!
 
-197
+502956
 00:08:22,956 --> 00:08:23,936
 Bye-bye!
 
-198
+512696
 00:08:32,696 --> 00:08:34,329
 Oh shoot, this time, oh shoot...
 
-199
+516856
 00:08:36,856 --> 00:08:38,262
 Oh no, I forgot!
 
-200
+521550
 00:08:41,550 --> 00:08:43,483
 First, go to the grocery store to buy stuff
 
-201
+523523
 00:08:43,523 --> 00:08:45,610
 Which means... that way
 
-202
+526033
 00:08:46,033 --> 00:08:47,013
 That's right!
 
-203
+527433
 00:08:47,433 --> 00:08:49,333
 Huh? It's a dead end!
 
-204
+533183
 00:08:53,183 --> 00:08:54,652
 You're back already?
 
-205
+536050
 00:08:56,050 --> 00:08:57,835
 How come Shinzo is back so fast?
 
-206
+537876
 00:08:57,876 --> 00:09:00,141
 No good... I'll start over!
 
-207
+541679
 00:09:01,679 --> 00:09:04,070
 This time I have to follow along
 
-208
+544824
 00:09:04,824 --> 00:09:07,017
 Yan...
 
-209
+548030
 00:09:08,030 --> 00:09:09,729
 Hey, what's going on? Drive already!
 
-210
+549770
 00:09:09,770 --> 00:09:11,247
 Total gridlock, what's the holdup?
 
-211
+551288
 00:09:11,288 --> 00:09:13,834
 Drive already, you're blocking the way!
 
-212
+554094
 00:09:14,094 --> 00:09:15,752
 Hurry up and drive, move!
 
-213
+555793
 00:09:15,793 --> 00:09:17,619
 Shinzo really is trouble
 
-214
+557660
 00:09:17,660 --> 00:09:19,367
 He's bound to cause trouble sooner or later
 
-215
+561639
 00:09:21,639 --> 00:09:23,752
 Yan...
 
-216
+566932
 00:09:26,932 --> 00:09:29,300
 Alright, I'll draw an arrow first
 
-217
+569340
 00:09:29,340 --> 00:09:30,441
 There we go
 
-218
+578643
 00:09:38,643 --> 00:09:40,270
 What does this arrow mean?
 
-219
+580820
 00:09:40,820 --> 00:09:42,536
 Let's draw a few more
 
-220
+588823
 00:09:48,823 --> 00:09:50,183
 You can't walk away!
 
-221
+590783
 00:09:50,783 --> 00:09:51,707
 I'm sorry!
 
-222
+598411
 00:09:58,411 --> 00:09:59,423
 Arrived at the grocery store!
 
-223
+599464
 00:09:59,464 --> 00:10:00,741
 Yes, welcome!
 
-224
+602039
 00:10:02,039 --> 00:10:03,725
 The arrow points all the way here
 
-225
+603766
 00:10:03,766 --> 00:10:05,220
 What on earth is going on here?
 
-226
+605240
 00:10:05,240 --> 00:10:07,482
 Maybe there's a closing-down clearance sale, huh?
 
-227
+607985
 00:10:07,985 --> 00:10:09,206
 Oh, honey!
 
-228
+609247
 00:10:09,247 --> 00:10:10,500
 A whole crowd just showed up!
 
-229
+610540
 00:10:10,540 --> 00:10:11,651
 Come out and help quick!
 
-230
+611692
 00:10:11,692 --> 00:10:12,765
 Help me sell the stuff!
 
-231
+614058
 00:10:14,058 --> 00:10:15,277
 Give me some...
 
-232
+615584
 00:10:15,584 --> 00:10:17,977
 Give me some...
 
-233
+618018
 00:10:18,018 --> 00:10:20,232
 Wow, business is booming for this shop!
 
-234
+620565
 00:10:20,565 --> 00:10:22,392
 Next is the fish stall
 
-235
+622702
 00:10:22,702 --> 00:10:24,061
 Oh no, the map is gone!
 
-236
+624102
 00:10:24,102 --> 00:10:25,902
 This is really bad now
 
-237
+626202
 00:10:26,202 --> 00:10:28,425
 Shishimaru, hurry and put on a disguise!
 
-238
+628466
 00:10:28,466 --> 00:10:29,836
 Piece of cake
 
-239
+632652
 00:10:32,652 --> 00:10:35,179
 I want you to snatch the grocery basket from Shinzo's hands
 
-240
+635219
 00:10:35,219 --> 00:10:37,178
 And then head to the fish stall, got it?
 
-241
+662127
 00:11:02,127 --> 00:11:03,752
 I'm counting on you
 
-242
+665947
 00:11:05,947 --> 00:11:08,165
 Where did that map fall?
 
-243
+672410
 00:11:12,410 --> 00:11:14,074
 Don't run!
 
-244
+674973
 00:11:14,973 --> 00:11:18,432
 Don't run...
 
-245
+690388
 00:11:30,388 --> 00:11:32,189
 I didn't expect him to actually hit me
 
-246
+693335
 00:11:33,335 --> 00:11:34,368
 That really hurt
 
-247
+696205
 00:11:36,205 --> 00:11:38,250
 Ow, it hurts so much! Ouch, that hurts...
 
-248
+705315
 00:11:45,315 --> 00:11:48,300
 There's the fish stall, yay!
 
-249
+708765
 00:11:48,765 --> 00:11:50,393
 Mission accomplished!
 
-250
+713847
 00:11:53,847 --> 00:11:56,541
 Shishimaru, I'm so sorry you had to take a beating
 
-251
+716582
 00:11:56,582 --> 00:11:57,967
 Thank you for your business!
 
-252
+723685
 00:12:03,685 --> 00:12:06,538
 I can go shopping all by myself!
 
-253
+728205
 00:12:08,205 --> 00:12:11,699
 I can go shopping all by myself, yay!
 
-254
+732225
 00:12:12,225 --> 00:12:13,032
 Yay!
 
-255
+733072
 00:12:13,072 --> 00:12:16,308
 I can go shopping all by myself!
 
-256
+737370
 00:12:17,370 --> 00:12:20,225
 He has no idea how much effort I put into helping him
 
-257
+740265
 00:12:20,265 --> 00:12:22,188
 Even if I was the one who suffered
 
-258
+745876
 00:12:25,876 --> 00:12:27,390
 "The Uninvited Guest"
 
-259
+755707
 00:12:35,707 --> 00:12:38,100
 Yan...
 
-260
+769536
 00:12:49,536 --> 00:12:51,527
 I'm covered in mud!
 
-261
+772186
 00:12:52,186 --> 00:12:54,893
 Damn it, splashing me like this and not even apologising?
 
-262
+777832
 00:12:57,832 --> 00:12:59,985
 That car is so rude!
 
-263
+783367
 00:13:03,367 --> 00:13:05,310
 Oh, that's the car!
 
-264
+785350
 00:13:05,350 --> 00:13:06,990
 Yeah, I recognise it too
 
-265
+787630
 00:13:07,630 --> 00:13:08,864
 Please, have a seat
 
-266
+789091
 00:13:09,091 --> 00:13:10,838
 Thank you so much
 
-267
+791831
 00:13:11,831 --> 00:13:14,054
 We haven't seen each other in almost 20 years
 
-268
+794101
 00:13:14,101 --> 00:13:16,135
 It's so wonderful to catch up today
 
-269
+796175
 00:13:16,175 --> 00:13:17,516
 Has it really been 20 years?
 
-270
+797557
 00:13:17,557 --> 00:13:18,961
 May I ask who you are?
 
-271
+799026
 00:13:19,026 --> 00:13:21,051
 Oh, you don't even remember me?
 
-272
+801092
 00:13:21,092 --> 00:13:22,459
 Back when we were in primary school
 
-273
+802499
 00:13:22,499 --> 00:13:23,945
 We hung out and saw each other all the time
 
-274
+803986
 00:13:23,986 --> 00:13:25,328
 Oh, are you Kato?
 
-275
+807196
 00:13:27,196 --> 00:13:29,196
 No, think a bit harder
 
-276
+809276
 00:13:29,276 --> 00:13:30,676
 I'm so sorry
 
-277
+810776
 00:13:30,776 --> 00:13:31,457
 Who on earth...
 
-278
+811497
 00:13:31,497 --> 00:13:33,735
 I'm your classmate Yamamoto who lived next door
 
-279
+813776
 00:13:33,776 --> 00:13:35,042
 Oh, Yamamoto?
 
-280
+815381
 00:13:35,381 --> 00:13:38,235
 I remember now! What line of work are you in?
 
-281
+818345
 00:13:38,345 --> 00:13:40,125
 I'm in the safe business now
 
-282
+820165
 00:13:40,165 --> 00:13:43,020
 By the way, do you have a safe at home?
 
-283
+823060
 00:13:43,060 --> 00:13:45,069
 Why would a regular house have a safe?
 
-284
+825495
 00:13:45,495 --> 00:13:47,527
 Your house is so big, you really should get one
 
-285
+827568
 00:13:47,568 --> 00:13:48,956
 Mom, make extra food!
 
-286
+828997
 00:13:48,997 --> 00:13:50,137
 Oh, got it
 
-287
+831683
 00:13:51,683 --> 00:13:52,697
 That's wonderful
 
-288
+834597
 00:13:54,597 --> 00:13:57,291
 Mom, is our food ready yet?
 
-289
+837331
 00:13:57,331 --> 00:13:59,306
 Wait a little longer
 
-290
+839346
 00:13:59,346 --> 00:14:01,913
 As soon as the guest leaves, I'll cook for you
 
-291
+842891
 00:14:02,891 --> 00:14:04,018
 How annoying!
 
-292
+844058
 00:14:04,058 --> 00:14:06,031
 That guest got me all filthy earlier
 
-293
+846072
 00:14:06,072 --> 00:14:07,738
 And now he's keeping me from eating!
 
-294
+847845
 00:14:07,845 --> 00:14:09,260
 Hattori-kun, is there any way
 
-295
+849300
 00:14:09,300 --> 00:14:11,184
 To make him leave right now?
 
-296
+854154
 00:14:14,154 --> 00:14:16,055
 Well? Do you have an idea?
 
-297
+856095
 00:14:16,095 --> 00:14:17,521
 Woah, do you really have a plan?
 
-298
+857561
 00:14:17,561 --> 00:14:18,794
 Of course I do
 
-299
+862822
 00:14:22,822 --> 00:14:24,562
 Shishimaru, what are you doing?
 
-300
+871004
 00:14:31,004 --> 00:14:32,540
 Shishimaru, that's so rude!
 
-301
+872580
 00:14:32,580 --> 00:14:34,331
 Never mind... He must be really hungry
 
-302
+874371
 00:14:34,371 --> 00:14:35,499
 Just let him eat
 
-303
+875877
 00:14:35,877 --> 00:14:37,057
 Make sure you don't choke
 
-304
+877097
 00:14:37,097 --> 00:14:38,637
 Here, have some sake, okay, here...
 
-305
+880389
 00:14:40,389 --> 00:14:43,203
 I believe this dog
 must come from a noble breed
 
-306
+883283
 00:14:43,283 --> 00:14:44,588
 He was born in Iga
 
-307
+884628
 00:14:44,628 --> 00:14:46,432
 Iga? Iga is the ninja homeland
 
-308
+886472
 00:14:46,472 --> 00:14:48,285
 Dogs from there must be worth a fortune
 
-309
+888326
 00:14:48,326 --> 00:14:49,438
 To be honest
 
-310
+889479
 00:14:49,479 --> 00:14:51,504
 He's our family's priceless treasure
 
-311
+891557
 00:14:51,557 --> 00:14:53,696
 No matter how much money is offered, we won't sell him
 
-312
+893737
 00:14:53,737 --> 00:14:56,878
 Plus he's a huge eater, so he's really not easy to keep
 
-313
+899164
 00:14:59,164 --> 00:15:00,468
 I've had my fill of food and drink
 
-314
+900509
 00:15:00,509 --> 00:15:02,320
 Oh dear, Shishimaru, what on earth are you doing?
 
-315
+902361
 00:15:02,361 --> 00:15:03,695
 After all this time, he still hasn't left?
 
-316
+903736
 00:15:03,736 --> 00:15:05,380
 Shishimaru is so simple-minded
 
-317
+905420
 00:15:05,420 --> 00:15:08,180
 He thought if he ate all the food, the guest would leave
 
-318
+908867
 00:15:08,867 --> 00:15:10,442
 How frustrating!
 
-319
+910948
 00:15:10,948 --> 00:15:12,255
 Who could that be?
 
-320
+915250
 00:15:15,250 --> 00:15:17,643
 Looks like that guy's wife
 
-321
+917686
 00:15:17,686 --> 00:15:19,346
 Wow, she looks really mean!
 
-322
+919471
 00:15:19,471 --> 00:15:22,824
 Kenichi, I've thought of a good way to drive him away
 
-323
+935153
 00:15:35,153 --> 00:15:37,464
 I must definitely be drunk
 
-324
+938028
 00:15:38,028 --> 00:15:40,827
 Yan...
 
-325
+943450
 00:15:43,450 --> 00:15:44,743
 Yamamoto, are you all right?
 
-326
+944976
 00:15:44,976 --> 00:15:46,802
 May I use the restroom?
 
-327
+948688
 00:15:48,688 --> 00:15:49,874
 I want to leave!
 
-328
+950758
 00:15:50,758 --> 00:15:52,020
 I want to leave now
 
-329
+952190
 00:15:52,190 --> 00:15:53,554
 Yamamoto, I'm really sorry
 
-330
+953595
 00:15:53,595 --> 00:15:55,888
 It must be a prank played by Kenichi's friend
 
-331
+956561
 00:15:56,561 --> 00:15:57,875
 Hattori-kun! Kenichi!
 
-332
+957915
 00:15:57,915 --> 00:15:59,391
 Come out and apologize right now!
 
-333
+959431
 00:15:59,431 --> 00:16:00,620
 I know I was wrong
 
-334
+960660
 00:16:00,660 --> 00:16:02,434
 Well, it's getting late, so I should get going
 
-335
+962587
 00:16:02,587 --> 00:16:04,260
 Yamamoto, why don't you stay the night?
 
-336
+964300
 00:16:04,300 --> 00:16:06,020
 Drunk driving is illegal, you know
 
-337
+966060
 00:16:06,060 --> 00:16:08,092
 Yes, I know, but...
 
-338
+968219
 00:16:08,219 --> 00:16:10,082
 All right, since I've already bothered you
 
-339
+970123
 00:16:10,123 --> 00:16:11,203
 I'll make myself at home then
 
-340
+975144
 00:16:15,144 --> 00:16:17,730
 The kids in this house are seriously weird
 
-341
+977770
 00:16:17,770 --> 00:16:19,330
 I'd better get out of here as soon as possible
 
-342
+983836
 00:16:23,836 --> 00:16:26,843
 It's all bulky junk, not worth a dime
 
-343
+991345
 00:16:31,345 --> 00:16:32,485
 That's right
 
-344
+992705
 00:16:32,705 --> 00:16:35,677
 This dog is a priceless treasure, I can't leave him behind
 
-345
+999536
 00:16:39,536 --> 00:16:41,963
 Kenichi, wake up
 
-346
+1011321
 00:16:51,321 --> 00:16:53,607
 Yan...
 
-347
+1014093
 00:16:54,093 --> 00:16:55,060
 This is bad!
 
-348
+1015101
 00:16:55,101 --> 00:16:57,247
 Thief! Stop right there!
 
-349
+1018377
 00:16:58,377 --> 00:17:00,060
 Help!
 
-350
+1020943
 00:17:00,943 --> 00:17:02,397
 What's going on?
 
-351
+1024764
 00:17:04,764 --> 00:17:05,838
 Help!
 
-352
+1030483
 00:17:10,483 --> 00:17:13,195
 Yan...
 
-353
+1036413
 00:17:16,413 --> 00:17:17,869
 Yan...
 
-354
+1041763
 00:17:21,763 --> 00:17:24,137
 Hey, don't run! Stop!
 
-355
+1052368
 00:17:32,368 --> 00:17:33,741
 How could you treat a guest like that?
 
-356
+1053782
 00:17:33,782 --> 00:17:35,428
 Big bro, what's going on?
 
-357
+1060719
 00:17:40,719 --> 00:17:41,811
 It's him!
 
-358
+1062096
 00:17:42,096 --> 00:17:43,308
 What's going on?
 
-359
+1063349
 00:17:43,349 --> 00:17:45,117
 I found out he stole someone's car!
 
-360
+1065297
 00:17:45,297 --> 00:17:46,135
 No way!
 
-361
+1066176
 00:17:46,176 --> 00:17:48,389
 Yamamoto and I grew up playing together though!
 
-362
+1068430
 00:17:48,430 --> 00:17:49,029
 How is that even possible?
 
-363
+1069069
 00:17:49,069 --> 00:17:51,380
 You fell for his trick. He has a long criminal record
 
-364
+1071420
 00:17:51,420 --> 00:17:53,622
 He specializes in impersonating people to burglarize houses
 
-365
+1074441
 00:17:54,441 --> 00:17:56,268
 No wonder when I first ran into him
 
-366
+1076308
 00:17:56,308 --> 00:17:57,364
 I had no memory of him at all
 
-367
+1077405
 00:17:57,405 --> 00:17:59,605
 Turns out I fell for his trick from the very beginning!
 
-368
+1080563
 00:18:00,563 --> 00:18:03,667
 Ah, you did a great job catching the thief, so you get a reward!
 
-369
+1085156
 00:18:05,156 --> 00:18:06,370
 We get a reward!
 
-370
+1086411
 00:18:06,411 --> 00:18:08,060
 Come on, you were totally drunk
 
-371
+1088100
 00:18:08,100 --> 00:18:09,657
 and asleep, you didn't contribute at all!
 
-372
+1089698
 00:18:09,698 --> 00:18:11,669
 You almost got kidnapped and didn't even know it!
 
-373
+1091709
 00:18:11,709 --> 00:18:12,938
 How do you qualify for a reward?
 
-374
+1092979
 00:18:12,979 --> 00:18:14,335
 No reward for you!
 
-375
+1095341
 00:18:15,341 --> 00:18:16,547
 I'm so sorry
 
-376
+1096588
 00:18:16,588 --> 00:18:18,656
 I feel so deeply ashamed
-
