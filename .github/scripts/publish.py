@@ -22,6 +22,7 @@ Only --pr needs the GitHub CLI (`gh`); everything else is git + Python 3.
 from __future__ import annotations
 
 import argparse
+import os
 import shutil
 import subprocess
 import sys
@@ -39,6 +40,31 @@ def _git(*args: str, capture: bool = False, check: bool = True) -> subprocess.Co
     return subprocess.run(
         ["git", *args], cwd=REPO_ROOT, capture_output=capture, text=True, check=check
     )
+
+
+def _git_stream(*args: str) -> subprocess.CompletedProcess:
+    """Run a git command, echoing its output as it arrives and keeping a copy.
+
+    git reports push progress on stderr, so capturing it wholesale leaves a
+    slow push looking like a hang -- no output at all until it finishes. Read
+    it in whatever chunks arrive rather than by line, because the progress
+    meter redraws with a carriage return and would otherwise sit in the buffer.
+    The copy goes to _explain_push_failure, which still needs the text.
+    """
+    proc = subprocess.Popen(["git", *args], cwd=REPO_ROOT, stderr=subprocess.PIPE)
+    chunks: list[bytes] = []
+    assert proc.stderr is not None
+    while True:
+        data = os.read(proc.stderr.fileno(), 4096)
+        if not data:
+            break
+        chunks.append(data)
+        sys.stderr.buffer.write(data)
+        sys.stderr.buffer.flush()
+    proc.stderr.close()
+    proc.wait()
+    stderr = b"".join(chunks).decode("utf-8", "replace")
+    return subprocess.CompletedProcess(proc.args, proc.returncode, "", stderr)
 
 
 def changed_srt_paths(status_output: str) -> list[str]:
@@ -120,11 +146,8 @@ def _explain_push_failure(stderr: str, branch: str) -> int:
         print("committing after your last pull. Run:")
         print()
         print("    git pull --rebase && git push")
-    elif stderr.strip():
-        print("git reported:")
-        print()
-        for line in stderr.strip().splitlines():
-            print(f"  {line}")
+    else:
+        print("git's output is above.")
     return 1
 
 
@@ -240,10 +263,10 @@ def main(argv: list[str] | None = None) -> int:
     _git("commit", "-m", message, capture=True)
 
     if args.pr:
-        push = _git("push", "-u", "origin", branch, capture=True, check=False)
+        print(f"\nPushing `{branch}` to origin...")
+        push = _git_stream("push", "--progress", "-u", "origin", branch)
         if push.returncode != 0:
-            print("\nCould not push the branch:")
-            print(push.stderr.strip())
+            print("\nCould not push the branch. git's output is above.")
             return 1
         subprocess.run(
             ["gh", "pr", "create", "--fill"], cwd=REPO_ROOT, check=False
@@ -252,7 +275,8 @@ def main(argv: list[str] | None = None) -> int:
         print(f"\nDone. (Returned you to `{original_branch}`.)")
         return 0
 
-    push = _git("push", capture=True, check=False)
+    print(f"\nPushing `{original_branch}` to origin...")
+    push = _git_stream("push", "--progress")
     if push.returncode != 0:
         return _explain_push_failure(push.stderr, original_branch)
 

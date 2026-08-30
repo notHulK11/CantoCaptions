@@ -26,7 +26,11 @@ from pathlib import Path
 import srtlint
 from srtfmt import SrtParseError, check_file, decode_srt, parse
 
-_LINE_RE = re.compile(r"^Line (\d+) — (.*)$")
+# Messages carry their location as either "Cue 12 (line 47)" or, for problems
+# between cues, a bare "Line 47". The line is pulled out to anchor the
+# annotation; the cue number stays in the visible text, since that is what a
+# reviewer needs to find the cue in a subtitle editor.
+_LOCATION_RE = re.compile(r"^(?:Cue (\d+) \(line (\d+)\)|Line (\d+)) — (.*)$")
 
 
 def _read_paths(paths_file: str) -> list[str]:
@@ -42,11 +46,14 @@ def _emit(command: str, path: str, message: str, line: int = 1) -> None:
 
 def _emit_reasons(command: str, path: str, reasons: list[str]) -> None:
     for reason in reasons:
-        m = _LINE_RE.match(reason)
-        if m:
-            _emit(command, path, m.group(2), line=int(m.group(1)))
-        else:
+        m = _LOCATION_RE.match(reason)
+        if not m:
             _emit(command, path, reason)
+            continue
+        cue_number, cue_line, bare_line, message = m.groups()
+        if cue_number:
+            message = f"Cue {cue_number} — {message}"
+        _emit(command, path, message, line=int(cue_line or bare_line))
 
 
 def main(argv: list[str] | None = None) -> int:

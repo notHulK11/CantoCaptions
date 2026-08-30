@@ -38,8 +38,13 @@ class Cue:
     # Diagnostics-only metadata populated by parse(). Unused by assign_ids()
     # and serialize() -- they only need start_ms/end_ms/text -- but check_file()
     # needs the raw ID/timestamp text and line numbers to explain a diff.
+    # number is the cue's 1-based position in the file, which is what subtitle
+    # editors show against each block. Deliberately not id_text: a file's own
+    # IDs may repeat, skip, or go backward, and the whole point is to give a
+    # reviewer a number they can navigate to.
     id_line_no: int | None = None
     id_text: str | None = None
+    number: int = 0
     timestamp_line_no: int = 0
     timestamp_text: str = ""
     blank_lines_before: int = 0
@@ -166,6 +171,7 @@ def parse(text: str) -> list[Cue]:
                 text_lines,
                 id_line_no=id_line_no,
                 id_text=id_text,
+                number=len(cues) + 1,
                 timestamp_line_no=timestamp_line_no,
                 timestamp_text=timestamp_text,
                 blank_lines_before=blank_count,
@@ -241,20 +247,21 @@ def _diagnose_timestamp_line(cue: Cue) -> list[str]:
     if m:
         h1, _, _, _, h2, _, _, _ = m.groups()
         if len(h1) < 2 or len(h2) < 2:
-            reasons.append(f"Line {cue.timestamp_line_no} — hour is not zero-padded.")
+            reasons.append(f"{srtlint.location(cue.number, cue.timestamp_line_no)} — hour is not zero-padded.")
         if "." in cue.timestamp_text:
             reasons.append(
-                f"Line {cue.timestamp_line_no} — uses '.' instead of ',' "
-                "as the millisecond separator."
+                f"{srtlint.location(cue.number, cue.timestamp_line_no)} — uses '.' "
+                "instead of ',' as the millisecond separator."
             )
         if not re.search(r"[,.]\d{3} --> \d", cue.timestamp_text):
             reasons.append(
-                f"Line {cue.timestamp_line_no} — should have exactly one space "
-                "on each side of '-->'."
+                f"{srtlint.location(cue.number, cue.timestamp_line_no)} — should have "
+                "exactly one space on each side of '-->'."
             )
     if not reasons:
         reasons.append(
-            f"Line {cue.timestamp_line_no} — timestamp formatting differs from canonical form."
+            f"{srtlint.location(cue.number, cue.timestamp_line_no)} — timestamp "
+            "formatting differs from canonical form."
         )
     return reasons
 
@@ -278,20 +285,21 @@ def _diagnose_id_order(cues: list[Cue]) -> list[str]:
     """
     reasons = []
     prev_value: int | None = None
-    prev_line: int | None = None
+    prev_number: int | None = None
     for cue in cues:
         if cue.id_text is None or not cue.id_text.isdigit():
             continue
         value = int(cue.id_text)
         if prev_value is not None and value <= prev_value:
             reasons.append(
-                f"Line {cue.id_line_no} — cue ID is {value}, which is not greater "
-                f"than the previous cue's ID ({prev_value}, line {prev_line}). Cue "
-                "numbers get renumbered automatically, but one that repeats or goes "
-                "backward usually means two cues got swapped or duplicated by mistake."
+                f"{srtlint.location(cue.number, cue.id_line_no)} — cue ID is {value}, "
+                f"which is not greater than the previous cue's ID ({prev_value}, at "
+                f"cue {prev_number}). Cue numbers get renumbered automatically, but "
+                "one that repeats or goes backward usually means two cues got "
+                "swapped or duplicated by mistake."
             )
         prev_value = value
-        prev_line = cue.id_line_no
+        prev_number = cue.number
     return reasons
 
 
@@ -322,9 +330,16 @@ def diagnose(raw: bytes, cues: list[Cue]) -> list[str]:
 
     text = pre_lf_text.replace("\r\n", "\n").replace("\r", "\n")
 
+    owning_cue: dict[int, int] = {}
+    for cue in cues:
+        for lineno in (cue.id_line_no, cue.timestamp_line_no, *cue.text_line_nos):
+            if lineno:
+                owning_cue[lineno] = cue.number
+
     for lineno, line in enumerate(text.split("\n"), start=1):
         if line != line.rstrip():
-            reasons.append(f"Line {lineno} — has trailing whitespace.")
+            where = srtlint.location(owning_cue.get(lineno), lineno)
+            reasons.append(f"{where} — has trailing whitespace.")
 
     reasons.extend(_diagnose_id_order(cues))
 
@@ -333,8 +348,9 @@ def diagnose(raw: bytes, cues: list[Cue]) -> list[str]:
 
         if idx > 0 and cue.blank_lines_before != 1:
             reasons.append(
-                f"Line {cue.timestamp_line_no} — {cue.blank_lines_before} blank line(s) "
-                "before this cue; canonical form uses exactly 1."
+                f"{srtlint.location(cue.number, cue.timestamp_line_no)} — "
+                f"{cue.blank_lines_before} blank line(s) before this cue; "
+                "canonical form uses exactly 1."
             )
 
     return reasons

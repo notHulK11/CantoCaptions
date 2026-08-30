@@ -28,6 +28,20 @@ _MARKUP_RE = re.compile(r"\{\\[^}]*\}|</?[a-zA-Z][^>]*>")
 _ITALIC_TAG_RE = re.compile(r"</?i>|\{\\i[01]?\}", re.IGNORECASE)
 
 
+def location(cue_number: int | None, lineno: int) -> str:
+    """Format the "where" half of a message, as 'Cue 12 (line 47)'.
+
+    Cue numbers are what a subtitle editor shows against each block, so they
+    are how someone reviewing in one actually navigates. The line number stays
+    alongside because CI anchors its inline annotations by line, and because
+    anyone opening the file in a text editor still needs it. Problems that sit
+    between cues have no cue number and fall back to the line alone.
+    """
+    if cue_number is None:
+        return f"Line {lineno}"
+    return f"Cue {cue_number} (line {lineno})"
+
+
 def _visible_text(line: str) -> str:
     """Strip override tags ({\\an8}, <i>...) that aren't displayed text."""
     return _MARKUP_RE.sub("", line)
@@ -51,8 +65,8 @@ def _lint_line_length(cue: Cue) -> list[str]:
         width = _display_width(_visible_text(line))
         if width > MAX_LINE_WIDTH:
             warnings.append(
-                f"Line {lineno} — this line is {_fmt_width(width)} characters. "
-                f"The limit is {MAX_LINE_WIDTH}."
+                f"{location(cue.number, lineno)} — this line is "
+                f"{_fmt_width(width)} characters. The limit is {MAX_LINE_WIDTH}."
             )
     return warnings
 
@@ -62,7 +76,10 @@ def _lint_duration(cue: Cue) -> list[str]:
     char_count = sum(len(_visible_text(line)) for line in cue.text)
     threshold = MIN_DURATION_LONG_MS if char_count >= LONG_TEXT_CHAR_THRESHOLD else MIN_DURATION_MS
     if duration < threshold:
-        return [f"Line {cue.timestamp_line_no} — cue lasts {duration}ms. Minimum is {threshold}ms."]
+        return [
+            f"{location(cue.number, cue.timestamp_line_no)} — cue lasts "
+            f"{duration}ms. Minimum is {threshold}ms."
+        ]
     return []
 
 
@@ -72,15 +89,15 @@ def _lint_ending_punctuation(cue: Cue) -> list[str]:
     last_line = _visible_text(cue.text[-1]).rstrip()
     if last_line and last_line[-1] in "。.":
         return [
-            f"Line {cue.text_line_nos[-1]} — subtitle ends in '{last_line[-1]}'. "
-            "Subtitles should not end in a period."
+            f"{location(cue.number, cue.text_line_nos[-1])} — subtitle ends in "
+            f"'{last_line[-1]}'. Subtitles should not end in a period."
         ]
     return []
 
 
 def _lint_double_ellipsis(cue: Cue) -> list[str]:
     return [
-        f"Line {lineno} — uses '……' where a single '…' is required."
+        f"{location(cue.number, lineno)} — uses '……' where a single '…' is required."
         for line, lineno in zip(cue.text, cue.text_line_nos)
         if "……" in line
     ]
@@ -88,7 +105,7 @@ def _lint_double_ellipsis(cue: Cue) -> list[str]:
 
 def _lint_middle_dot(cue: Cue) -> list[str]:
     return [
-        f"Line {lineno} — contains a middle dot '·', which is never used."
+        f"{location(cue.number, lineno)} — contains a middle dot '·', which is never used."
         for line, lineno in zip(cue.text, cue.text_line_nos)
         if "·" in line
     ]
@@ -96,7 +113,7 @@ def _lint_middle_dot(cue: Cue) -> list[str]:
 
 def _lint_italics(cue: Cue) -> list[str]:
     return [
-        f"Line {lineno} — contains an italic tag; italics are never used."
+        f"{location(cue.number, lineno)} — contains an italic tag; italics are never used."
         for line, lineno in zip(cue.text, cue.text_line_nos)
         if _ITALIC_TAG_RE.search(line)
     ]
