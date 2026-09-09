@@ -5708,6 +5708,5 @@ Sorry啊
 
 1414
 01:41:14,305 --> 01:41:17,172
-粵文字幕
-CantoCaptions
+（粵文字幕：CantoCaptions）
 
