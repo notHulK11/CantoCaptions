@@ -46,9 +46,9 @@ There is no official organization that sets standards for the usage of Written V
 
 There are 3 main resources that served as a starting point.
 
-1. https://www.cantonese.com.hk/cantonese/sfp/ - The sentence-final particles are largely based on the table used here with some modifications. 𠵝 is dropped in favor of 呀 due to the former being unsupported by almost all fonts, as well as 呀 being far more common. 可 is dropped in favor of 嗬 for disambiguation. Aside from those exceptions, there are some additional particles (gaa5, laa2, laa6, and zaa6) which exist but which were not mentioned in their table, so we devised our own conventions.
+1. https://www.cantonese.com.hk/cantonese/sfp/ - The sentence-final particles are largely based on the table used here with some modifications. 𠵝 is dropped in favor of 呀 due to the former being unsupported by almost all fonts, as well as 呀 being far more common. 可 is dropped in favor of 嗬 for disambiguation and as a stylistic preference. Aside from those exceptions, there are some additional particles (gaa5, laa2, laa6, and zaa6) which exist but which were not mentioned in their table, so we devised our own conventions.
 2. https://jyutping.org/en/blog/typo/ - Many characters for disambiguation are taken directly from the list here.
-3. https://words.hk/ - A guiding principle behind the conventions are that they are searchable in words.hk which is the most comprehensible and accessible Cantonese dictionary. There are scant exceptions for rare SFP but nearly all selected characters must be searchable. Character variants are also taken directly from what they consider to be the correct Hong Kong variants.
+3. https://words.hk/ - With the excepiton of SFP, a general guiding principle behind the conventions is searchability in words.hk, which is the most comprehensible and accessible Cantonese dictionary. Character variants are also taken directly from what they consider to be the correct Hong Kong variants.
 
 > [!NOTE]
 > The conventions have been evolving over time and many of the existing subtitles have not been updated in accordance with the latest standards.
