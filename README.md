@@ -281,7 +281,7 @@ Where applicable, these Hong Kong variants are used. These map 1:1.
 | 掹                | 擝              | mang1                          |                           |
 | 拈                | lim、令、捻        | lim1                           | 紙嘅單位，通常指500張              |
 | 捻                | 掐              | nin2                           | 雙手或者多隻手指夾住一嚿嘢             |
-| 吼住               | 睺住、喉住          | hau1 zyu6, hau4 zyu6           | 望住                        |
+| 睺住               |吼住、喉住          | hau1 zyu6, hau4 zyu6           | 望住                        |
 | 飆                | 標              | biu1                           |                           |
 | 故仔、故事            | 古仔、古事          | gu3 zai2, gu3 si6              |                           |
 | 囈                | 𠼮、誽、𠱓        | ngai1, ai1                     | 央求                        |
