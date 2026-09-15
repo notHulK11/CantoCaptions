@@ -320,14 +320,13 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 The .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-- lines should begin right as speech does ideally, but realistically just get as close as you can (no more than 50ms away).
+- lines should begin 0-50ms before speech.
 - lines should slightly trail the end of speech (roughly 350ms) by default
 	- exceptions: start of more speech or a shot change
-- lines that end within roughly 50ms or less of a shot change should be end right on the shot change
+- lines that end within roughly 50ms or less of a shot change should end right on the shot change
 - lines that are trailing should end on a shot change if within 500ms of one
 - lines with a length of 3 characters or more need a minimum duration of 750ms
-	- exceptions: interrupted speech, shot change (though generally allow at least 500ms)
-- lines should never be less than 400ms regardless of length
+	- exceptions: interrupted speech or a shot change (though generally allow at least 500ms)
 
 ### Punctuation
 
