@@ -320,14 +320,13 @@ The goal of these subtitles is to be as useful to learners as possible. The goal
 The .srt subtitle format is chosen because of its wide-ranging compatibility especially with language learning tools such as pop-up dictionaries.
 
 ### Timing
-- lines should begin right as speech does ideally, but realistically just get as close as you can (no more than 50ms away).
+- lines should begin 0-50ms before speech.
 - lines should slightly trail the end of speech (roughly 350ms) by default
 	- exceptions: start of more speech or a shot change
-- lines that end within roughly 50ms or less of a shot change should be end right on the shot change
+- lines that end within roughly 50ms or less of a shot change should end right on the shot change
 - lines that are trailing should end on a shot change if within 500ms of one
 - lines with a length of 3 characters or more need a minimum duration of 750ms
-	- exceptions: interrupted speech, shot change (though generally allow at least 500ms)
-- lines should never be less than 400ms regardless of length
+	- exceptions: interrupted speech or a shot change (though generally allow at least 500ms)
 
 ### Punctuation
 
@@ -337,8 +336,8 @@ The .srt subtitle format is chosen because of its wide-ranging compatibility esp
 | The titles (of works, shows, movies, etc.) are enclosed in Chinese double arrow brackets.                                                                        | 《進擊的巨人》                                 |
 | Secondary titles are separated with a Chinese colon.                                                                                                        | 《哈利波特：神秘的魔法石》                           |
 | Episode titles are enclosed in Chinese square brackets.                                                                                                        | ［那一天：西甘希娜淪陷2］                           |
-| Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                      | 【Sub Topic】                             |
-| Foreign speech is prefaced with the name of the language in Cantonese inside lenticular brackets, followed by a Cantonese translation. Mandarin and English do not count as foreign speech. They do not need to be tagged.                                                                      | 【日語】有冇搞錯？                             |
+| Miscellaneous titles, such as in on-screen text are enclosed with lenticular brackets.                                                                      | 【Subtopic】                             |
+| Foreign speech is prefaced with the name of the language in Cantonese inside lenticular brackets, followed by a Cantonese translation. Mandarin and English do not count as foreign speech, so they do not need to be tagged.                                                                      | 【日語】有冇搞錯？                             |
 | A Chinese comma is placed after all SFP, except when followed by 你 without a pause.                                                                         | ❌好啦我明喇。<br>✅好啦，我明喇<br>❌好春廢啊，你<br>✅好春廢啊你 |
 | Multiple speaker dialogue uses two lines and dialogue that begins with a hyphen without a following space.                                                  | -speaker 1<br>-speaker 2                |
 | Direct speech styling uses Chinese colon followed by dialogue enclosed in left and right Chinese quotation characters.                                      | 我媽媽話：「唔准去嗰度」                            |
