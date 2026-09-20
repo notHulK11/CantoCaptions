@@ -1,1528 +1,1523 @@
-﻿1
+1
 00:00:01,840 --> 00:00:05,086
-又越過高山又越過谷
+Over high mountains and through valleys
 
 2
 00:00:05,447 --> 00:00:08,653
-忍者身體似飛機，天空任意飛
+With a body like an airplane, the ninja flies freely in the sky
 
 3
 00:00:08,905 --> 00:00:12,338
-正直善良靈精令人哋歡喜
+Upright and kind, Hattori-kun brings joy to everyone
 
 4
 00:00:12,492 --> 00:00:15,672
-讓兩眼睜得圓圓合緊那小嘴
+With round open eyes and a little mouth shut tight
 
 5
 00:00:16,005 --> 00:00:19,406
-隱起面貌矇起了面腮也漲起
+Face concealed, cheeks puffing out
 
 6
 00:00:19,572 --> 00:00:22,730
-捉惡人靈敏身手快似電光去
+Catching villains with agile moves fast as lightning
 
 7
 00:00:23,030 --> 00:00:26,497
-捉壞蛋新招古怪好比玩把戲
+Catching bad guys with strange tricks like magic
 
 8
 00:00:26,850 --> 00:00:29,876
-談話似詩那樣禮貌又神氣
+Speaking politely and proudly like poetry
 
 9
 00:00:31,798 --> 00:00:34,072
-［失而復得］
+"Lost and Found"
 
 10
 00:00:51,832 --> 00:00:53,219
-忍…
+Yan...
 
 11
 00:00:57,203 --> 00:01:00,460
-媽媽今日好似好開心喎，有咩事呢？
+Mom seems really happy today, what's going on?
 
 12
 00:01:00,500 --> 00:01:02,270
-因為今日爸爸出糧吖嘛
+Because today is Dad's payday
 
 13
 00:01:02,311 --> 00:01:05,137
-每個月呢一日呢，媽媽特別開心㗎啦
+Mom is always extra happy on this day every month
 
 14
 00:01:06,117 --> 00:01:08,225
-哦，原來噉樣𠸏
+Oh, so that's why
 
 15
 00:01:09,498 --> 00:01:10,784
-我返嚟嘞
+I'm home
 
 16
 00:01:11,108 --> 00:01:13,255
-哦，原來你返嚟嗱吓？好啦
+Oh, you're back? Great
 
 17
 00:01:14,479 --> 00:01:16,245
-	欸，嗱，拖鞋
+Here, your slippers
 
 18
 00:01:16,822 --> 00:01:19,682
-你想唔想食飯先抑或沖咗個涼先呢？
+Do you want to eat first or take a bath first?
 
 19
 00:01:23,413 --> 00:01:26,090
-點解爸爸今日好似冇嚟精神噉𠸏？
+Why does Dad seem so down today?
 
 20
 00:01:26,911 --> 00:01:27,992
-你講咩話？
+What did you say?
 
 21
 00:01:28,032 --> 00:01:30,591
-你成個月薪水畀人哋打荷包？
+Your whole month's salary was pickpocketed?
 
 22
 00:01:30,835 --> 00:01:33,755
-細聲啲啦，因住畀啲細佬哥聽到啊
+Keep it down, the kids might hear!
 
 23
 00:01:34,422 --> 00:01:36,470
-我哋已經聽到晒啦
+We already heard everything
 
 24
 00:01:40,606 --> 00:01:42,297
-成份薪水畀人扒咗去喎
+His whole salary was stolen by a pickpocket
 
 25
 00:01:42,337 --> 00:01:44,762
-噉我哋呢個月豈不是冇生活費囖？
+Then won't we have no money to live on this month?
 
 26
 00:01:45,489 --> 00:01:47,711
-你可以試下過啲窮人嘅生活
+You can try living like poor people
 
 27
 00:01:47,752 --> 00:01:49,057
-哎吔，噉好慘㗎喎
+Oh no, that sounds awful
 
 28
 00:01:49,097 --> 00:01:50,697
-嗱，你睇下呢一啲嘢吖
+Here, look at these
 
 29
 00:01:50,737 --> 00:01:52,418
-你攞住啲樹葉做乜嘢啊？
+What are you doing with those leaves?
 
 30
 00:01:52,458 --> 00:01:54,578
-我哋忍者只要有水同埋草呢
+As long as we ninjas have water and grass
 
 31
 00:01:54,618 --> 00:01:56,578
-就算成個月唔食嘢都唔怕㗎
+we don't mind going without food for a whole month
 
 32
 00:01:56,618 --> 00:01:58,489
-哥哥，我都可以㗎
+Big Brother, I can do it too!
 
 33
 00:01:58,542 --> 00:02:01,386
-我哋又唔係忍者，點可以學你哋噉喎？
+We're not ninjas, how can we do that?
 
 34
 00:02:01,486 --> 00:02:02,973
-噉又係喎
+That's true
 
 35
 00:02:03,298 --> 00:02:04,060
-健仔啊
+Kenichi
 
 36
 00:02:04,100 --> 00:02:06,819
-不如等我捉嗰個乞人憎嘅扒手吖
+Why don't I go catch that awful pickpocket?
 
 37
 00:02:06,860 --> 00:02:08,229
-你點捉佢啊？
+How are you going to catch him?
 
 38
 00:02:08,500 --> 00:02:10,740
-雖然我已經去差館報咗案喇
+Even though I already reported it to the police
 
 39
 00:02:10,780 --> 00:02:12,848
-不過唔知捉唔捉到嗰個扒手呢？
+I wonder if they'll catch that pickpocket
 
 40
 00:02:13,301 --> 00:02:14,251
-唔好講咁多喇
+Enough talk
 
 41
 00:02:14,291 --> 00:02:16,111
-大家食飯先講啦，嚟啦
+Let's eat first, come on
 
 42
 00:02:18,926 --> 00:02:21,326
-要利用忍術令爸爸恢復記憶啊
+I must use ninjutsu to restore Dad's memory!
 
 43
 00:02:21,367 --> 00:02:22,553
-爸爸，你諗下
+Dad, think back
 
 44
 00:02:22,593 --> 00:02:25,306
-嗰個扒手嗰個樣係點樣㗎啦吓？
+What did that pickpocket look like?
 
 45
 00:02:25,484 --> 00:02:27,264
-吓，原來你哋知道咗咩？
+Huh, you guys already found out?
 
 46
 00:02:28,166 --> 00:02:31,099
-爸爸而家慢慢恢復返記憶喇
+Dad's slowly recovering his memory now
 
 47
 00:02:40,925 --> 00:02:44,168
-佢似乎喺火車上便畀人偷咗㗎喎
+It seems he was pickpocketed on the train
 
 48
 00:02:44,240 --> 00:02:45,792
--你快啲攞佢出嚟吖
--係
+- Hurry and bring it out
+- Okay
 
 49
 00:02:46,371 --> 00:02:47,194
-嗱
+Here
 
 50
 00:02:50,969 --> 00:02:53,858
-爸爸而家可以慢慢噉恢復返記憶喇
+Dad can slowly recover his memory now
 
 51
 00:02:53,898 --> 00:02:56,221
-而家呢，將火車上便嗰啲疑犯呢
+Now, for the suspects on the train...
 
 52
 00:02:56,261 --> 00:02:57,482
-寫出嚟先
+Let's draw them first
 
 53
 00:03:01,427 --> 00:03:02,761
-哎吔，畫個背脊
+Oh dear, drawing his back...
 
 54
 00:03:02,801 --> 00:03:04,620
-又點能夠認出佢個樣喎？
+how can we recognise him from that?
 
 55
 00:03:04,860 --> 00:03:06,500
-健仔啊，你唔好咁嘈啦
+Kenichi, don't be so noisy
 
 56
 00:03:07,105 --> 00:03:09,109
-而家爸爸呢，越嚟越清楚喇
+Dad's remembering clearer and clearer now
 
 57
 00:03:09,149 --> 00:03:10,845
-諗返好多嘢𠻹啊
+He's recalling a lot of things!
 
 58
 00:03:14,165 --> 00:03:16,415
-哎吔，似乎唔係好可靠唧
+Oh dear, this doesn't seem very reliable
 
 59
 00:03:17,033 --> 00:03:18,751
-爸爸，你一定要繼續回憶㗎
+Dad, you must keep remembering
 
 60
 00:03:18,791 --> 00:03:20,670
-一定要諗清楚㗎
+You must think carefully
 
 61
 00:03:20,789 --> 00:03:22,708
-嚟吖，你諗下𠻹啦
+Come on, think a little harder
 
 62
 00:03:29,196 --> 00:03:30,580
-已經畫好喇喎
+The drawing is all done!
 
 63
 00:03:30,621 --> 00:03:34,072
-呢個呢，就係偷爸爸
-成個月糧嘅小偷嚟喇
+This is the thief who stole
+all of Dad's monthly salary
 
 64
 00:03:34,112 --> 00:03:37,031
-憑佢嘅樣貌又點知佢就係扒手呢吓？
+How can you tell he's a pickpocket just from his looks?
 
 65
 00:03:37,137 --> 00:03:38,564
-係啊，點啊，小靈精？
+Yeah, how can you tell, Hattori-kun?
 
 66
 00:03:38,605 --> 00:03:40,289
-你睇住落去先啦
+Just keep watching
 
 67
 00:03:40,330 --> 00:03:41,246
-嗱
+Look
 
 68
 00:03:43,182 --> 00:03:44,048
-嗱
+Look
 
 69
 00:03:47,535 --> 00:03:48,656
-忍…
+Yan...
 
 70
 00:03:48,696 --> 00:03:50,177
-哎吔，佢真係個小偷
+Oh no, he really is a thief!
 
 71
 00:03:50,217 --> 00:03:51,258
-我哋快啲去報警啦
+Let's call the police right away!
 
 72
 00:03:51,298 --> 00:03:53,267
-等我去揾佢返嚟啦
+Let me go track him down
 
 73
 00:03:55,301 --> 00:03:57,367
-忍…
+Yan...
 
 74
 00:03:58,224 --> 00:04:01,086
-列車即將開出，請儘快上車
+The train is about to depart, please board immediately
 
 75
 00:04:01,546 --> 00:04:03,268
-哎吔，弊喇
+Oh no, this is bad
 
 76
 00:04:03,308 --> 00:04:06,425
-咁多人點至揾到嗰個扒手呢嗬？
+How am I going to find that pickpocket in such a big crowd?
 
 77
 00:04:09,933 --> 00:04:12,036
-係喇，就係佢喇
+That's it, that's him!
 
 78
 00:04:13,066 --> 00:04:14,070
-忍…
+Yan...
 
 79
 00:04:18,397 --> 00:04:20,739
-忍…
+Yan...
 
 80
 00:04:24,660 --> 00:04:27,719
-佢今次實上當㗎喇，忍…
+He'll definitely fall for it this time, yan...
 
 81
 00:04:35,220 --> 00:04:36,417
-借過
+Excuse me
 
 82
 00:04:39,419 --> 00:04:41,279
-你果然係扒手嚟喎
+You really are a pickpocket!
 
 83
 00:04:41,320 --> 00:04:42,305
-混帳啊
+Damn it!
 
 84
 00:04:42,731 --> 00:04:45,164
--咪走啊，忍…
--咩事啊？
+-Don't run, yan!
+-What's going on?
 
 85
 00:04:45,205 --> 00:04:47,408
-大家聽住啊…
+Listen up, everyone...
 
 86
 00:04:47,449 --> 00:04:49,323
--忍…
--有扒手啊…
+-Yan...
+-Pickpocket!
 
 87
 00:04:50,724 --> 00:04:52,893
-喂，你哋聽住喇，佢就係扒手喇
+Hey, listen up, he's the pickpocket!
 
 88
 00:04:54,895 --> 00:04:56,820
-哎吔…唔係啊！我唔係扒手嚟啊
+Wait... no! I'm not a pickpocket!
 
 89
 00:04:56,860 --> 00:04:58,425
-佢先係扒手嚟啊
+He's the real pickpocket!
 
 90
 00:05:02,077 --> 00:05:03,590
-忍…
+Yan...
 
 91
 00:05:17,708 --> 00:05:18,589
-忍…
+Yan...
 
 92
 00:05:18,629 --> 00:05:21,454
-哎吔，發夢都估唔到會搞成噉樣㗎
+Man, I never dreamed it would turn out like this
 
 93
 00:05:22,258 --> 00:05:23,853
-哎吔，咪走啊
+Hey, don't run!
 
 94
 00:05:23,894 --> 00:05:25,076
-飛鷹術！
+Flying Eagle Technique!
 
 95
 00:05:29,125 --> 00:05:30,219
-忍…
+Yan...
 
 96
 00:05:37,610 --> 00:05:38,453
-哎吔
+Ouch!
 
 97
 00:05:38,959 --> 00:05:40,266
-係咩嚟嘅呢吓？
+What on earth is that?
 
 98
 00:05:40,351 --> 00:05:42,988
-沈健爸爸嗰啲嘅糧袋已經被我奪回
+I've retrieved Kenichi's dad's salary pouch
 
 99
 00:05:43,029 --> 00:05:44,159
-即是説失而復得
+In other words, what was lost has been found
 
 100
 00:05:44,200 --> 00:05:45,033
-啊，講咩話？
+Huh, what did you say?
 
 101
 00:05:45,067 --> 00:05:46,827
-哎吔，弊傢伙啊，冇咗𠻹𠿪
+Oh no, it's gone!
 
 102
 00:05:46,867 --> 00:05:48,227
-真係混賬啊
+Curse you!
 
 103
 00:05:48,267 --> 00:05:49,948
--哎吔…豈有此理吖
--銀包我已經攞到喇
+-Ugh, unbelievable!
+-I've got the wallet
 
 104
 00:05:49,988 --> 00:05:52,390
-就此告辭啊， 忍…
+Farewell for now, yan...
 
 105
 00:05:52,431 --> 00:05:54,049
-激死我啊
+That makes me so mad!
 
 106
 00:05:59,418 --> 00:06:02,220
-我啲薪水完整無缺喎，全部喺返晒度喎
+My salary is completely intact, it's all here!
 
 107
 00:06:02,261 --> 00:06:04,339
--小靈精，真係多謝你啊
--小靈精，真係好嘢啊
+-Thank you so much, Hattori-kun!
+-Way to go, Hattori-kun!
 
 108
 00:06:04,380 --> 00:06:06,713
-真不愧係我哥哥嚟啊
+That's my big brother for you!
 
 109
 00:06:09,184 --> 00:06:10,932
-呢個時候邊個會嚟呢吓？
+Who could be visiting at this hour?
 
 110
 00:06:10,973 --> 00:06:13,375
-唉，你個本領真係
-令我佩服得五體投地啊
+Your skills have left me
+utterly amazed
 
 111
 00:06:13,415 --> 00:06:15,375
-大師傅啊，我誠懇噉拜你做師傅啊
+Master, I sincerely beg you to take me as your disciple!
 
 112
 00:06:15,415 --> 00:06:16,664
-請你收我做徒弟啦
+Please take me as your apprentice!
 
 113
 00:06:16,705 --> 00:06:18,954
-大師傅啊，請多多指教啦
+Master, please teach me well!
 
 114
 00:06:19,163 --> 00:06:21,742
-哎吔，噉點得喎？
+Wait, how could I do that?
 
 115
 00:06:21,783 --> 00:06:23,091
-佢係扒手嚟𠺢嘛
+He's a pickpocket, after all
 
 116
 00:06:23,131 --> 00:06:25,096
-我咪變咗扒手大王？
+Wouldn't that make me the King of Pickpockets?
 
 117
 00:06:27,733 --> 00:06:30,461
-［用忍術控制別人］
+"Controlling Others with Ninjutsu"
 
 118
 00:06:33,805 --> 00:06:35,940
-我而家要你變成獅子
+Now, I want you to turn into a lion
 
 119
 00:06:35,981 --> 00:06:38,244
-快啲變成獅子啊
+Turn into a lion right now!
 
 120
 00:06:38,801 --> 00:06:41,845
-唔使幾耐你就變成一隻獅子㗎喇
+In no time at all, you'll become a lion
 
 121
 00:06:42,039 --> 00:06:44,702
-一、二、三，變喇！
+One, two, three, transform!
 
 122
 00:06:47,597 --> 00:06:49,956
-哎吔，佢個法術真係犀利啊
+Wow, his magic is really amazing!
 
 123
 00:06:50,363 --> 00:06:51,276
-呢種法術呢
+This kind of magic
 
 124
 00:06:51,316 --> 00:06:54,196
-同我哋用忍術控制別人呢，好相似喎
+is very similar to how we control people with ninjutsu
 
 125
 00:06:54,236 --> 00:06:55,473
-冇錯係啊
+That's right
 
 126
 00:06:55,766 --> 00:06:56,814
-小靈精呀
+Hattori-kun
 
 127
 00:06:56,855 --> 00:06:58,396
-你識唔識呢種法術啊？
+do you know this kind of magic?
 
 128
 00:06:58,437 --> 00:07:01,674
-照計應該識𠸏，不過未必做得好㗎
+I suppose I do, but I might not be very good at it
 
 129
 00:07:01,714 --> 00:07:04,319
-係噉，你快啲示範畀我睇下啦，嚟吖
+In that case, show me a demonstration! Come on
 
 130
 00:07:05,494 --> 00:07:07,361
-好啦，等我試下啦
+Alright, let me give it a try
 
 131
 00:07:07,978 --> 00:07:10,481
-首先我用小玲瓏做試驗先
+First, I'll test it on Shinzo
 
 132
 00:07:10,916 --> 00:07:12,780
-小玲瓏啊，我要你一直望住
+Shinzo, I want you to keep staring
 
 133
 00:07:12,820 --> 00:07:14,976
-呢一支蠟燭嘅火焰啊
+at the flame of this candle
 
 134
 00:07:16,442 --> 00:07:18,262
-你而家係熊貓嚟㗎
+You are a panda now
 
 135
 00:07:18,302 --> 00:07:19,806
-記住啊，你係熊貓啊
+Remember, you're a panda
 
 136
 00:07:19,846 --> 00:07:22,313
-呢啲係你最鍾意食嘅竹葉嚟㗎
+These are the bamboo leaves you love to eat
 
 137
 00:07:24,968 --> 00:07:26,732
-我鍾意食竹葉啊
+I love eating bamboo leaves!
 
 138
 00:07:27,111 --> 00:07:28,573
-小玲瓏冇受到影響
+Shinzo wasn't affected at all
 
 139
 00:07:28,613 --> 00:07:30,455
-反而獅子狗好似中咗邪噉啊
+Instead, Shishimaru seems to be hypnotized!
 
 140
 00:07:30,495 --> 00:07:33,455
-因為小玲瓏頭先冇集中精神吖嘛
+That's because Shinzo wasn't paying attention earlier
 
 141
 00:07:33,857 --> 00:07:36,517
-頭腦越簡單，越易受到控制㗎
+The simpler the mind, the easier they are to control
 
 142
 00:07:36,668 --> 00:07:38,381
-嘩，犀利啊
+Wow, amazing!
 
 143
 00:07:38,421 --> 00:07:39,902
-我可唔可以做得到㗎？
+Could I do it too?
 
 144
 00:07:40,806 --> 00:07:41,619
-健仔啊
+Kenichi
 
 145
 00:07:41,660 --> 00:07:44,345
-如果你對於忍者嘅控制術有興趣呢
+if you're interested in ninja mind control
 
 146
 00:07:44,385 --> 00:07:46,437
-我可以教你𠸏吓
+I could teach you
 
 147
 00:07:50,534 --> 00:07:52,081
-媽媽，你睇下吖
+Mom, look at me
 
 148
 00:07:52,444 --> 00:07:53,438
-有咩事啊？
+What is it?
 
 149
 00:07:53,478 --> 00:07:54,822
-媽媽，你生得好靚啊
+Mom, you're so beautiful
 
 150
 00:07:54,863 --> 00:07:56,238
-係全國嘅第一美人啊
+You're the prettiest woman in the whole country
 
 151
 00:07:56,278 --> 00:07:57,243
-媽媽，你好仁慈
+Mom, you're so kind
 
 152
 00:07:57,283 --> 00:07:58,838
-係全國最優秀嘅母親啊
+You're the best mother in the whole country
 
 153
 00:07:58,879 --> 00:08:01,278
-哎吔，健仔，你喺度亂咁噏啦
+Oh, Kenichi, you're talking nonsense
 
 154
 00:08:01,318 --> 00:08:03,598
-我知媽媽你呢，最鍾意健仔嘅
+I know you love Kenichi the most, Mom
 
 155
 00:08:03,638 --> 00:08:05,438
-所以一定會畀好多零用錢佢
+so you'll definitely give him plenty of pocket money
 
 156
 00:08:05,478 --> 00:08:06,900
-而且仲會畀好多好多
+and you'll give him so much
 
 157
 00:08:06,940 --> 00:08:08,488
-用唔晒咁多𠻹啊
+more than he could ever spend
 
 158
 00:08:08,798 --> 00:08:10,820
-我知，我知你梗有目的嘅
+I knew it, you definitely had an angle
 
 159
 00:08:10,860 --> 00:08:12,376
-唔好講咁多，快啲食飯啊
+Stop talking and eat your dinner
 
 160
 00:08:12,417 --> 00:08:14,776
-哎吔，弊喇，冇效嘅
+Oh no, it didn't work!
 
 161
 00:08:16,383 --> 00:08:17,553
-我食飽喇
+I'm full
 
 162
 00:08:19,848 --> 00:08:21,249
-爸爸，你的確好偉大
+Dad, you're truly great
 
 163
 00:08:21,289 --> 00:08:22,700
-係全國最了不起嘅人啊
+You're the most amazing man in the whole country
 
 164
 00:08:22,741 --> 00:08:24,025
-噉當然係啦
+Well, of course I am
 
 165
 00:08:24,125 --> 00:08:25,071
-唔得𠸏？
+It didn't work?
 
 166
 00:08:25,252 --> 00:08:26,693
-健仔，你有咩唔妥啊？
+Kenichi, what's wrong with you?
 
 167
 00:08:26,733 --> 00:08:27,933
-一直都喺度噏三噏四
+You've been talking nonsense this whole time
 
 168
 00:08:27,973 --> 00:08:30,412
-佢想學忍者用忍術控制人哋啊
+He wants to learn how ninjas control people with ninjutsu
 
 169
 00:08:30,452 --> 00:08:33,052
-呢種法術等於向人催眠咁上下啦
+This kind of technique is basically like hypnosis
 
 170
 00:08:33,092 --> 00:08:36,412
-哎吔，健仔有咩理由會識得法術吖？
+Oh, how could Kenichi possibly know magic?
 
 171
 00:08:36,452 --> 00:08:37,825
-如果畀佢催眠嘅人啊
+Whoever gets hypnotized by him
 
 172
 00:08:37,865 --> 00:08:39,016
-一定係頭腦簡單啊
+must be really simple-minded
 
 173
 00:08:39,057 --> 00:08:40,252
-哎吔，慘喇
+Oh no, this is bad!
 
 174
 00:08:40,788 --> 00:08:42,291
-大家應該明白
+You should understand
 
 175
 00:08:43,150 --> 00:08:46,018
-忍術控制人最基本嘅方法呢
+the most basic way to control someone with ninjutsu
 
 176
 00:08:46,059 --> 00:08:49,219
-就係要令到對方對自己集中注意力
+is to make them focus their attention on you
 
 177
 00:08:50,130 --> 00:08:51,354
-因為噉樣…
+Because that way...
 
 178
 00:08:52,155 --> 00:08:53,851
-健仔，你做乜嘢啊？
+Kenichi, what are you doing?
 
 179
 00:08:53,891 --> 00:08:56,171
-我要令老師變成一隻狐狸啊
+I'm going to turn the teacher into a fox!
 
 180
 00:08:56,211 --> 00:08:58,451
-快啲變啊，變啊
+Transform now, transform!
 
 181
 00:08:58,492 --> 00:09:00,220
-咳…
+*Cough*...
 
 182
 00:09:02,062 --> 00:09:03,356
-咳…
+*Cough*...
 
 183
 00:09:03,439 --> 00:09:05,458
-好啦，今日落堂喇
+Alright, class is dismissed for today
 
 184
 00:09:08,761 --> 00:09:11,380
-好嘢啊，卒之成功喇
+Hurray, it finally worked!
 
 185
 00:09:11,420 --> 00:09:12,788
-我成功喇
+I did it!
 
 186
 00:09:13,237 --> 00:09:15,182
-喂，健仔啊，發生咩事啊？
+Hey, Kenichi, what happened?
 
 187
 00:09:15,223 --> 00:09:17,710
-我用忍術控制人哋非常之成功啊
+My mind control ninjutsu worked like a charm!
 
 188
 00:09:17,750 --> 00:09:20,264
--頭先我令老師變成狐狸啊
--吓，真𠸏？
+- I turned Teacher into a fox just now
+- Huh, really?
 
 189
 00:09:20,470 --> 00:09:21,955
-等我去睇下先
+Let me go check it out first
 
 190
 00:09:23,520 --> 00:09:25,437
-咳…
+*Cough*...
 
 191
 00:09:26,496 --> 00:09:29,097
-係喇，我梗係着唔夠衫，冷親定喇
+Right, I must not have worn enough clothes and caught a cold
 
 192
 00:09:29,138 --> 00:09:31,447
-唔得啊，走去食碗熱嘅湯麪暖下身
+I should go have a bowl of hot noodle soup to warm up
 
 193
 00:09:31,741 --> 00:09:34,816
-原來老師只係傷風啫，好啦
+Turns out Teacher just has a cold, alright then
 
 194
 00:09:36,296 --> 00:09:37,476
-真係噉樣喎
+It really is true!
 
 195
 00:09:37,517 --> 00:09:39,422
-老師一直呢，好似狐狸噉大聲叫
+Teacher kept howling like a fox the whole time
 
 196
 00:09:39,462 --> 00:09:41,433
-又話要食返碗熱湯麪啊
+And even said he wanted a bowl of hot noodle soup!
 
 197
 00:09:41,474 --> 00:09:43,630
-犀利𠻺哩，係咪呢？
+Amazing, right?
 
 198
 00:09:43,671 --> 00:09:45,324
-健仔，你果然好嘢喎
+Kenichi, you're pretty impressive!
 
 199
 00:09:45,578 --> 00:09:46,854
-你咁有辦法，催眠我吖
+Since you're so good at it, hypnotize me!
 
 200
 00:09:46,895 --> 00:09:49,039
-當然得啦，嗱，你望住我對眼啦
+Of course! Here, look into my eyes
 
 201
 00:09:49,080 --> 00:09:50,138
-好吖，我望住啊
+Okay, I'm looking
 
 202
 00:09:50,179 --> 00:09:53,147
-好啦，我而家將你變成一隻貓啊
+Alright, now I'm turning you into a cat
 
 203
 00:09:53,258 --> 00:09:55,664
-你要變成一隻野貓啊
+You are turning into a stray cat!
 
 204
 00:09:59,225 --> 00:10:01,309
-哎吔，點解會變成噉樣𠸏？
+Oh no, why did it turn out like this?
 
 205
 00:10:01,349 --> 00:10:02,350
-好喇，健仔啊
+Alright, Kenichi
 
 206
 00:10:02,390 --> 00:10:04,954
-你今日要幫柔美同學做值日生嘅工作
+Today you have to do classroom duty for Yumeko
 
 207
 00:10:04,994 --> 00:10:06,245
-快脆啲開始
+Get started right away
 
 208
 00:10:12,237 --> 00:10:13,858
-甘麥基同學，你怕唔怕啊？
+Kemumaki, will you be alright?
 
 209
 00:10:13,899 --> 00:10:15,318
-唔怕啊，一啲事都冇啊
+I'm fine, nothing to worry about!
 
 210
 00:10:15,358 --> 00:10:16,838
-係喇，我要趕住返屋企練琴
+Right, I need to hurry home to practice the piano
 
 211
 00:10:16,878 --> 00:10:17,998
-我走先喇吓
+I'll be heading off now
 
 212
 00:10:18,038 --> 00:10:19,918
-好啦，唔使擔心啊，你返去啦吓
+Alright, don't worry, go on home
 
 213
 00:10:22,886 --> 00:10:24,151
-我好攰啊
+I'm so tired
 
 214
 00:10:24,191 --> 00:10:26,189
-辛苦晒喎，你跟住我嚟啦
+Good job, follow me
 
 215
 00:10:28,599 --> 00:10:31,080
-哎吔，健仔中咗甘麥基嘅法術喎
+Oh no, Kenichi is under Kemumaki's spell!
 
 216
 00:10:31,121 --> 00:10:33,146
-我要諗辦法解除佢至得
+I need to find a way to break it
 
 217
 00:10:34,085 --> 00:10:35,279
-有殺氣啊
+I sense bloodlust!
 
 218
 00:10:37,672 --> 00:10:39,605
-哎吔，畀佢走甩咗𠻹噃
+Oh no, he got away!
 
 219
 00:10:40,052 --> 00:10:41,655
-哎吔…係小靈精呀？
+Ah... was that Hattori-kun?
 
 220
 00:10:42,773 --> 00:10:44,055
-係咪想打過啊吓？
+Looking for a fight, huh?
 
 221
 00:10:44,095 --> 00:10:45,735
-甘麥基，你噉樣整蠱健仔呢
+Kemumaki, picking on Kenichi like this...
 
 222
 00:10:45,781 --> 00:10:47,137
-我唔會放過你㗎
+I won't let you get away with it!
 
 223
 00:10:49,095 --> 00:10:50,895
-健仔當甘麥基係佢主人喎
+Kenichi treats Kemumaki as his master
 
 224
 00:10:50,935 --> 00:10:53,455
-打起上嚟呢，會危害到健仔㗎
+If we start fighting, Kenichi might get hurt
 
 225
 00:10:53,495 --> 00:10:54,848
-忍…
+Yan...
 
 226
 00:10:54,889 --> 00:10:55,835
-小靈精，你唔好走啊
+Hattori-kun, don't run!
 
 227
 00:10:55,875 --> 00:10:57,028
-俏皮貓，追佢
+Kagechiyo, after him!
 
 228
 00:10:57,880 --> 00:11:00,135
-哎吔，忍…
+Ah, yan...
 
 229
 00:11:01,396 --> 00:11:03,714
-你而家係老鼠嚟㗎喇，好喇，老鼠啊
+You're a mouse now! Alright, little mouse...
 
 230
 00:11:03,759 --> 00:11:05,954
-你去主人嗰度啦，快啲去啦嘛
+Go to your master, hurry up!
 
 231
 00:11:09,695 --> 00:11:11,814
-哎吔，俏皮貓，你有咩唔妥啊？
+Oh no, Kagechiyo, what's wrong with you?
 
 232
 00:11:16,446 --> 00:11:18,480
-喂…你兩個做乜嘢喎？
+Hey... what are you two doing?
 
 233
 00:11:18,520 --> 00:11:20,803
-哎吔，唔好噉啦，哎吔…
+Oh no, stop that, ouch...
 
 234
 00:11:20,843 --> 00:11:22,058
-弊喇…
+This is bad...
 
 235
 00:11:24,715 --> 00:11:26,335
-小靈精，你實在太可惡喇
+Hattori-kun, you're despicable!
 
 236
 00:11:26,369 --> 00:11:28,059
-真係豈有此理啊
+This is outrageous!
 
 237
 00:11:29,349 --> 00:11:30,580
-快啲停止啊，健仔
+Stop it, Kenichi!
 
 238
 00:11:30,620 --> 00:11:32,260
-你係人嚟㗎，你係人嚟啊
+You're human! You're a human being!
 
 239
 00:11:32,300 --> 00:11:33,733
-好啦，變喇
+Alright, change back!
 
 240
 00:11:36,501 --> 00:11:38,346
-甘麥基，發生咩事啊？
+Kemumaki, what happened?
 
 241
 00:11:38,425 --> 00:11:40,967
-好彩我卒之解咗忍術喇
+Luckily, I finally broke the ninjutsu spell!
 
 242
 00:11:41,015 --> 00:11:41,826
-冇錯喇
+That's right
 
 243
 00:11:41,867 --> 00:11:43,408
-我記得頭先我運用法術
+I remember using my jutsu earlier
 
 244
 00:11:43,448 --> 00:11:45,238
-成功控制住你㗎喎
+and successfully controlling you
 
 245
 00:11:45,365 --> 00:11:47,032
-而家仲未解除法術㗎
+The spell hasn't been dispelled yet!
 
 246
 00:11:47,072 --> 00:11:49,355
-好啦，我幫你解除咗佢啦
+All right, I'll undo it for you
 
 247
 00:11:49,396 --> 00:11:52,300
-好啦，甘麥基，而家你集中精神聽住啊
+All right, Kemumaki, now concentrate and listen
 
 248
 00:11:52,341 --> 00:11:54,546
-我要你變返做人，一、二、三
+I want you to turn back into a human, one, two, three!
 
 249
 00:11:54,642 --> 00:11:56,796
-哎吔，吓？點解我會喺呢度㗎？
+Oh dear, huh? Why am I here?
 
 250
 00:11:56,836 --> 00:11:59,116
-因為頭先我用法術控制咗你吖嘛
+Because I controlled you with jutsu earlier!
 
 251
 00:11:59,157 --> 00:12:00,539
-哦，原來係噉咓
+Oh, so that's it!
 
 252
 00:12:00,996 --> 00:12:02,699
-我終於都成功喇
+I've finally succeeded!
 
 253
 00:12:02,740 --> 00:12:04,437
-學識咗忍者嘅法術喇
+I learned ninja jutsu!
 
 254
 00:12:04,477 --> 00:12:06,531
-呢次我控制邊個好呢吓？
+Who should I control this time, huh?
 
 255
 00:12:06,925 --> 00:12:08,838
-冇錯喇，一於控制柔美同學
+That's it, I'll control Yumeko
 
 256
 00:12:08,878 --> 00:12:10,598
-要佢幫我做功課
+and make her do my homework for me
 
 257
 00:12:11,826 --> 00:12:14,289
-健仔自己畀人施咗法術都唔知道
+Kenichi doesn't even know a spell was cast on him
 
 258
 00:12:14,329 --> 00:12:16,248
-呢次真係麻煩到極喇
+This is really going to be a huge mess
 
 259
 00:12:16,288 --> 00:12:17,928
--認真麻煩
--麻煩咯
+-Such a pain
+-What a nuisance
 
 260
 00:12:17,968 --> 00:12:20,184
-忍…
+Yan...
 
 261
 00:12:23,503 --> 00:12:26,284
-［獅子狗變棒球］
+"Shishimaru Turns into a Baseball"
 
 262
 00:12:33,797 --> 00:12:34,714
-快啲啊
+Hurry up!
 
 263
 00:12:37,410 --> 00:12:38,660
-睇住嚟吖
+Watch this!
 
 264
 00:12:41,849 --> 00:12:44,163
-我好驚啊，救命啊！
+I'm scared, help!
 
 265
 00:12:46,081 --> 00:12:49,051
-咁冇膽㗎，一啲都唔似男子漢啊
+So cowardly, not like a man at all!
 
 266
 00:12:49,221 --> 00:12:51,969
-居然匿埋喺我後便，真係失禮死人啊
+Hiding behind me like that is so embarrassing!
 
 267
 00:12:52,104 --> 00:12:53,157
-只不過啊…
+But...
 
 268
 00:12:54,209 --> 00:12:55,112
-喂，健仔啊
+Hey, Kenichi
 
 269
 00:12:55,153 --> 00:12:57,195
-嚟啦，匿埋喺我後便啦吓，嘿
+Come on, hide behind me, heh
 
 270
 00:12:57,650 --> 00:12:58,458
-好極啊
+That's great!
 
 271
 00:12:58,531 --> 00:12:59,585
-一於係噉啦
+Let's do that!
 
 272
 00:13:00,913 --> 00:13:02,852
-健仔真係水皮㗎喇
+Kenichi is really pathetic
 
 273
 00:13:14,839 --> 00:13:17,166
-對唔住囖，健仔，真係對唔住啊
+I'm sorry, Kenichi, I'm really sorry
 
 274
 00:13:18,456 --> 00:13:19,693
-失禮死人啦
+So embarrassing!
 
 275
 00:13:20,881 --> 00:13:21,972
-混賬
+Ridiculous!
 
 276
 00:13:22,618 --> 00:13:24,223
-你唔應該咁冇信心㗎？
+Why should you lack confidence like this?
 
 277
 00:13:24,264 --> 00:13:26,395
-最緊要係鍛鍊好自己先吖嘛
+The most important thing is to train yourself first!
 
 278
 00:13:26,436 --> 00:13:28,899
-冇可能㗎，因為我唔鍾意運動𠺢嘛
+That's impossible, because I don't like sports!
 
 279
 00:13:28,939 --> 00:13:30,561
-健仔啊，噉唔通你可以忍受
+Kenichi, can you really tolerate
 
 280
 00:13:30,601 --> 00:13:32,623
-成日畀甘麥基蝦喇喎？
+being bullied by Kemumaki all the time?
 
 281
 00:13:32,666 --> 00:13:34,463
-唔係，不過我呢
+No, but I...
 
 282
 00:13:35,604 --> 00:13:36,578
-冇法子啦
+There's no other way
 
 283
 00:13:36,619 --> 00:13:37,905
-噉唔通畀柔美同學
+Then do you really not mind
 
 284
 00:13:37,945 --> 00:13:39,860
-取笑你都唔緊要喇咩吓？
+Yumeko making fun of you, huh?
 
 285
 00:13:39,901 --> 00:13:40,975
-醜死怪啊
+It's so shameful!
 
 286
 00:13:41,016 --> 00:13:42,493
-就算係天才神童啊
+Even child prodigies
 
 287
 00:13:42,533 --> 00:13:44,572
-都要靠努力先可以成功啊
+have to work hard to succeed!
 
 288
 00:13:44,612 --> 00:13:46,271
-好啦，嚟吖
+All right, come on!
 
 289
 00:13:46,331 --> 00:13:48,051
-忍…
+Yan...
 
 290
 00:13:49,168 --> 00:13:51,407
--健仔啊，振作啲啊
--健仔啊，振作啲啊
+-Kenichi, pull yourself together!
+-Kenichi, pull yourself together!
 
 291
 00:13:51,496 --> 00:13:52,711
-好啦
+All right
 
 292
 00:13:57,178 --> 00:14:00,475
-健仔啊，你唔可以眯埋對眼㗎！
+Kenichi, you can't close your eyes!
 
 293
 00:14:02,647 --> 00:14:03,791
-係咪噉樣啊？
+Is it like this?
 
 294
 00:14:03,831 --> 00:14:04,902
-冇錯係喇
+Exactly!
 
 295
 00:14:05,272 --> 00:14:06,994
-如果你驚就避開個波呢
+If you get scared and dodge the ball
 
 296
 00:14:07,034 --> 00:14:10,242
-噉個波就會打爛你後便嗰塊玻璃㗎喇
+the ball will shatter the window behind you
 
 297
 00:14:11,077 --> 00:14:12,412
-你唔想畀媽媽鬧呢
+If you don't want Mom to scold you
 
 298
 00:14:12,453 --> 00:14:14,399
-就要搏命接住個波喇喎
+you'll have to catch the ball with all your might!
 
 299
 00:14:14,439 --> 00:14:15,840
-好啦，準備喇吓
+All right, get ready!
 
 300
 00:14:15,880 --> 00:14:17,402
-來勢好猛喎
+It's coming in hot!
 
 301
 00:14:17,442 --> 00:14:18,683
-嘩，好得人驚啊
+Whoa, that's so scary!
 
 302
 00:14:18,723 --> 00:14:20,983
-忍…
+Yan...
 
 303
 00:14:21,445 --> 00:14:23,165
-哎吔，我冇眼睇啊
+Oh dear, I can't bear to watch!
 
 304
 00:14:25,465 --> 00:14:27,535
-係橡筋波嚟㗎，掟唔到㗎
+It's a rubber-band ball, you can't throw it
 
 305
 00:14:27,665 --> 00:14:29,792
-哎吔，真係嚇死我啊
+Oh, you really scared me to death
 
 306
 00:14:30,562 --> 00:14:33,386
-我已經冇晒心機嚕
+I've totally lost the will to try
 
 307
 00:14:37,213 --> 00:14:39,180
--哥哥，揾獅子狗幫手吖
--咩話？
+- Big brother, get Shishimaru to help!
+- What?
 
 308
 00:14:39,650 --> 00:14:42,363
-可以當獅子狗係個棒球噉掟
+We can throw Shishimaru like a baseball
 
 309
 00:14:44,299 --> 00:14:47,656
-獅子狗呀，你而家變成一個棒球喇
+Shishimaru, you are turning into a baseball now
 
 310
 00:14:48,303 --> 00:14:50,995
-你而家慢慢越嚟越圓，越嚟越圓
+You're slowly getting rounder and rounder
 
 311
 00:14:51,036 --> 00:14:53,796
-好似個波噉，冇錯喇，越嚟越圓
+Just like a ball, that's it, rounder and rounder
 
 312
 00:14:53,836 --> 00:14:56,100
-係圓揼揼喎，啱喇
+Completely round, that's right
 
 313
 00:14:56,140 --> 00:14:57,983
-變成一個棒球啊
+Turning into a baseball
 
 314
 00:14:58,077 --> 00:14:59,521
-仲有啊，呢個棒球呢
+And one more thing, this baseball...
 
 315
 00:14:59,561 --> 00:15:01,626
-係要聽晒健仔嘅命令㗎喎
+Must obey all of Kenichi's orders!
 
 316
 00:15:01,667 --> 00:15:03,252
-忍…
+Yan...
 
 317
 00:15:07,144 --> 00:15:09,343
-真係犀利喇，而家有咗呢個波呢
+That's amazing! Now that I have this ball...
 
 318
 00:15:09,383 --> 00:15:10,982
-我就唔會輸畀甘麥基啊
+I won't lose to Kemumaki!
 
 319
-00:15:11,022 --> 00:15:13,540
-不過你記住唔好掂到獅子狗額上面
-
-320
-00:15:13,580 --> 00:15:15,540
-嗰個十字飛鏢符號喎
+00:15:11,022 --> 00:15:15,540
+But remember not to touch the shuriken mark on Shishimaru's forehead
 
 321
 00:15:15,580 --> 00:15:17,500
-都唔可以講「獅子」兩個字㗎
+And you must never say the word "lion"
 
 322
 00:15:17,540 --> 00:15:19,059
-因為佢好鍾意獅子㗎
+Because he loves lions
 
 323
 00:15:19,099 --> 00:15:20,606
-如果聽到你嗌「獅子」呢
+If he hears you shout "lion"...
 
 324
 00:15:20,646 --> 00:15:22,098
-就變成獅子㗎喇
+He'll turn into a lion!
 
 325
 00:15:22,138 --> 00:15:23,919
-我知道喇，你放心啦
+Got it, don't worry
 
 326
 00:15:23,959 --> 00:15:25,265
-我而家去嚕
+Off I go!
 
 327
 00:15:25,657 --> 00:15:27,815
-忍…
+Yan...
 
 328
 00:15:30,980 --> 00:15:33,986
-健仔，乜你打算攞個波向我挑戰咩吓？
+Kenichi, are you planning to challenge me with that ball?
 
 329
 00:15:35,263 --> 00:15:37,532
-我勸你都係無謂噉樣做喇
+I'd advise you not to waste your time
 
 330
 00:15:37,667 --> 00:15:38,866
-健仔，你做乜嘢啊？
+Kenichi, what are you doing?
 
 331
 00:15:38,911 --> 00:15:41,644
-你真係要同甘麥基比賽掟棒球呀？
+Are you really going to have a baseball pitch-off with Kemumaki?
 
 332
 00:15:41,909 --> 00:15:43,910
-柔美同學，我哋比賽喇
+Yumeko, we're having a match!
 
 333
 00:15:44,141 --> 00:15:44,944
-好喇喂
+Alright then!
 
 334
 00:15:44,984 --> 00:15:47,020
-今日呢，我要全力以赴啊
+Today, I'm going to give it my all!
 
 335
 00:15:47,090 --> 00:15:48,872
-你畀心機啲喇吓
+You'd better do your best!
 
 336
 00:15:50,627 --> 00:15:52,514
-今次拜託晒你喇
+I'm counting on you this time
 
 337
 00:16:00,955 --> 00:16:02,458
-哎吔，乜噉𠸏？
+Oh, what was that?
 
 338
 00:16:03,061 --> 00:16:04,715
-睇住啊
+Look out!
 
 339
 00:16:10,293 --> 00:16:12,053
-好啦，等我嚟接啦
+Alright, leave the catch to me!
 
 340
 00:16:13,931 --> 00:16:15,193
-哎吔，奇怪喇
+Ouch, that's strange
 
 341
 00:16:15,240 --> 00:16:17,178
-點解會畀個球搲傷𠸏？
+Why did I get scratched by the ball?
 
 342
 00:16:17,252 --> 00:16:18,739
-哎吔，好嘢喇啩
+Whoa, awesome!
 
 343
 00:16:18,780 --> 00:16:19,738
-真係犀利啊
+That's amazing!
 
 344
 00:16:19,778 --> 00:16:21,771
-你頭先嗰種手法究竟叫咩招式啊？
+What was that pitching technique called just now?
 
 345
 00:16:21,812 --> 00:16:24,819
-聽住啊，呢個就係我自創嘅幻影球喇
+Listen up, this is my original Phantom Ball!
 
 346
 00:16:25,419 --> 00:16:26,813
-睇下我嘅厲害啊
+See how great I am!
 
 347
 00:16:27,016 --> 00:16:28,610
-我哋一齊去聽音樂會，好冇啊？
+Let's go to the concert together, okay?
 
 348
 00:16:28,650 --> 00:16:30,119
-健仔啊，小心啊！
+Kenichi, watch out!
 
 349
 00:16:30,410 --> 00:16:31,688
-豈有此理啊
+Outrageous!
 
 350
 00:16:32,822 --> 00:16:34,356
-我唔怕㗎喇
+I'm not afraid of you!
 
 351
 00:16:37,450 --> 00:16:40,107
-健仔，你真係叻咗好多噉樣喎
+Kenichi, you've really improved a lot!
 
 352
 00:16:40,175 --> 00:16:42,120
-過獎喇，乜我真係咁叻咩？
+You flatter me, am I really that good?
 
 353
 00:16:42,528 --> 00:16:45,056
-係喇，你幾時得閒陪我去音樂會？
+By the way, when are you free to go to the concert with me?
 
 354
 00:16:45,097 --> 00:16:46,334
-幾時都可以啦
+Any time is fine
 
 355
 00:16:46,374 --> 00:16:48,535
-喂，你做咩仲唔掟返個波過嚟啊？
+Hey, why haven't you thrown the ball back yet?
 
 356
 00:16:48,575 --> 00:16:49,929
-係咪怕咗我啊？
+Are you scared of me?
 
 357
 00:16:49,970 --> 00:16:52,413
-好啦，等我一陣，等我收拾咗佢先啦
+Alright, wait a second, let me take care of him first
 
 358
 00:16:52,657 --> 00:16:55,192
-健仔魔幻球第二次
+Kenichi Magic Ball, second pitch!
 
 359
 00:16:56,942 --> 00:16:59,741
-快啲去啦，要好似獅子噉樣，哎吔…
+Go quickly, be like a lion! Oh no...
 
 360
 00:17:06,516 --> 00:17:08,207
-哎吔，弊喇…
+Oh no, trouble...
 
 361
 00:17:17,178 --> 00:17:19,981
-獅子狗啊，唔該你快啲變返做棒球啦
+Shishimaru, please hurry and turn back into a baseball
 
 362
 00:17:20,021 --> 00:17:21,487
-我哋仲未玩完㗎
+We're not done playing yet
 
 363
 00:17:24,439 --> 00:17:26,056
-救命啊！
+Help!
 
 364
 00:17:26,099 --> 00:17:27,572
--救命啊…
--抵死啊…
+-Help...
+-Serves you right...
 
 365
 00:17:27,613 --> 00:17:28,951
-俏皮貓啊
+Kagechiyo!
 
 366
 00:17:28,992 --> 00:17:31,303
-快啲啊，哎吔，救命啊…
+Hurry! Ouch, help...
 
 367
 00:17:31,443 --> 00:17:32,789
-抵你死啊
+Serves you right!
 
 368
 00:17:38,461 --> 00:17:40,622
-忍…
+Yan...
 
 369
 00:17:43,237 --> 00:17:44,405
-忍…
+Yan...
 
 370
 00:17:45,666 --> 00:17:48,425
-獅子狗啊，你變返隻雀仔喇
+Shishimaru, you turned into a bird
 
 371
 00:17:57,996 --> 00:17:59,809
-救命啊
+Help!
 
 372
 00:17:59,850 --> 00:18:01,371
-健仔啊，你鎮定啲啦
+Kenichi, calm down
 
 373
 00:18:01,411 --> 00:18:03,241
-佢係獅子狗嚟嘅吒嘛
+It's just Shishimaru, you know
 
 374
 00:18:03,749 --> 00:18:04,763
-獅子狗？
+Shishimaru?
 
 375
 00:18:05,731 --> 00:18:08,696
-噉點解獅子狗會變咗做雀仔㗎吓？
+Then why did Shishimaru turn into a bird?
 
 376
 00:18:09,172 --> 00:18:11,732
-喂…你…你唔好噉啦
+Hey... D-Don't do that
 
 377
 00:18:11,772 --> 00:18:13,165
-肉酸啊喂
+It's gross, hey
 
 378
 00:18:13,206 --> 00:18:14,460
-喂…哎吔…
+Hey... Ow...
 
 379
 00:18:14,501 --> 00:18:18,133
-健仔咁冇膽呀，做咩事都唔成功㗎喇
-
+Kenichi is such a coward, he'll never succeed at anything
