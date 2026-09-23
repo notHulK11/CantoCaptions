@@ -152,6 +152,12 @@ There are 3 main resources that served as a starting point.
 | waa3, waa4              | 嘩        | "wow"                              |
 | wai2, wai3              | 喂        |                                    |
 
+### Pronouns｜代名詞
+| Jyutping｜粵拼           | Honzi｜漢字 | Notes |
+| ----------------------- | ----------- | ----------- |
+| keoi5, heoi5            | 佢          | female variant 姖 and other variants like 渠 are not used  |
+| nei5                    | 你          | female and other variants are not used, e.g., 妳, 您, 祢, etc. |
+
 ### Character Variants
 Where applicable, these Hong Kong variants are used. These map 1:1.
 
