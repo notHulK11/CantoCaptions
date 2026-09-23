@@ -32,6 +32,7 @@ We have a lot of learners that help with the subtitles and sometimes there are l
 	- [Sentence Final Particles](#simple-sentence-final-particles單一句尾助詞)
 	- [Affixes](#affixes詞綴)
 	- [Interjections](#interjections感嘆詞)
+ 	- [Pronouns](#pronouns代名詞)
 	- [Character Variants](#Character-Variants)
 	- [Other](#other-required-cantocaptions-conventions)
 - [Subtitle Style Guide](#Subtitle-Style-Guide)
