@@ -158,6 +158,8 @@ There are 3 main resources that served as a starting point.
 | ----------------------- | ----------- | ----------- |
 | keoi5, heoi5            | 佢          | female variant 姖 and other variants like 渠 are not used  |
 | nei5                    | 你          | female and other variants are not used, e.g., 妳, 您, 祢, etc. |
+| taa1                    | 他          | female and other variants are not used, e.g., 她, 怹, 祂, etc. |
+| kei4 taa1               | 其他        | treated as its own word; other variants are not used |
 
 ### Character Variants
 Where applicable, these Hong Kong variants are used. These map 1:1.
