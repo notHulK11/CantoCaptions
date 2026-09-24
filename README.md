@@ -130,7 +130,7 @@ There are 3 main resources that served as a starting point.
 | aai1, aai2              | 唉        |  sigh of exasperation/sadness      |
 | ai1 jaa3/5/6, ai1 jaak3 | 哎吔      |                                  |
 | ai1 jo3                 | 哎喲      |                                  |
-| bai6 laa3               | 弊喇      |  "oh no"                           |                         
+| bai6 laa3               | 弊喇      |                                 |                         
 | ce1, ce2                | 唓        | "tsk", "pfft"                      |
 | e2, ei2                 | 欸        |                                    |
 | e4, e6                  | 誒        | "uh"                               |
