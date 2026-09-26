@@ -1,0 +1,544 @@
+1
+00:00:03,559 --> 00:00:05,120
+I'm Peppa Pig
+
+2
+00:00:05,440 --> 00:00:07,961
+This is my
+little brother George
+
+3
+00:00:08,162 --> 00:00:10,083
+This is Mummy Pig
+
+4
+00:00:10,523 --> 00:00:12,564
+And this
+is Daddy Pig
+
+5
+00:00:14,245 --> 00:00:14,926
+Peppa Pig
+
+6
+00:00:24,972 --> 00:00:26,653
+What's that noise？
+
+7
+00:00:27,175 --> 00:00:29,257
+It's coming
+from the tree
+
+8
+00:00:30,099 --> 00:00:32,382
+It's Tiddles
+the tortoise
+
+9
+00:00:32,422 --> 00:00:33,864
+Naughty Tiddles
+
+10
+00:00:33,904 --> 00:00:35,986
+Come down at once
+
+11
+00:00:36,187 --> 00:00:39,271
+I can shake the
+tree to get Tiddles down
+
+12
+00:00:39,832 --> 00:00:41,194
+Is that a
+good idea
+
+13
+00:00:41,234 --> 00:00:42,236
+Pedro？
+
+14
+00:00:42,276 --> 00:00:43,197
+Don't worry
+
+15
+00:00:43,237 --> 00:00:45,279
+I am super Pedro
+
+16
+00:00:46,201 --> 00:00:48,482
+Ow， Oh dear
+
+17
+00:00:48,522 --> 00:00:50,162
+what has happened？
+
+18
+00:00:50,202 --> 00:00:53,083
+Tiddles fell
+on Pedro's nose
+
+19
+00:00:53,123 --> 00:00:54,844
+My nose hurts
+
+20
+00:00:54,884 --> 00:00:56,084
+Poor Pedro
+
+21
+00:00:56,124 --> 00:00:58,445
+I will call
+for the doctor
+
+22
+00:01:01,126 --> 00:01:03,126
+Doctor Brown
+Bear speaking
+
+23
+00:01:03,166 --> 00:01:04,327
+A bumped nose
+
+24
+00:01:04,367 --> 00:01:05,007
+you say？
+
+25
+00:01:05,047 --> 00:01:06,727
+I'll be
+right there
+
+26
+00:01:13,906 --> 00:01:14,586
+Hello
+
+27
+00:01:14,626 --> 00:01:15,867
+where is
+the patient？
+
+28
+00:01:15,907 --> 00:01:16,747
+Here
+
+29
+00:01:16,787 --> 00:01:18,668
+my nose hurts
+
+30
+00:01:18,708 --> 00:01:19,708
+I see
+
+31
+00:01:19,828 --> 00:01:21,189
+say "ahh"
+
+32
+00:01:21,389 --> 00:01:22,309
+ahh
+
+33
+00:01:22,549 --> 00:01:24,990
+You need a plaster
+
+34
+00:01:25,391 --> 00:01:26,071
+There
+
+35
+00:01:26,111 --> 00:01:28,112
+that will
+make it better
+
+36
+00:01:28,152 --> 00:01:29,272
+Hooray
+
+37
+00:01:31,033 --> 00:01:33,434
+My glasses
+don't work
+
+38
+00:01:33,474 --> 00:01:36,036
+Pedro's
+glasses are all muddy
+
+39
+00:01:36,516 --> 00:01:38,157
+Oh，Doctor
+Brown Bear
+
+40
+00:01:38,197 --> 00:01:40,318
+Can you fix
+Pedro's glasses？
+
+41
+00:01:40,358 --> 00:01:41,599
+No，I can't
+
+42
+00:01:41,639 --> 00:01:43,921
+You'll need an
+optician for that
+
+43
+00:01:43,961 --> 00:01:47,323
+An optician is a
+doctor who knows about glasses
+
+44
+00:01:47,363 --> 00:01:49,804
+My daddy's
+an optician
+
+45
+00:01:51,805 --> 00:01:52,406
+Hello
+
+46
+00:01:52,446 --> 00:01:54,247
+Doctor
+Pony speaking
+
+47
+00:01:54,287 --> 00:01:56,248
+A pair of
+glasses not working
+
+48
+00:01:56,288 --> 00:01:57,048
+you say？
+
+49
+00:01:57,088 --> 00:01:58,649
+I'm on my way
+
+50
+00:02:02,378 --> 00:02:03,618
+Hello， daddy
+
+51
+00:02:03,658 --> 00:02:04,577
+Hello， son
+
+52
+00:02:04,617 --> 00:02:06,177
+What seems to
+be the problem？
+
+53
+00:02:06,217 --> 00:02:08,296
+My glasses
+aren't working
+
+54
+00:02:08,336 --> 00:02:10,216
+Can you read
+this chart？
+
+55
+00:02:10,655 --> 00:02:11,215
+No
+
+56
+00:02:11,255 --> 00:02:13,814
+my glasses
+aren't working
+
+57
+00:02:14,094 --> 00:02:14,495
+Why
+
+58
+00:02:14,535 --> 00:02:17,499
+these glasses
+just need a good clean
+
+59
+00:02:18,502 --> 00:02:20,184
+Is that better？
+
+60
+00:02:20,826 --> 00:02:21,666
+Yes
+
+61
+00:02:21,707 --> 00:02:23,310
+thank you，Daddy
+
+62
+00:02:23,350 --> 00:02:26,035
+Doctor Pony has
+fixed Pedro's glasses
+
+63
+00:02:26,075 --> 00:02:28,118
+Yay，Thank you
+
+64
+00:02:28,158 --> 00:02:28,920
+Doctor
+
+65
+00:02:28,960 --> 00:02:31,483
+everything is
+back to normal
+
+66
+00:02:32,005 --> 00:02:34,527
+But Tiddles
+needs helping too
+
+67
+00:02:36,370 --> 00:02:38,813
+Its legs are
+wiggling in the air
+
+68
+00:02:38,853 --> 00:02:41,616
+It seems to
+be upside down
+
+69
+00:02:41,656 --> 00:02:45,221
+Can you doctors
+help a tortoise in trouble？
+
+70
+00:02:45,261 --> 00:02:45,581
+No
+
+71
+00:02:45,621 --> 00:02:48,744
+I'm afraid we can
+'t treat animals
+
+72
+00:02:49,226 --> 00:02:50,828
+You need a vet
+
+73
+00:02:50,868 --> 00:02:54,071
+A vet is a
+doctor for animals
+
+74
+00:02:55,074 --> 00:02:55,716
+Hello
+
+75
+00:02:55,756 --> 00:02:57,923
+Dr Hamster speaking
+
+76
+00:02:57,963 --> 00:02:59,529
+Upside
+down tart ice
+
+77
+00:02:59,569 --> 00:03:00,331
+you say？
+
+78
+00:03:00,371 --> 00:03:02,215
+I'll be
+right there
+
+79
+00:03:06,212 --> 00:03:07,332
+Hello，doctor
+
+80
+00:03:07,372 --> 00:03:08,612
+Hello，doctor
+
+81
+00:03:08,652 --> 00:03:09,612
+Hello，doctor
+
+82
+00:03:09,652 --> 00:03:11,731
+Hello，doctor，No
+
+83
+00:03:11,771 --> 00:03:13,491
+Where's
+the patient？
+
+84
+00:03:13,531 --> 00:03:14,171
+Here
+
+85
+00:03:14,211 --> 00:03:16,131
+he fell out
+of the tree
+
+86
+00:03:16,171 --> 00:03:16,930
+Tiddles
+
+87
+00:03:16,970 --> 00:03:18,890
+you little pickle
+
+88
+00:03:19,130 --> 00:03:22,050
+What have I said
+about climbing trees？
+
+89
+00:03:22,090 --> 00:03:24,009
+Will he be okay？
+
+90
+00:03:24,049 --> 00:03:24,929
+Yes
+
+91
+00:03:25,049 --> 00:03:27,169
+let's just
+flip you over
+
+92
+00:03:28,169 --> 00:03:29,489
+Good，isn't you？
+
+93
+00:03:31,168 --> 00:03:33,849
+That was an interesting technique you used there
+
+94
+00:03:33,889 --> 00:03:35,329
+Standard procedure
+
+95
+00:03:35,369 --> 00:03:36,489
+really
+
+96
+00:03:38,489 --> 00:03:39,889
+It is
+Doctor Elephant
+
+97
+00:03:39,929 --> 00:03:41,009
+the dentist
+
+98
+00:03:41,049 --> 00:03:42,049
+Hello，everyone
+
+99
+00:03:42,089 --> 00:03:43,810
+I heard there
+was an emergency
+
+100
+00:03:43,850 --> 00:03:45,450
+Are everyone'
+s teeth okay？
+
+101
+00:03:45,490 --> 00:03:46,970
+Yes，thank you
+
+102
+00:03:47,010 --> 00:03:49,770
+A dentist is a
+doctor who looks after teeth
+
+103
+00:03:49,810 --> 00:03:51,730
+I'll be on
+my way then
+
+104
+00:03:54,427 --> 00:03:55,268
+Oh dear
+
+105
+00:03:55,308 --> 00:03:58,230
+Doctor Elephant'
+s car won't start
+
+106
+00:03:58,711 --> 00:04:02,674
+Do any of you
+doctors know how to fix a car？
+
+107
+00:04:02,754 --> 00:04:03,594
+Um…
+
+108
+00:04:04,075 --> 00:04:04,835
+No
+
+109
+00:04:05,837 --> 00:04:07,478
+I know who to call
+
+110
+00:04:09,320 --> 00:04:10,280
+Hello？
+
+111
+00:04:10,320 --> 00:04:13,163
+Grandad Dog's
+breakdown service
+
+112
+00:04:13,203 --> 00:04:14,604
+Trouble
+with a car？
+
+113
+00:04:14,644 --> 00:04:16,525
+I'll be
+right there
+
+114
+00:04:23,008 --> 00:04:23,968
+Hello
+
+115
+00:04:24,008 --> 00:04:24,969
+Hello
+
+116
+00:04:25,450 --> 00:04:27,290
+Try the engine
+
+117
+00:04:30,613 --> 00:04:32,014
+Try it again
+
+118
+00:04:34,016 --> 00:04:34,736
+Good as new
+
+119
+00:04:34,776 --> 00:04:36,938
+Great
+
+120
+00:04:36,978 --> 00:04:40,580
+Grandad dog
+is a car doctor
+
+121
+00:04:40,701 --> 00:04:43,062
+There are
+doctors for everything
+
+122
+00:04:43,102 --> 00:04:44,543
+even cars
+
+123
+00:04:55,756 --> 00:04:56,637
+爸爸
+
