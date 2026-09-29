@@ -47,25 +47,25 @@ then the sinicized Cantonese loanword version should be used instead.
 Below is a non-exhaustive list of character conventions:
 
 ### Disambiguation reasons
-| ✅ Selected Variant | ❌ Other Variants | Jyutping						| Explanation               			|
+| ✅ Selected Variant | ❌ Other Variants | Jyutping						| Explanation               		|
 | ----------------- | ----------------- | ----------------------------- | ------------------------------------- |
 | 𠹻					| 陣					| zam6							| 氣味、風嘅量詞                     		|
 | 𡃴					| 除					| ceoi4                         | 臭味                        			|
-| 鬥					| 鬭					| dau3                          | 1. 對打 2. 分勝負 3. 花工夫去整一樣嘢        |
+| 鬥					| 鬭					| dau3                          | 1. 對打 2. 分勝負 3. 花工夫去整一樣嘢	|
 | 抖					| 鬥					| dau3                          | 摸；掂                       			|
 | 𢫏					| 冚					| kam2                          | 遮住                        			|
 | 扻					| 冚					| kam2                          | 掌摑									|
 | 撼					| 扻					| ham2                          | 撞到									|
-| 抰					| 揚					| joeng2                        | 揮動一件軟軟地嘅物件                		|
-| 𬒔					| 哽					| ang2                          | 一啲突起嘅嘢頂住，令人唔舒服或痛         		|
+| 抰					| 揚					| joeng2                        | 揮動一件軟軟地嘅物件                	|
+| 𬒔					| 哽					| ang2                          | 一啲突起嘅嘢頂住，令人唔舒服或痛        	|
 | 倔					| 掘					| gwat6                         | 執著；鈍                      			|
 | 飆					| 標					| biu1                          |                           			|
 | 讕					| 懶					| laan2                         | 扮做；自命								|
 | 嘺					| 橋、蹺、巧			| kiu2                          | 表示咁啱                      			|
-| 蓆					| 席					| zek6                          | 用竹片等材料製成嘅墊                		|
+| 蓆					| 席					| zek6                          | 用竹片等材料製成嘅墊                	|
 | 席					|					| zik6                          |                           			|
-| 㨃					| 隊					| deoi2                         | 1. 捅 2. 短時間內攝取好多嘢         		|
-| 篋					| 喼、gip				| gip1             				| 旅行箱                         			|
+| 㨃					| 隊					| deoi2                         | 1. 捅 2. 短時間內攝取好多嘢         	|
+| 篋					| 喼、gip			| gip1             				| 旅行箱                         		|
 
 
 ### Consistency reasons
@@ -96,8 +96,8 @@ Below is a non-exhaustive list of character conventions:
 | 捻					| 掐					| nin2                          | 雙手或者多隻手指夾住一嚿嘢            	 		|
 | 係噉咦				| 係咁意				| hai6 gam2 ji2               	|                           					|
 | 註定				| 注定				| zyu3 ding6					|												|
-| 㪐㩿				| 甩咳、甩cut、犖确		| lak1 kak1                     | 口吃、不順利進展								|
-| 犖确				| 甩咳、甩cut、㪐㩿		| lak1 kak1                     | 形容道路 不平坦，顛簸						|
+| 㪐㩿				| 甩咳、甩cut、犖确	| lak1 kak1                     | 口吃、不順利進展								|
+| 犖确				| 甩咳、甩cut、㪐㩿	| lak1 kak1                     | 形容道路 不平坦，顛簸						|
 | 山旮旯				| 山卡罅、山卡啦		| saan1 kaa1 laa1          	    | 冇人去嘅山邊角落、形容一個地方偏遠、隔涉、荒蕪		|
 
 
@@ -118,7 +118,7 @@ Below is a non-exhaustive list of character conventions:
 | 𠹭					| call				| ko1							| call                                  |
 | 咭					| 卡					| kaat1                         | card		                   			|
 | 卡					| car, carat, 黐住 	| kaat1                         | carat (unit of weight)       			|
-| 鋅盤				| sink盤、星盤			| sing1 pun2         			| kitchen *sink*           			|
+| 鋅盤				| sink盤、星盤		| sing1 pun2         			| kitchen *sink*           			|
 | 咖哩				| 咖喱、				| gaa3 lei1						| curry                        			|
 | 喼帽				| cap帽				| gip1 mou2	gep1 mou2, kep1 mou2 | cap (baseball cap, tweed cap)		|
 | 加侖				| 嗧					| gaa1 leon4-2					| Gallon								|
@@ -133,7 +133,7 @@ Below is a non-exhaustive list of character conventions:
 | ✅ Selected Variant | ❌ Other Variants | Jyutping			    	| Explanation               			|
 | ----------------- | ----------------- | ----------------------------- | ------------------------------------- |
 | 𥄫               	| gup				| gap6                          | 1. 偷窺 2. 凝視               			|
-| 凱					| kai子				| kaai1							| 1. kai子 2.							|
+| 凱					| kai子				| kaai1							| 1. kai子							|
 | 芒					| mon、𲘥				| moon1							| 										|
 
 ### Other reasons / Unorganized
