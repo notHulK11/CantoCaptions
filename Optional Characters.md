@@ -131,6 +131,7 @@ Below is a non-exhaustive list of character conventions:
 
 ### Characters oftenly seen using Latin characters
 | ✅ Selected Variant | ❌ Other Variants | Jyutping			    	| Explanation               			|
+| ----------------- | ----------------- | ----------------------------- | ------------------------------------- |
 | 𥄫               	| gup				| gap6                          | 1. 偷窺 2. 凝視               			|
 | 凱					| kai子				| kaai1							| 1. kai子 2.							|
 | 芒					| mon、𲘥				| moon1							| 										|
