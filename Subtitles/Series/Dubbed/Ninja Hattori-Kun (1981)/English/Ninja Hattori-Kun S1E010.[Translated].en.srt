@@ -1259,251 +1259,251 @@ I'll cook a few of my specialties
 How could I have stamped everything
 in the blink of an eye?
 
-315
+314
 00:15:33,573 --> 00:15:35,118
 Hey, you haven't left yet?
 
-316
+315
 00:15:35,995 --> 00:15:37,165
 What's up?
 
-317
+316
 00:15:37,206 --> 00:15:38,196
 It's only five o'clock
 
-318
+317
 00:15:38,236 --> 00:15:40,668
 How about we grab a drink before going home?
 
-319
+318
 00:15:40,727 --> 00:15:42,544
 Huh? Ah, go for a drink?
 
-320
+319
 00:15:45,568 --> 00:15:46,697
 Have another drink!
 
-321
+320
 00:15:46,944 --> 00:15:48,460
 Thanks a lot
 
-322
+321
 00:15:49,961 --> 00:15:52,047
 Yan...
 
-323
+322
 00:15:56,322 --> 00:15:58,247
 Yan...
 
-324
+323
 00:16:03,022 --> 00:16:04,922
 Yan...
 
-325
+324
 00:16:08,959 --> 00:16:12,477
 Why did I get drunk so fast today?
 
-326
+325
 00:16:17,077 --> 00:16:18,446
 Man, I don't know why
 
-327
+326
 00:16:18,486 --> 00:16:20,794
 I was so efficient at work today!
 
-328
+327
 00:16:20,845 --> 00:16:22,300
 That's great
 
-329
+328
 00:16:22,340 --> 00:16:23,702
 Though I'm really sorry
 
-330
+329
 00:16:23,752 --> 00:16:25,834
 Because you came home especially early today
 
-331
+330
 00:16:25,891 --> 00:16:27,936
 I haven't finished cooking dinner yet
 
-332
+331
 00:16:28,004 --> 00:16:28,832
 Oh, that's fine
 
-333
+332
 00:16:28,972 --> 00:16:31,607
 Let me cook a couple of dishes myself tonight
 
-334
+333
 00:16:31,694 --> 00:16:33,015
 Oh? You're going into the kitchen?
 
-335
+334
 00:16:33,066 --> 00:16:35,083
 Don't worry, leave it to me!
 
-336
+335
 00:16:38,867 --> 00:16:40,684
 My stomach is growling
 
-337
+336
 00:16:42,868 --> 00:16:45,426
 Hey, dinner is ready, come out and eat!
 
-338
+337
 00:16:46,037 --> 00:16:46,880
 Coming!
 
-339
+338
 00:16:58,150 --> 00:16:58,950
 All right
 
-340
+339
 00:16:59,175 --> 00:17:01,011
 Let me try the first bite
 
-341
+340
 00:17:05,438 --> 00:17:07,267
 Oh no, why is it so salty? Oh dear
 
-342
+341
 00:17:07,318 --> 00:17:09,051
 I used salt instead of sugar
 
-343
+342
 00:17:09,125 --> 00:17:10,318
 *sigh* Better cook it again from scratch
 
-344
+343
 00:17:11,622 --> 00:17:13,390
 Oh dear, Mom...
 
-345
+344
 00:17:22,130 --> 00:17:24,626
 Dad, let me do my homework myself
 
-346
+345
 00:17:24,667 --> 00:17:26,059
 Hold on, stop making noise
 
-347
+346
 00:17:26,100 --> 00:17:27,680
 I don't know why, but I feel like
 
-348
+347
 00:17:27,730 --> 00:17:29,668
 your math homework lately is really hard to solve
 
-349
+348
 00:17:29,718 --> 00:17:30,200
 That's right
 
-350
+349
 00:17:30,251 --> 00:17:32,760
 I don't even know whether to multiply or divide now
 
-351
+350
 00:17:33,003 --> 00:17:34,450
 Ugh, let me do the math myself!
 
-352
+351
 00:17:34,501 --> 00:17:35,598
 Stop fussing
 
-353
+352
 00:17:35,648 --> 00:17:37,200
 Kenichi, go play outside
 
-354
+353
 00:17:37,294 --> 00:17:39,777
 I won't let you get in the way of someone working
 
-355
+354
 00:17:39,818 --> 00:17:42,027
 Man, this is so frustrating!
 
-356
+355
 00:17:48,326 --> 00:17:50,449
 Let me help you tally up the numbers, okay?
 
-357
+356
 00:17:50,500 --> 00:17:52,240
 No need, I can count it myself
 
-358
+357
 00:17:53,969 --> 00:17:55,926
 Dad, what are you doing now?
 
-359
+358
 00:17:56,363 --> 00:17:57,773
 We need to make breakfast tomorrow morning
 
-360
+359
 00:17:57,823 --> 00:17:59,440
 I'll go wash the rice first
 
-361
+360
 00:17:59,490 --> 00:18:00,642
 No need
 
-362
+361
 00:18:00,762 --> 00:18:02,182
 I've had quite enough of you
 
-364
+362
 00:18:02,718 --> 00:18:04,323
 If you're home early, don't get in the way
 
-365
+363
 00:18:04,364 --> 00:18:05,850
 Hattori, starting tomorrow...
 
-366
+364
 00:18:04,833 --> 00:18:05,901
 {\an8}I was only trying to help
 
-367
+365
 00:18:05,959 --> 00:18:08,181
 I want Dad to come home late like he used to
 
-363
+366
 00:18:05,982 --> 00:18:08,110
 {\an8}-Oh no, the more Dad tries to help, the worse it gets
 -You're lying!
 
-369
+367
 00:18:08,751 --> 00:18:10,547
 -You're being completely unreasonable
 -Let me tell you
 
-370
+368
 00:18:10,588 --> 00:18:11,700
 -He can even convey that?
 -No help is better than this!
 
-371
+369
 00:18:11,741 --> 00:18:12,957
 Well, since you put it that way...
 
-368
+370
 00:18:11,953 --> 00:18:12,873
 {\an8}You can't be serious
 
-372
+371
 00:18:13,007 --> 00:18:16,193
 How about I use ninjutsu
 to make him come home later?
 
-373
+372
 00:18:13,233 --> 00:18:15,900
 {\an8}You came home and just started messing things up
 
-374
+373
 00:18:16,453 --> 00:18:17,340
 Aiya!
 
-375
+374
 00:18:17,380 --> 00:18:21,277
 This story teaches us
 that nothing in this world is perfect
