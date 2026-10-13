@@ -1,12 +1,17 @@
-"""CI glue for the srt-check workflow: run --check and --lint over a set of
-files and emit GitHub Actions workflow commands (::error / ::warning) so
-results show up as inline PR annotations -- readable by a contributor who
-has never used git, per docs/srt-canonicalization-spec.md Component 2.
+"""CI glue for the srt-check workflow: check a set of .srt files and emit
+GitHub Actions workflow commands (::error / ::warning) so results show up as
+inline annotations -- readable by a contributor who has never used git.
 
-Kept separate from srtfmt.py's own CLI, which prints plain text for a
-maintainer running it locally. Calls check_file()/lint() directly rather
-than parsing that CLI's stdout, since the annotation format needs the
-file/line/message split as structured data, not text to re-parse.
+Built to be quiet. Only problems that make a file broken for every viewer
+are errors and fail the check (see srtfmt.check_file). Style-guide issues
+are warnings that never fail anything, and are grouped to one annotation per
+rule per file -- a 1,000-cue upload with 40 long lines gets one "Line too
+long" warning saying so, not 40. The full breakdown goes to the run's job
+summary page instead of the annotation list.
+
+Kept separate from srtfmt.py's own CLI, which prints plain text for someone
+running it locally. Calls check_file()/lint_items() directly rather than
+parsing that CLI's stdout, since annotations need structured data.
 
 Usage: ci_annotate.py --paths-file <file>
   <file> holds NUL-separated paths (see the workflow: `git diff -z
@@ -19,18 +24,21 @@ Stdlib only.
 
 from __future__ import annotations
 
+import os
 import re
 import sys
+import traceback
 from pathlib import Path
 
 import srtlint
 from srtfmt import SrtParseError, check_file, decode_srt, parse
 
-# Messages carry their location as either "Cue 12 (line 47)" or, for problems
-# between cues, a bare "Line 47". The line is pulled out to anchor the
-# annotation; the cue number stays in the visible text, since that is what a
-# reviewer needs to find the cue in a subtitle editor.
-_LOCATION_RE = re.compile(r"^(?:Cue (\d+) \(line (\d+)\)|Line (\d+)) — (.*)$")
+MAX_CUES_LISTED = 5
+MAX_SUMMARY_ROWS = 200
+
+# Parse errors start with "line N: ". Pull the line out to anchor the
+# annotation on it; the rest of the message stands on its own.
+_LINE_PREFIX_RE = re.compile(r"^line (\d+): (.*)$", re.DOTALL)
 
 
 def _read_paths(paths_file: str) -> list[str]:
@@ -38,22 +46,81 @@ def _read_paths(paths_file: str) -> list[str]:
     return [p.decode("utf-8") for p in data.split(b"\0") if p]
 
 
-def _emit(command: str, path: str, message: str, line: int = 1) -> None:
-    # GitHub workflow-command values must have %, \r, \n percent-escaped.
-    escaped = message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
-    print(f"::{command} file={path},line={line}::{escaped}")
+def _escape_data(value: str) -> str:
+    return value.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
 
 
-def _emit_reasons(command: str, path: str, reasons: list[str]) -> None:
-    for reason in reasons:
-        m = _LOCATION_RE.match(reason)
-        if not m:
-            _emit(command, path, reason)
-            continue
-        cue_number, cue_line, bare_line, message = m.groups()
-        if cue_number:
-            message = f"Cue {cue_number} — {message}"
-        _emit(command, path, message, line=int(cue_line or bare_line))
+def _escape_property(value: str) -> str:
+    # Properties are comma-separated key=value pairs ending at '::', so a
+    # filename containing ',' or ':' would otherwise be cut short.
+    return _escape_data(value).replace(":", "%3A").replace(",", "%2C")
+
+
+def _emit(command: str, path: str, message: str, line: int = 1, title: str | None = None) -> None:
+    props = f"file={_escape_property(path)},line={line}"
+    if title:
+        props += f",title={_escape_property(title)}"
+    print(f"::{command} {props}::{_escape_data(message)}")
+
+
+def _emit_error(path: str, reason: str) -> None:
+    m = _LINE_PREFIX_RE.match(reason)
+    if m:
+        _emit("error", path, m.group(2), line=int(m.group(1)), title="Broken subtitle file")
+    else:
+        _emit("error", path, reason, title="Broken subtitle file")
+
+
+def _group_by_rule(items: list[srtlint.LintWarning]) -> dict[str, list[srtlint.LintWarning]]:
+    groups: dict[str, list[srtlint.LintWarning]] = {}
+    for item in items:
+        groups.setdefault(item.rule, []).append(item)
+    return groups
+
+
+def _emit_warnings(path: str, items: list[srtlint.LintWarning]) -> None:
+    for rule, group in _group_by_rule(items).items():
+        first = group[0]
+        message = f"Cue {first.cue_number} — {first.message}"
+        if len(group) > 1:
+            others = [str(w.cue_number) for w in group[1 : 1 + MAX_CUES_LISTED]]
+            more = ", …" if len(group) - 1 > MAX_CUES_LISTED else ""
+            message += f" ({len(group) - 1} more like this in this file: cues {', '.join(others)}{more})"
+        _emit("warning", path, message, line=first.lineno, title=rule)
+
+
+def _write_summary(rows: list[tuple[str, list[str], list[srtlint.LintWarning]]], checked: int) -> None:
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return
+    out = ["### Subtitle check", ""]
+    if not rows:
+        out.append(f"All {checked} changed subtitle file(s) look good.")
+    else:
+        out.append(
+            "Errors mean the file is broken and needs fixing. Warnings are "
+            "style-guide suggestions from the README and never block anything."
+        )
+        out += ["", "| File | Errors | Warnings |", "| --- | --- | --- |"]
+        for path, errors, warnings in rows[:MAX_SUMMARY_ROWS]:
+            name = path.replace("|", "\\|")
+            error_text = "<br>".join(e.replace("|", "\\|") for e in errors) or "—"
+            counts = ", ".join(f"{rule} ×{len(g)}" for rule, g in _group_by_rule(warnings).items())
+            out.append(f"| {name} | {error_text} | {counts or '—'} |")
+        if len(rows) > MAX_SUMMARY_ROWS:
+            out.append(f"\n…and {len(rows) - MAX_SUMMARY_ROWS} more file(s).")
+    with open(summary_path, "a", encoding="utf-8") as f:
+        f.write("\n".join(out) + "\n")
+
+
+def _check_one(path: str) -> tuple[list[str], list[srtlint.LintWarning]]:
+    raw = Path(path).read_bytes()
+    ok, errors = check_file(raw)
+    try:
+        cues = parse(decode_srt(raw))
+    except SrtParseError:
+        return errors, []  # already reported as an error
+    return errors, srtlint.lint_items(cues)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -63,22 +130,35 @@ def main(argv: list[str] | None = None) -> int:
         return 2
 
     paths = _read_paths(argv[1])
+    rows: list[tuple[str, list[str], list[srtlint.LintWarning]]] = []
     exit_code = 0
-    for path_str in paths:
-        raw = Path(path_str).read_bytes()
-
-        ok, reasons = check_file(raw)
-        if not ok:
-            exit_code = 1
-            _emit_reasons("error", path_str, reasons)
-
+    for path in paths:
         try:
-            cues = parse(decode_srt(raw))
-        except SrtParseError:
-            continue  # already reported as a --check error above
+            errors, warnings = _check_one(path)
+        except Exception:
+            # A bug in this checker is not the contributor's problem, so it
+            # must not fail their check -- say so and move on.
+            traceback.print_exc()
+            _emit(
+                "warning",
+                path,
+                "This file could not be checked because of a bug in the checker. "
+                "The details are in the job log.",
+                title="Check skipped",
+            )
+            continue
 
-        _emit_reasons("warning", path_str, srtlint.lint(cues))
+        if not errors and not warnings:
+            continue
+        rows.append((path, errors, warnings))
+        print(f"{path}: {len(errors)} error(s), {len(warnings)} style warning(s)")
+        for reason in errors:
+            _emit_error(path, reason)
+        _emit_warnings(path, warnings)
+        if errors:
+            exit_code = 1
 
+    _write_summary(rows, len(paths))
     return exit_code
 
 

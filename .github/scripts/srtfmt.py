@@ -1,9 +1,13 @@
-"""Canonicalize .srt files: derive cue IDs from start time, normalize structure.
+"""Check and tidy .srt files: parse, number cues 1..N, normalize structure.
 
-See docs/srt-canonicalization-spec.md for the full design. This module holds
-the parser and normalizer core (decode -> parse -> assign IDs -> serialize).
-The CLI (--check/--write/--lint) and the style-lint rule set are separate,
-later pieces of the same component.
+This module holds the parser and normalizer core (decode -> parse -> assign
+IDs -> serialize) and a small CLI (--check/--write/--lint). The style-guide
+rules live in srtlint.py.
+
+--check is deliberately permissive: it fails only on problems that make a
+file unreadable or wrong for every viewer (bad encoding, a broken timestamp,
+an empty subtitle). Anything cosmetic or merely unconventional is either
+ignored or left to srtlint's warnings.
 
 Stdlib only, by design: this ships as a CI script, not a package.
 """
@@ -60,19 +64,25 @@ def detect_encoding(raw: bytes) -> str:
     return "utf-8"
 
 
-def _decode_bytes(raw: bytes) -> str:
-    """Decode to text without touching line endings (used by decode_srt and diagnose)."""
-    encoding = detect_encoding(raw)
-    if encoding == "utf-16":
-        return raw.decode("utf-16")
-    if encoding == "utf-8-bom":
-        return raw[3:].decode("utf-8")
-    return raw.decode("utf-8")
-
-
 def decode_srt(raw: bytes) -> str:
-    """Decode raw file bytes, tolerating the encodings real subtitle editors emit."""
-    text = _decode_bytes(raw)
+    """Decode raw file bytes, tolerating the encodings real subtitle editors emit.
+
+    Raises SrtParseError, not UnicodeDecodeError, on anything else (Big5, GBK
+    and so on), so callers report it like any other broken file.
+    """
+    encoding = detect_encoding(raw)
+    try:
+        if encoding == "utf-16":
+            text = raw.decode("utf-16")
+        elif encoding == "utf-8-bom":
+            text = raw[3:].decode("utf-8")
+        else:
+            text = raw.decode("utf-8")
+    except UnicodeDecodeError:
+        raise SrtParseError(
+            "File is not saved as UTF-8 (it may be Big5 or GBK). "
+            "Please re-save it as UTF-8."
+        ) from None
     return text.replace("\r\n", "\n").replace("\r", "\n")
 
 
@@ -91,13 +101,13 @@ def parse(text: str) -> list[Cue]:
     """Parse cue blocks from already-decoded, LF-normalized text.
 
     Tolerates non-sequential/duplicate/missing cue IDs, zero or multiple
-    blank lines between cues, and the timestamp quirks handled by the
-    timestamp regex. Cue IDs are read only to be discarded -- canonical IDs
-    are always recomputed from start time.
+    blank lines between cues, the timestamp quirks handled by the timestamp
+    regex, and cues out of chronological order (legitimate SRT: overlapping
+    on-screen text is often listed that way). Cue IDs are read only to be
+    discarded; they are always renumbered 1..N in file order.
 
     Raises SrtParseError on: an unparseable timestamp line, a cue with no
-    text, an end time before its start time, or cues out of chronological
-    order.
+    text, an end time before its start time, or a file with no cues at all.
     """
     lines = text.split("\n")
     n = len(lines)
@@ -144,7 +154,12 @@ def parse(text: str) -> list[Cue]:
         timestamp_text = lines[i].strip()
         m = TIMESTAMP_RE.match(timestamp_text)
         if not m:
-            raise SrtParseError(f"line {i + 1}: unparseable timestamp line: {lines[i]!r}")
+            # Capped: a pasted-in block of text can put kilobytes on one line.
+            shown = lines[i] if len(lines[i]) <= 60 else lines[i][:60] + "…"
+            raise SrtParseError(
+                f"line {i + 1}: unparseable timestamp line: {shown!r}. "
+                "Is there a blank line inside a subtitle, or a typo in the timestamp?"
+            )
         start_ms = _to_ms(*m.groups()[0:4])
         end_ms = _to_ms(*m.groups()[4:8])
         if end_ms < start_ms:
@@ -162,7 +177,10 @@ def parse(text: str) -> list[Cue]:
             i += 1
 
         if not text_lines:
-            raise SrtParseError(f"line {timestamp_line_no}: cue has no text")
+            raise SrtParseError(
+                f"line {timestamp_line_no}: cue has no text. "
+                "Add its text, or delete the subtitle."
+            )
 
         cues.append(
             Cue(
@@ -180,35 +198,18 @@ def parse(text: str) -> list[Cue]:
         )
 
     if not cues:
-        raise SrtParseError("no cues found")
-
-    for prev, cur in zip(cues, cues[1:]):
-        if cur.start_ms < prev.start_ms:
-            raise SrtParseError(
-                "cues out of chronological order: cue starting at "
-                f"{format_timestamp(cur.start_ms)} follows cue starting at "
-                f"{format_timestamp(prev.start_ms)}"
-            )
+        raise SrtParseError("no cues found. The file is empty or isn't in SRT format.")
 
     return cues
 
 
 def assign_ids(cues: list[Cue]) -> list[int]:
-    """Derive canonical cue IDs from start time (see collision rule in the spec).
+    """Number cues 1..N in file order -- what every subtitle editor writes.
 
-    Cues are processed in file order (== ascending start time, enforced by
-    parse()). ID 0 is never used -- a cue starting at 00:00:00,000 is
-    promoted to 1. Any other collision increments by 1 until free.
+    File order, never start time: reordering would break anything keyed to
+    a cue's position, such as Subtitle Edit's .SE.bookmarks files.
     """
-    used: set[int] = set()
-    ids = []
-    for cue in cues:
-        candidate = cue.start_ms if cue.start_ms != 0 else 1
-        while candidate in used:
-            candidate += 1
-        used.add(candidate)
-        ids.append(candidate)
-    return ids
+    return list(range(1, len(cues) + 1))
 
 
 def serialize(cues: list[Cue], ids: list[int]) -> str:
@@ -237,133 +238,27 @@ def normalize_bytes(raw: bytes) -> bytes:
     return normalize_text(decode_srt(raw)).encode("utf-8")
 
 
-def _diagnose_timestamp_line(cue: Cue) -> list[str]:
-    expected = f"{format_timestamp(cue.start_ms)} --> {format_timestamp(cue.end_ms)}"
-    if cue.timestamp_text == expected:
-        return []
-
-    reasons = []
-    m = TIMESTAMP_RE.match(cue.timestamp_text)
-    if m:
-        h1, _, _, _, h2, _, _, _ = m.groups()
-        if len(h1) < 2 or len(h2) < 2:
-            reasons.append(f"{srtlint.location(cue.number, cue.timestamp_line_no)} — hour is not zero-padded.")
-        if "." in cue.timestamp_text:
-            reasons.append(
-                f"{srtlint.location(cue.number, cue.timestamp_line_no)} — uses '.' "
-                "instead of ',' as the millisecond separator."
-            )
-        if not re.search(r"[,.]\d{3} --> \d", cue.timestamp_text):
-            reasons.append(
-                f"{srtlint.location(cue.number, cue.timestamp_line_no)} — should have "
-                "exactly one space on each side of '-->'."
-            )
-    if not reasons:
-        reasons.append(
-            f"{srtlint.location(cue.number, cue.timestamp_line_no)} — timestamp "
-            "formatting differs from canonical form."
-        )
-    return reasons
-
-
-def _diagnose_id_order(cues: list[Cue]) -> list[str]:
-    """Flag cue IDs that go backward or repeat -- never IDs that merely
-    aren't start-time-derived.
-
-    Cue ID canonicalization is deliberately NOT a --check failure: any
-    subtitle editor renumbers cues sequentially on save, so a contributor who
-    fixes one line of dialogue and saves will hand back a file with plain
-    1..N IDs through no fault of their own. That's mechanical and lossless --
-    the normalize-on-main job silently rewrites IDs to their canonical,
-    start-time-derived form on every merge, so there is nothing here for a
-    human to act on.
-
-    What *is* worth flagging: an ID that is not greater than the previous
-    cue's ID. A well-behaved renumbering (by a tool, or left untouched)
-    always increases; a repeat or a drop usually means two cues were
-    swapped, duplicated, or otherwise mis-edited by hand.
-    """
-    reasons = []
-    prev_value: int | None = None
-    prev_number: int | None = None
-    for cue in cues:
-        if cue.id_text is None or not cue.id_text.isdigit():
-            continue
-        value = int(cue.id_text)
-        if prev_value is not None and value <= prev_value:
-            reasons.append(
-                f"{srtlint.location(cue.number, cue.id_line_no)} — cue ID is {value}, "
-                f"which is not greater than the previous cue's ID ({prev_value}, at "
-                f"cue {prev_number}). Cue numbers get renumbered automatically, but "
-                "one that repeats or goes backward usually means two cues got "
-                "swapped or duplicated by mistake."
-            )
-        prev_value = value
-        prev_number = cue.number
-    return reasons
-
-
 def diagnose(raw: bytes, cues: list[Cue]) -> list[str]:
-    """Explain, in human-readable terms, why a file fails --check.
+    """Explain, in human-readable terms, why a parseable file fails --check.
 
-    Cue ID canonicalization and end-of-file newline conventions are
-    intentionally excluded (see _diagnose_id_order for IDs). A missing
-    trailing newline or an extra trailing blank line has no effect on
-    parsing in any real player, and which one a file has is largely an
-    artifact of whatever editor last saved it -- not something a contributor
-    did wrong. Both are silently corrected by --write on merge to main.
-    Everything else here is something a human contributor needs to act on.
+    Only encoding is checked here; parse() already rejects everything else
+    that is actually broken. UTF-16 parses fine, but GitHub shows it as a
+    binary file, so nobody can review changes to it.
+
+    Everything else an editor might leave behind -- a UTF-8 BOM, CRLF line
+    endings, trailing whitespace, extra blank lines, cue numbers that skip --
+    is harmless to every real player and deliberately not reported.
     """
-    reasons: list[str] = []
-
-    encoding = detect_encoding(raw)
-    if encoding == "utf-16":
-        reasons.append("File is saved as UTF-16. Please re-save as UTF-8 without a BOM.")
-    elif encoding == "utf-8-bom":
-        reasons.append(
-            "File is saved as UTF-8 with a BOM. Please re-save as UTF-8 without a BOM."
-        )
-
-    pre_lf_text = _decode_bytes(raw)
-    if "\r" in pre_lf_text:
-        reasons.append("File uses CRLF or CR line endings. Line endings should be LF only.")
-
-    text = pre_lf_text.replace("\r\n", "\n").replace("\r", "\n")
-
-    owning_cue: dict[int, int] = {}
-    for cue in cues:
-        for lineno in (cue.id_line_no, cue.timestamp_line_no, *cue.text_line_nos):
-            if lineno:
-                owning_cue[lineno] = cue.number
-
-    for lineno, line in enumerate(text.split("\n"), start=1):
-        if line != line.rstrip():
-            where = srtlint.location(owning_cue.get(lineno), lineno)
-            reasons.append(f"{where} — has trailing whitespace.")
-
-    reasons.extend(_diagnose_id_order(cues))
-
-    for idx, cue in enumerate(cues):
-        reasons.extend(_diagnose_timestamp_line(cue))
-
-        if idx > 0 and cue.blank_lines_before != 1:
-            reasons.append(
-                f"{srtlint.location(cue.number, cue.timestamp_line_no)} — "
-                f"{cue.blank_lines_before} blank line(s) before this cue; "
-                "canonical form uses exactly 1."
-            )
-
-    return reasons
+    if detect_encoding(raw) == "utf-16":
+        return ["File is saved as UTF-16. Please re-save it as UTF-8."]
+    return []
 
 
 def check_file(raw: bytes) -> tuple[bool, list[str]]:
-    """Check raw file bytes against everything --check enforces.
+    """Check raw file bytes for problems serious enough to fail CI.
 
-    This is deliberately looser than byte-equality with normalize_bytes():
-    cue ID canonicalization is --write's job, not --check's (see
-    _diagnose_id_order). Returns (passed, reasons). reasons is empty when
-    passed; on a hard parse failure it holds a single human-readable error
-    message.
+    Returns (passed, reasons). reasons is empty when passed; on a hard parse
+    failure it holds a single human-readable error message.
     """
     try:
         cues = parse(decode_srt(raw))
@@ -375,12 +270,12 @@ def check_file(raw: bytes) -> tuple[bool, list[str]]:
 
 
 def write_file(raw: bytes) -> tuple[bytes, bool]:
-    """Canonicalize raw file bytes fully, including cue IDs.
+    """Tidy raw file bytes fully: UTF-8, LF, one blank line between cues,
+    no trailing whitespace, cues numbered 1..N.
 
-    Returns (canonical_bytes, changed). Unlike check_file(), this has no
-    concept of "close enough" -- --write always produces the fully canonical
-    form, including start-time-derived IDs. Raises SrtParseError on a hard
-    parse failure; a file that fails to parse cannot be rewritten.
+    Returns (canonical_bytes, changed). Raises SrtParseError on a hard parse
+    failure; a file that fails to parse cannot be rewritten. To renumber
+    cues without touching anything else, use renumber.py instead.
     """
     canonical = normalize_bytes(raw)
     return canonical, canonical != raw
@@ -439,18 +334,22 @@ def _run_lint(paths: list[str]) -> int:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        prog="srtfmt.py", description="Canonicalize .srt files under Subtitles/."
+        prog="srtfmt.py", description="Check and tidy .srt files under Subtitles/."
     )
     mode = parser.add_mutually_exclusive_group(required=True)
     mode.add_argument(
-        "--check", action="store_true", help="Exit 1 on any non-canonical file; report why."
+        "--check", action="store_true", help="Exit 1 on any broken file; report why."
     )
-    mode.add_argument("--write", action="store_true", help="Rewrite files in place.")
+    mode.add_argument("--write", action="store_true", help="Tidy files in place.")
     mode.add_argument(
         "--lint", action="store_true", help="Print style-guide warnings; never fails."
     )
     parser.add_argument("paths", nargs="+", help="Paths to .srt files.")
     args = parser.parse_args(argv)
+    # Paths and messages contain CJK text and emoji; a Windows console piped
+    # to a file defaults to cp1252, which would crash on them.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(errors="backslashreplace")
 
     if args.check:
         return _run_check(args.paths)

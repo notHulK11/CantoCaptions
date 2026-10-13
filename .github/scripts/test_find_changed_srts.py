@@ -1,5 +1,5 @@
 """Tests for find_changed_srts.py: the git-diff glue used by the srt-check
-workflow (docs/srt-canonicalization-spec.md Component 2)."""
+workflow."""
 
 from __future__ import annotations
 

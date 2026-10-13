@@ -2259,11 +2259,11 @@ I
 00:50:22,766 --> 00:50:25,160
 Class 7A, number 21
 
-565
+564
 00:50:24,393 --> 00:50:26,159
 {\an8}From now on
 
-564
+565
 00:50:25,287 --> 00:50:26,580
 Lee Sum-yuet
 
@@ -3763,15 +3763,15 @@ Yau Chung-wai
 01:27:32,876 --> 01:27:37,040
 do you take Lee Sum-yuet to be your lawful wedded wife?
 
-940
+939
 01:27:34,136 --> 01:27:36,456
 {\an8}Taboos of youth
 
-941
+940
 01:27:36,496 --> 01:27:43,436
 {\an8}Tears playfully falling alongside laughter with you
 
-939
+941
 01:27:37,209 --> 01:27:38,453
 I do
 
@@ -3783,11 +3783,11 @@ Lee Sum-yuet
 01:27:40,376 --> 01:27:44,752
 do you take Yau Chung-wai to be your lawful wedded husband?
 
-945
+944
 01:27:43,459 --> 01:27:48,939
 {\an8}In the end, who refused to look back?
 
-944
+945
 01:27:44,793 --> 01:27:49,055
 promising to stay by his side in sickness and in health...
 
@@ -3795,11 +3795,11 @@ promising to stay by his side in sickness and in health...
 01:27:49,290 --> 01:27:55,059
 {\an8}That day, loving you like a confidante
 
-948
+947
 01:27:55,115 --> 01:27:58,326
 {\an8}Transforming into tomorrow's distance
 
-947
+948
 01:27:55,167 --> 01:27:57,325
 This kind of confusion in a girls' school
 

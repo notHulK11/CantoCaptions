@@ -142,8 +142,7 @@ def _explain_push_failure(stderr: str, branch: str) -> int:
     print()
     print("Committed locally, but the server rejected the push.")
     if stale:
-        print(f"`{branch}` moved on without you, most likely the normalize bot")
-        print("committing after your last pull. Run:")
+        print(f"`{branch}` has new commits since your last pull. Run:")
         print()
         print("    git pull --rebase && git push")
     else:
@@ -164,7 +163,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--no-normalize",
         action="store_true",
-        help="Check only; don't rewrite files. Use before the repo-wide migration.",
+        help="Check only; don't tidy or renumber files.",
     )
     args = parser.parse_args(argv)
 
@@ -281,7 +280,6 @@ def main(argv: list[str] | None = None) -> int:
         return _explain_push_failure(push.stderr, original_branch)
 
     print("\nDone. Pushed to main.")
-    print("The normalize bot may add a follow-up commit; `git pull` before your next edit.")
     return 0
 
 

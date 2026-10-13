@@ -1,1971 +1,1971 @@
-8107
+1
 00:00:08,107 --> 00:00:09,587
 As if in a dreamland
 
-9847
+2
 00:00:09,847 --> 00:00:11,400
 Magical powers given to me
 
-11760
+3
 00:00:11,760 --> 00:00:13,527
 The bag's treasures
 
-15900
+4
 00:00:15,900 --> 00:00:17,420
 Traveling together in the universe
 
-17687
+5
 00:00:17,687 --> 00:00:19,346
 Capturing above the galaxy
 
-19460
+6
 00:00:19,460 --> 00:00:21,553
 The beauty of time
 
-23473
+7
 00:00:23,473 --> 00:00:25,220
 If problems are encountered
 
-25440
+8
 00:00:25,440 --> 00:00:30,313
 Transforming anytime and anywhere, seemingly full of inspiration
 
-30726
+9
 00:00:30,726 --> 00:00:33,080
 Quickly fly to a delightful and carefree paradise
 
-33230
+10
 00:00:33,230 --> 00:00:35,030
 Holding hands with the starlight
 
-35055
+11
 00:00:35,055 --> 00:00:37,752
 Dancing and shimmering
 
-39133
+12
 00:00:39,133 --> 00:00:42,693
 Casually step through this door
 
-42967
+13
 00:00:42,967 --> 00:00:46,647
 Achieve ideals, dreams come true
 
-47047
+14
 00:00:47,047 --> 00:00:50,674
 Across railways and the countryside
 
-50847
+15
 00:00:50,847 --> 00:00:54,414
 In an instant, the Dream Express reappears
 
-54774
+16
 00:00:54,774 --> 00:00:55,960
 sha la la la la
 
-56147
+17
 00:00:56,147 --> 00:00:58,567
 Accompany me to sing together
 
-58774
+18
 00:00:58,774 --> 00:01:00,000
 Singing Encore loudly
 
-60100
+19
 00:01:00,100 --> 00:01:02,566
 Let's go have fun marching
 
-62620
+20
 00:01:02,620 --> 00:01:03,847
 Doraemon
 
-63960
+21
 00:01:03,960 --> 00:01:05,893
 Let this moment not grow old
 
-65920
+22
 00:01:05,920 --> 00:01:09,967
 Dreams can finally be achieved
 
-70347
+23
 00:01:10,347 --> 00:01:11,587
 sha la la la la
 
-71767
+24
 00:01:11,767 --> 00:01:14,000
 Accompany me to sing together
 
-74340
+25
 00:01:14,340 --> 00:01:15,540
 Singing aloud
 
-75847
+26
 00:01:15,847 --> 00:01:18,137
 Let's go for a stroll together
 
-78291
+27
 00:01:18,291 --> 00:01:19,524
 Doraemon
 
-79591
+28
 00:01:19,591 --> 00:01:21,531
 Let this moment not grow old
 
-81584
+29
 00:01:21,584 --> 00:01:28,917
 Beautiful scenery will be seen
 
-91338
+30
 00:01:31,338 --> 00:01:34,328
 [Moving House with a Relocation Map]
 
-106094
+31
 00:01:46,094 --> 00:01:48,421
 Nobita, you're late again!
 
-110634
+32
 00:01:50,634 --> 00:01:51,468
 That's right...
 
-111509
+33
 00:01:51,509 --> 00:01:52,960
 Nobita, you're outrageous!
 
-113001
+34
 00:01:53,001 --> 00:01:54,347
 You're always late!
 
-114388
+35
 00:01:54,388 --> 00:01:56,768
 Why are you so slow at everything you do?
 
-117406
+36
 00:01:57,406 --> 00:01:59,905
 You just need to leave a little earlier!
 
-119946
+37
 00:01:59,946 --> 00:02:01,679
 I know, but...
 
-121720
+38
 00:02:01,720 --> 00:02:04,160
 I, for one, have never been late!
 
-124836
+39
 00:02:04,836 --> 00:02:08,562
 Because my house is right next to the school
 
-131573
+40
 00:02:11,573 --> 00:02:13,377
 You're so lucky
 
-135470
+41
 00:02:15,470 --> 00:02:18,025
 Mom, I have something to ask you
 
-138196
+42
 00:02:18,196 --> 00:02:20,129
 Something to ask me, what is it?
 
-140170
+43
 00:02:20,170 --> 00:02:22,701
 Can we move next to school?
 
-142742
+44
 00:02:22,742 --> 00:02:25,207
 Living closer to school means I won't be late anymore
 
-145248
+45
 00:02:25,248 --> 00:02:27,194
 Don't say such impossible things!
 
-147235
+46
 00:02:27,235 --> 00:02:29,134
 You just need to wake up earlier!
 
-150430
+47
 00:02:30,430 --> 00:02:31,877
 There are still other ways...
 
-151917
+48
 00:02:31,917 --> 00:02:34,190
 We could just move the school next to our house
 
-155378
+49
 00:02:35,378 --> 00:02:36,258
 Move the school?
 
-156299
+50
 00:02:36,299 --> 00:02:37,883
 Just use this!
 
-159737
+51
 00:02:39,737 --> 00:02:41,782
 "Relocation Map"
 
-162520
+52
 00:02:42,520 --> 00:02:45,122
 First, call out the place you want to move the building to
 
-165162
+53
 00:02:45,162 --> 00:02:46,535
 Our district!
 
-169860
+54
 00:02:49,860 --> 00:02:51,855
 That's the school
 
-171979
+55
 00:02:51,979 --> 00:02:53,515
 This is this house
 
-173876
+56
 00:02:53,876 --> 00:02:56,765
 First, peel off the school sticker
 
-178877
+57
 00:02:58,877 --> 00:03:01,369
 Then peel off the stickers of the houses in front of our house
 
-181410
+58
 00:03:01,410 --> 00:03:04,280
 Swap them and stick them all back down, done!
 
-184321
+59
 00:03:04,321 --> 00:03:05,701
 What happens after that?
 
-185748
+60
 00:03:05,748 --> 00:03:07,555
 Look out the window and see
 
-192249
+61
 00:03:12,249 --> 00:03:13,544
 Like this?
 
-194210
+62
 00:03:14,210 --> 00:03:16,541
 The school is right in front of the house!
 
-197023
+63
 00:03:17,023 --> 00:03:19,290
 It will become the same as the map
 
-201090
+64
 00:03:21,090 --> 00:03:22,535
 Amazing!
 
-204563
+65
 00:03:24,563 --> 00:03:27,208
 This way you won't have to worry about being late anymore
 
-209163
+66
 00:03:29,163 --> 00:03:31,249
 Thank you, Doraemon
 
-216113
+67
 00:03:36,113 --> 00:03:38,893
 So Nobita's house is this close?
 
-220618
+68
 00:03:40,618 --> 00:03:41,996
 Oh, right
 
-222497
+69
 00:03:42,497 --> 00:03:45,052
 I should pay Nobita's house a visit
 
-229221
+70
 00:03:49,221 --> 00:03:51,681
 Well, I just needed to make a surprise visit
 
-231721
+71
 00:03:51,721 --> 00:03:54,480
 to talk about Nobita's score disparity
 
-235847
+72
 00:03:55,847 --> 00:03:57,895
 Please be stricter
 
-237935
+73
 00:03:57,935 --> 00:04:00,174
 Urge Nobita to study harder
 
-240215
+74
 00:04:00,215 --> 00:04:01,270
 Yes
 
-242537
+75
 00:04:02,537 --> 00:04:03,843
 Next time
 
-244110
+76
 00:04:04,110 --> 00:04:06,760
 If you don't get a better score, I won't let you go!
 
-248293
+77
 00:04:08,293 --> 00:04:09,635
 Outrageous
 
-250679
+78
 00:04:10,679 --> 00:04:11,926
 First of all
 
-251966
+79
 00:04:11,966 --> 00:04:14,332
 Go to the bank, then go to the supermarket
 
-254372
+80
 00:04:14,372 --> 00:04:16,118
 What should we have for dinner?
 
-257813
+81
 00:04:17,813 --> 00:04:21,125
 Thinking about it, school so close to home isn't that great
 
-261166
+82
 00:04:21,166 --> 00:04:22,938
 As long as you are willing to study a bit more seriously
 
-262978
+83
 00:04:22,978 --> 00:04:25,055
 then there won't be any problems
 
-265125
+84
 00:04:25,125 --> 00:04:27,164
 Don't say such discouraging things
 
-267205
+85
 00:04:27,205 --> 00:04:28,181
 Nobita
 
-268554
+86
 00:04:28,554 --> 00:04:30,561
 Sorry, this is an urgent letter
 
-270601
+87
 00:04:30,601 --> 00:04:32,874
 Go to the post office and mail it for me right away
 
-273701
+88
 00:04:33,701 --> 00:04:36,262
 By the way, buy me some stamps
 
-277040
+89
 00:04:37,040 --> 00:04:40,001
 To the post office? It's a long way to walk
 
-280042
+90
 00:04:40,042 --> 00:04:41,710
 Okay, we'll move the post office
 
-281750
+91
 00:04:41,750 --> 00:04:43,803
 next to our house!
 
-284196
+92
 00:04:44,196 --> 00:04:47,475
 Okay, swap this one and this one
 
-293487
+93
 00:04:53,487 --> 00:04:54,780
 Here, Dad
 
-297569
+94
 00:04:57,569 --> 00:04:59,040
 So fast?
 
-299633
+95
 00:04:59,633 --> 00:05:00,534
 So clever!
 
-300575
+96
 00:05:00,575 --> 00:05:02,848
 Move some more over here, we can make it even more convenient!
 
-302889
+97
 00:05:02,889 --> 00:05:03,681
 Okay!
 
-304130
+98
 00:05:04,130 --> 00:05:06,373
 Let's turn the back of the house into a park
 
-309221
+99
 00:05:09,221 --> 00:05:11,958
 Let's put Shizuka's house next to ours
 
-313791
+100
 00:05:13,791 --> 00:05:17,331
 Now I can see Shizuka every day with ease!
 
-328736
+101
 00:05:28,736 --> 00:05:31,709
 Becoming neighbors, there will still be such things
 
-332170
+102
 00:05:32,170 --> 00:05:33,772
 In order to be able to play conveniently
 
-333812
+103
 00:05:33,812 --> 00:05:35,805
 Put the vacant lot next to us
 
-335846
+104
 00:05:35,846 --> 00:05:37,988
 Full attack, Gian!
 
-341350
+105
 00:05:41,350 --> 00:05:43,210
 - So sorry!
 - So sorry!
 
-352757
+106
 00:05:52,757 --> 00:05:55,977
 Huh? This isn't Mr. Shigemi's house?
 
-356018
+107
 00:05:56,018 --> 00:05:57,677
 It's Nobita's house
 
-358385
+108
 00:05:58,385 --> 00:06:00,233
 Gian, Suneo
 
-361199
+109
 00:06:01,199 --> 00:06:02,218
 Nobita
 
-362319
+110
 00:06:02,319 --> 00:06:03,826
 What are you doing?
 
-367137
+111
 00:06:07,137 --> 00:06:09,764
 You can change this area however you want with this?
 
-369805
+112
 00:06:09,805 --> 00:06:11,478
 It sounds interesting
 
-372252
+113
 00:06:12,252 --> 00:06:13,765
 Let us try it too
 
-374638
+114
 00:06:14,638 --> 00:06:15,905
 Okay!
 
-376410
+115
 00:06:16,410 --> 00:06:17,580
 First…
 
-377621
+116
 00:06:17,621 --> 00:06:20,528
 Move the toy store next to my house
 
-382253
+117
 00:06:22,253 --> 00:06:25,693
 Move the bookstore that sells a lot of comics over here
 
-385913
+118
 00:06:25,913 --> 00:06:28,487
 Move the shop that sells red bean paste buns here
 
-388580
+119
 00:06:28,580 --> 00:06:29,466
 That's right
 
-389507
+120
 00:06:29,507 --> 00:06:31,767
 My home should also move near the open lot
 
-394758
+121
 00:06:34,758 --> 00:06:36,785
 You mean near my home?
 
-397059
+122
 00:06:37,059 --> 00:06:38,326
 If you want to move
 
-398366
+123
 00:06:38,366 --> 00:06:40,965
 How about moving to a more open place
 
-401344
+124
 00:06:41,344 --> 00:06:42,598
 Oh, that's good
 
-404965
+125
 00:06:44,965 --> 00:06:46,680
 No…
 
-406720
+126
 00:06:46,720 --> 00:06:48,635
 Isn't near the school better?
 
-408729
+127
 00:06:48,729 --> 00:06:50,176
 Convenient, right?
 
-410217
+128
 00:06:50,217 --> 00:06:52,395
 Oh, yeah, that sounds good
 
-415053
+129
 00:06:55,053 --> 00:06:57,886
 But there are so many mansions here
 
-421679
+130
 00:07:01,679 --> 00:07:02,565
 Right
 
-422606
+131
 00:07:02,606 --> 00:07:05,499
 Why don’t you move to a place with a better view?
 
-427313
+132
 00:07:07,313 --> 00:07:08,440
 That's good too
 
-428600
+133
 00:07:08,600 --> 00:07:10,193
 Here is good
 
-433049
+134
 00:07:13,049 --> 00:07:14,216
 Are you guys
 
-434256
+135
 00:07:14,256 --> 00:07:16,197
 Really unwilling to be near me?
 
-436308
+136
 00:07:16,308 --> 00:07:17,923
 No, how could that be?
 
-438470
+137
 00:07:18,470 --> 00:07:20,157
 No, no
 No, no
 
-441640
+138
 00:07:21,640 --> 00:07:23,980
 Alright, we need to hurry back
 
-448947
+139
 00:07:28,947 --> 00:07:32,181
 Huh? It seems to have changed since just now
 
-456355
+140
 00:07:36,355 --> 00:07:38,808
 There's a house like this here?
 
-460062
+141
 00:07:40,062 --> 00:07:41,942
 Which direction is it?
 
-461983
+142
 00:07:41,983 --> 00:07:43,680
 Uh... let me think...
 
-463734
+143
 00:07:43,734 --> 00:07:45,841
 I remember now, it's that intersection
 
-471679
+144
 00:07:51,679 --> 00:07:52,792
 Change it a bit more!
 
-472833
+145
 00:07:52,833 --> 00:07:54,233
 - Yes!
 - Hey, Nobita!
 
-474433
+146
 00:07:54,433 --> 00:07:55,619
 Doraemon!
 
-475819
+147
 00:07:55,819 --> 00:07:57,193
 - Yes!
 - Yes!
 
-478686
+148
 00:07:58,686 --> 00:08:00,158
 - How about this one?
 - Okay
 
-480345
+149
 00:08:00,345 --> 00:08:03,757
 Mom went out to buy something, but she's taking a long time to come back
 
-483798
+150
 00:08:03,798 --> 00:08:05,884
 Did he say anything?
 
-487220
+151
 00:08:07,220 --> 00:08:08,403
 Could it be...
 
-488717
+152
 00:08:08,717 --> 00:08:10,878
 Mom got lost and can't find her way home?
 
-492678
+153
 00:08:12,678 --> 00:08:14,830
 Quick, we have to go pick up Mom!
 
-494960
+154
 00:08:14,960 --> 00:08:16,095
 Mom!
 
-496570
+155
 00:08:16,570 --> 00:08:18,450
 Where on earth did Nobita go?
 
-498491
+156
 00:08:18,491 --> 00:08:19,771
 Suneo, how about we think of something...
 
-499811
+157
 00:08:19,811 --> 00:08:22,248
 You ought to move something more interesting here.
 
-502289
+158
 00:08:22,289 --> 00:08:23,711
 Oh, is that so...
 
-505025
+159
 00:08:25,025 --> 00:08:26,905
 There's also a piece of paper stuck to the bottom.
 
-506946
+160
 00:08:26,946 --> 00:08:27,810
 Well, then
 
-507851
+161
 00:08:27,851 --> 00:08:30,304
 We can use that paper to display other places
 
-510363
+162
 00:08:30,363 --> 00:08:32,430
 Let's move those over here!
 
-512471
+163
 00:08:32,471 --> 00:08:35,098
 Move all the tourist spots around the world here!
 
-515411
+164
 00:08:35,411 --> 00:08:37,399
 Which attractions should we move first?
 
-517932
+165
 00:08:37,932 --> 00:08:39,756
 Where did Mom go?
 
-519797
+166
 00:08:39,797 --> 00:08:41,955
 It must be the supermarket she usually goes to!
 
-523248
+167
 00:08:43,248 --> 00:08:45,622
 The supermarket is at the corner of the bakery!
 
-525663
+168
 00:08:45,663 --> 00:08:46,796
 No, wait a moment
 
-526836
+169
 00:08:46,836 --> 00:08:49,543
 I remember the bakery and the fish shop were swapped
 
-531239
+170
 00:08:51,239 --> 00:08:53,194
 Where is the fish shop?
 
-533834
+171
 00:08:53,834 --> 00:08:55,801
 I don't know anymore.
 
-536659
+172
 00:08:56,659 --> 00:08:57,885
 Officer!
 
-538080
+173
 00:08:58,080 --> 00:09:00,300
 Excuse me, where is the supermarket?
 
-540340
+174
 00:09:00,340 --> 00:09:01,206
 I'm sorry
 
-541246
+175
 00:09:01,246 --> 00:09:03,713
 I don't even know where the police box is
 
-545153
+176
 00:09:05,153 --> 00:09:06,470
 This won't do
 
-546511
+177
 00:09:06,511 --> 00:09:07,928
 It must be over there!
 
-554493
+178
 00:09:14,493 --> 00:09:17,741
 It must be Gian and Suneo messing with the map again
 
-557782
+179
 00:09:17,782 --> 00:09:20,468
 We need to find Mom quickly now!
 
-573822
+180
 00:09:33,822 --> 00:09:34,435
 Right
 
-574475
+181
 00:09:34,475 --> 00:09:37,295
 Since we're changing it anyway, why not make it an international city?
 
-577336
+182
 00:09:37,336 --> 00:09:38,335
 Okay!
 
-578954
+183
 00:09:38,954 --> 00:09:42,186
 I remember turning left at this laundromat
 
-585541
+184
 00:09:45,541 --> 00:09:46,495
 Huh?
 
-586535
+185
 00:09:46,535 --> 00:09:49,661
 Mr. Yamada's house reconstruction is gorgeous
 
-591186
+186
 00:09:51,186 --> 00:09:53,129
 I remember, after passing through this alley
 
-593169
+187
 00:09:53,169 --> 00:09:54,782
 should be the shopping street
 
-603237
+188
 00:10:03,237 --> 00:10:05,464
 Buongiorno, signora
 
-605971
+189
 00:10:05,971 --> 00:10:06,751
 Buongior...
 
-606792
+190
 00:10:06,792 --> 00:10:10,140
 Signorina, feel free to look and shop
 
-610366
+191
 00:10:10,366 --> 00:10:12,333
 Yes, the weather is great today.
 
-612680
+192
 00:10:12,680 --> 00:10:14,267
 Where is this place?
 
-626031
+193
 00:10:26,031 --> 00:10:27,948
 Even the Statue of Liberty...
 
-627989
+194
 00:10:27,989 --> 00:10:30,702
 At this point, all we can do is go to the sky to find Mom
 
-639522
+195
 00:10:39,522 --> 00:10:41,881
 The mountain behind turned into a pyramid!
 
-652769
+196
 00:10:52,769 --> 00:10:57,348
 Strong and robust, incredibly impressive!
 
-657389
+197
 00:10:57,389 --> 00:11:01,050
 My name is Gian!
 
-661363
+198
 00:11:01,363 --> 00:11:05,347
 With all my heart, I have high tension!
 
-665736
+199
 00:11:05,736 --> 00:11:09,510
 I am a little overlord!
 
-673979
+200
 00:11:13,979 --> 00:11:18,302
 Debut to the whole world!
 
-682632
+201
 00:11:22,632 --> 00:11:26,405
 Gian is here!
 
-688153
+202
 00:11:28,153 --> 00:11:31,106
 Gian and his gang are causing chaos
 
-701073
+203
 00:11:41,073 --> 00:11:42,933
 Mom!
 
-704670
+204
 00:11:44,670 --> 00:11:46,798
 Nobita, Doraemon!
 
-708570
+205
 00:11:48,570 --> 00:11:51,030
 Mom, I miss you so much
 
-715159
+206
 00:11:55,159 --> 00:11:56,606
 This is outrageous!
 
-716647
+207
 00:11:56,647 --> 00:11:59,339
 Restore everything immediately!
 
-720567
+208
 00:12:00,567 --> 00:12:02,879
 - I'm really sorry!
 - I'm really sorry!
 
-723886
+209
 00:12:03,886 --> 00:12:06,709
 This belongs here, this belongs here
 
-726750
+210
 00:12:06,750 --> 00:12:08,832
 Is the Eiffel Tower in Egypt?
 
-728873
+211
 00:12:08,873 --> 00:12:10,312
 It's in France
 
-731278
+212
 00:12:11,278 --> 00:12:13,425
 I have no idea what to put where
 
-737986
+213
 00:12:17,986 --> 00:12:19,271
 I'm going to school!
 
-742073
+214
 00:12:22,073 --> 00:12:24,420
 Great, I won't be late today
 
-747113
+215
 00:12:27,113 --> 00:12:29,206
 How could this happen? I have no idea
 
-749247
+216
 00:12:29,247 --> 00:12:31,152
 The school building was rebuilt?
 
-753080
+217
 00:12:33,080 --> 00:12:36,034
 It seems we left the school here
 
-758494
+218
 00:12:38,494 --> 00:12:40,220
 I'm so tired
 
-763493
+219
 00:12:43,493 --> 00:12:45,993
 [Advertising with a Mirror]
 
-767365
+220
 00:12:47,365 --> 00:12:50,512
 Mom, can I have an extra 300 yen for allowance?
 
-770553
+221
 00:12:50,553 --> 00:12:53,332
 No, you need to save your money through to the end of the month
 
-773373
+222
 00:12:53,373 --> 00:12:55,153
 Mom, please help me out
 
-775194
+223
 00:12:55,194 --> 00:12:57,649
 There's a manga I really want to buy
 
-781218
+224
 00:13:01,218 --> 00:13:06,224
 - There's a monster!
 - There's a monster!
 
-790783
+225
 00:13:10,783 --> 00:13:12,776
 It's the same monster as before!
 
-792817
+226
 00:13:12,817 --> 00:13:14,610
 What's going on?
 
-795189
+227
 00:13:15,189 --> 00:13:17,289
 I did a little experiment
 
-799370
+228
 00:13:19,370 --> 00:13:21,596
 "Image Projection Mirror"
 
-802309
+229
 00:13:22,309 --> 00:13:23,790
 The image that this mirror reflects
 
-803830
+230
 00:13:23,830 --> 00:13:26,143
 will also be displayed on other mirrors
 
-807650
+231
 00:13:27,650 --> 00:13:29,928
 its projection range can be adjusted at will
 
-809968
+232
 00:13:29,968 --> 00:13:32,447
 from the house to the entire town
 
-812870
+233
 00:13:32,870 --> 00:13:34,252
 Set to automatic mode
 
-814292
+234
 00:13:34,292 --> 00:13:36,778
 It will automatically project when someone looks in the mirror
 
-816815
+235
 00:13:36,815 --> 00:13:38,739
 You really scared me just now!
 
-818792
+236
 00:13:38,792 --> 00:13:39,870
 That's right
 
-819910
+237
 00:13:39,910 --> 00:13:41,951
 I was so scared my heart almost jumped out
 
-821992
+238
 00:13:41,992 --> 00:13:43,212
 So sorry
 
-823253
+239
 00:13:43,253 --> 00:13:45,731
 But what's the use of this gadget of yours?
 
-825772
+240
 00:13:45,772 --> 00:13:47,298
 It's completely useless
 
-827451
+241
 00:13:47,451 --> 00:13:50,240
 At most, it can be used to scare people like just now
 
-830397
+242
 00:13:50,397 --> 00:13:52,602
 Actually, keeping it here is also quite useless
 
-832969
+243
 00:13:52,969 --> 00:13:54,030
 Break it, then
 
-834070
+244
 00:13:54,070 --> 00:13:54,930
 Wait!
 
-835170
+245
 00:13:55,170 --> 00:13:56,802
 That would be a pity
 
-836843
+246
 00:13:56,843 --> 00:13:58,226
 Let's think about it more
 
-838267
+247
 00:13:58,267 --> 00:14:00,800
 Maybe we can think of a good use for it?
 
-840841
+248
 00:14:00,841 --> 00:14:03,353
 What? I don't think it's possible
 
-848799
+249
 00:14:08,799 --> 00:14:10,625
 What use could it possibly have?
 
-852039
+250
 00:14:12,039 --> 00:14:14,185
 I think it should be useful
 
-858168
+251
 00:14:18,168 --> 00:14:20,582
 I still can't think of anything
 
-861208
+252
 00:14:21,208 --> 00:14:23,161
 The latest issue of the "Happy Bug" comic
 
-863202
+253
 00:14:23,202 --> 00:14:25,028
 This month's cover looks like this
 
-866696
+254
 00:14:26,696 --> 00:14:28,699
 That comic I really want to read
 
-871870
+255
 00:14:31,870 --> 00:14:34,726
 I've got it, I've thought of a great use!
 
-874913
+256
 00:14:34,913 --> 00:14:36,226
 It's advertising!
 
-876337
+257
 00:14:36,337 --> 00:14:38,445
 Let's get all the stores's advertisements!
 
-878485
+258
 00:14:38,485 --> 00:14:41,011
 Then we'll broadcast advertisements on all the mirrors in the city!
 
-881605
+259
 00:14:41,605 --> 00:14:42,830
 So that's it!
 
-882870
+260
 00:14:42,870 --> 00:14:44,727
 Nobita, you're so smart!
 
-885600
+261
 00:14:45,600 --> 00:14:47,300
 We can make some money!
 
-888296
+262
 00:14:48,296 --> 00:14:48,950
 Like this
 
-888990
+263
 00:14:48,990 --> 00:14:51,930
 A 15-second ad costs the client 100 yen
 
-891970
+264
 00:14:51,970 --> 00:14:53,958
 There are 60 minutes in an hour
 
-893999
+265
 00:14:53,999 --> 00:14:55,624
 So that means…
 
-897516
+266
 00:14:57,516 --> 00:15:00,403
 Oh dear, it might take a whole hour to calculate how much!
 
-900444
+267
 00:15:00,444 --> 00:15:01,971
 That's 24,000 yen
 
-902204
+268
 00:15:02,204 --> 00:15:03,370
 That much?
 
-903410
+269
 00:15:03,410 --> 00:15:04,461
 If there's that much
 
-904501
+270
 00:15:04,501 --> 00:15:06,707
 The comics I couldn't buy before, I can buy them now!
 
-906748
+271
 00:15:06,748 --> 00:15:08,950
 We can even eat red bean paste buns as much as we want
 
-909127
+272
 00:15:09,127 --> 00:15:09,744
 Alright!
 
-909785
+273
 00:15:09,785 --> 00:15:12,209
 We'll start looking for advertising clients tomorrow!
 
-912250
+274
 00:15:12,250 --> 00:15:13,470
 Okay!
 
-917710
+275
 00:15:17,710 --> 00:15:20,231
 Since we're going to look for advertising clients
 
-924732
+276
 00:15:24,732 --> 00:15:26,838
 We should dress more presentably
 
-926930
+277
 00:15:26,930 --> 00:15:28,618
 - We're leaving!
 - We're leaving!
 
-930832
+278
 00:15:30,832 --> 00:15:31,579
 Hello!
 
-931619
+279
 00:15:31,619 --> 00:15:32,879
 Sorry to bother you!
 
-933988
+280
 00:15:33,988 --> 00:15:35,042
 Advertising?
 
-935083
+281
 00:15:35,083 --> 00:15:37,442
 Yes, as long as you use this image projector
 
-937482
+282
 00:15:37,482 --> 00:15:39,102
 you can project it onto nearby mirrors
 
-939142
+283
 00:15:39,142 --> 00:15:41,315
 and advertise the products you want to promote!
 
-941468
+284
 00:15:41,468 --> 00:15:42,408
 Doraemon
 
-942449
+285
 00:15:42,449 --> 00:15:43,600
 Yes, yes
 
-947654
+286
 00:15:47,654 --> 00:15:49,302
 Look, it's like this
 
-953037
+287
 00:15:53,037 --> 00:15:55,065
 But I don't need it
 
-955185
+288
 00:15:55,185 --> 00:15:57,898
 Nobody actually looks in the mirror all the time
 
-958063
+289
 00:15:58,063 --> 00:15:59,599
 Sir, please don't worry
 
-960690
+290
 00:16:00,690 --> 00:16:01,854
 It's not just mirrors
 
-961895
+291
 00:16:01,895 --> 00:16:03,415
 Glass and shiny floors
 
-963455
+292
 00:16:03,455 --> 00:16:05,641
 Anything reflective can project!
 
-968343
+293
 00:16:08,343 --> 00:16:09,718
 It's here too!
 
-969978
+294
 00:16:09,978 --> 00:16:12,812
 But advertising with mirrors feels unrealistic
 
-972852
+295
 00:16:12,852 --> 00:16:13,872
 Let's just forget it!
 
-973913
+296
 00:16:13,913 --> 00:16:15,431
 Don't say that
 
-975472
+297
 00:16:15,472 --> 00:16:17,704
 There will definitely be many customers
 
-977944
+298
 00:16:17,944 --> 00:16:19,190
 Welcome!
 
-979231
+299
 00:16:19,231 --> 00:16:20,643
 We have customers!
 
-980684
+300
 00:16:20,684 --> 00:16:22,117
 Please go
 
-982158
+301
 00:16:22,158 --> 00:16:23,563
 How could this happen?
 
-984130
+302
 00:16:24,130 --> 00:16:25,689
 Using mirrors for promotion?
 
-985730
+303
 00:16:25,730 --> 00:16:27,763
 With such good business, why promote?
 
-987804
+304
 00:16:27,804 --> 00:16:29,685
 We are already very busy
 
-989726
+305
 00:16:29,726 --> 00:16:31,142
 Using mirrors for promotion?
 
-991183
+306
 00:16:31,183 --> 00:16:32,555
 These kinds of sales tactics...
 
-992595
+307
 00:16:32,595 --> 00:16:33,822
 We are not interested
 
-993863
+308
 00:16:33,863 --> 00:16:35,435
 Our shop doesn't need it
 
-995482
+309
 00:16:35,482 --> 00:16:36,927
 We don't need it
 
-997235
+310
 00:16:37,235 --> 00:16:38,935
 -No thank you, please leave quickly
 -No thank you
 
-998976
+311
 00:16:38,976 --> 00:16:40,880
 - We don't need it, please go.
 - Hey, get outta here...
 
-1006070
+312
 00:16:46,070 --> 00:16:48,933
 It seems finding advertising clients is really hard
 
-1008974
+313
 00:16:48,974 --> 00:16:51,282
 Using mirrors to advertise, to attract attention
 
-1011322
+314
 00:16:51,322 --> 00:16:53,936
 I think this method is clearly good
 
-1014670
+315
 00:16:54,670 --> 00:16:56,713
 Complaining is not the solution
 
-1016926
+316
 00:16:56,926 --> 00:16:58,643
 First, we advertise using mirrors
 
-1018683
+317
 00:16:58,683 --> 00:17:00,683
 We'll promote it ourselves
 
-1020842
+318
 00:17:00,842 --> 00:17:01,922
 That's right
 
-1021969
+319
 00:17:01,969 --> 00:17:02,856
 In that case
 
-1022896
+320
 00:17:02,896 --> 00:17:04,902
 Let's just advertise for one shop
 
-1024943
+321
 00:17:04,943 --> 00:17:06,062
 Is that okay?
 
-1026983
+322
 00:17:06,983 --> 00:17:08,878
 As long as it goes smoothly, the other shops
 
-1028918
+323
 00:17:08,918 --> 00:17:11,758
 will definitely look for us to use mirror advertising!
 
-1031908
+324
 00:17:11,908 --> 00:17:14,728
 That's my Nobita, you're especially sharp today!
 
-1034769
+325
 00:17:14,769 --> 00:17:16,988
 Only today? Am I not usually sharp?
 
-1037680
+326
 00:17:17,680 --> 00:17:20,760
 I think we should find shops that aren't doing so well
 
-1041722
+327
 00:17:21,722 --> 00:17:23,473
 All the shops are doing great business
 
-1043514
+328
 00:17:23,514 --> 00:17:24,946
 Let's try looking in the side streets
 
-1048614
+329
 00:17:28,614 --> 00:17:30,140
 What about that shop?
 
-1050842
+330
 00:17:30,842 --> 00:17:32,069
 Sounds good
 
-1052345
+331
 00:17:32,345 --> 00:17:34,159
 It's run-down and deserted
 
-1054199
+332
 00:17:34,199 --> 00:17:35,864
 It looks like it could close down at any moment.
 
-1055905
+333
 00:17:35,905 --> 00:17:36,798
 It's simply a
 
-1056838
+334
 00:17:36,838 --> 00:17:39,485
 perfect shop for advertising and promotion!
 
-1060185
+335
 00:17:40,185 --> 00:17:41,414
 Excuse me.
 
-1061455
+336
 00:17:41,455 --> 00:17:43,608
 Run-down and could close down at any moment...
 
-1064051
+337
 00:17:44,051 --> 00:17:45,524
 Are you the owner of the shop?
 
-1065971
+338
 00:17:45,971 --> 00:17:47,131
 I'm sorry.
 
-1067172
+339
 00:17:47,172 --> 00:17:49,759
 It's okay, it's true
 
-1070824
+340
 00:17:50,824 --> 00:17:53,230
 Well, the shop does look run-down on the outside
 
-1073271
+341
 00:17:53,271 --> 00:17:55,318
 But it's actually very clean
 
-1076934
+342
 00:17:56,934 --> 00:17:58,314
 That's true
 
-1078355
+343
 00:17:58,355 --> 00:17:59,944
 It's sparkling
 
-1080180
+344
 00:18:00,180 --> 00:18:02,871
 Even the floor is spotless
 
-1083070
+345
 00:18:03,070 --> 00:18:05,250
 Come, are you interested in trying some?
 
-1086164
+346
 00:18:06,164 --> 00:18:07,764
 Such beautiful wagashi
 
-1087805
+347
 00:18:07,805 --> 00:18:09,578
 The colors look very beautiful
 
-1089619
+348
 00:18:09,619 --> 00:18:11,514
 Wagashi are not only tasty
 
-1091554
+349
 00:18:11,554 --> 00:18:12,971
 They also have beautiful appearances
 
-1093011
+350
 00:18:13,011 --> 00:18:15,857
 And a seasonal feel and delicate craftsmanship
 
-1095915
+351
 00:18:15,915 --> 00:18:17,587
 Then I'll help myself
 
-1098770
+352
 00:18:18,770 --> 00:18:19,850
 Wow, this is delicious!
 
-1102530
+353
 00:18:22,530 --> 00:18:24,144
 - Yummy!
 - Yummy!
 
-1104185
+354
 00:18:24,185 --> 00:18:27,987
 That soft and rich sweetness fills my mouth!
 
-1108041
+355
 00:18:28,041 --> 00:18:29,368
 Oh, yeah?
 
-1109490
+356
 00:18:29,490 --> 00:18:32,044
 In that case, please try the red bean bun too
 
-1113482
+357
 00:18:33,482 --> 00:18:36,470
 Red bean bun, I'll help myself!
 
-1118816
+358
 00:18:38,816 --> 00:18:42,580
 The bun is very soft, with delicate red bean paste
 
-1122647
+359
 00:18:42,647 --> 00:18:44,740
 This is exquisite!
 
-1125000
+360
 00:18:45,000 --> 00:18:46,530
 But even if it tastes so good
 
-1126576
+361
 00:18:46,576 --> 00:18:48,670
 why aren't customers coming to eat here?
 
-1128920
+362
 00:18:48,920 --> 00:18:50,574
 Ever since the big street outside was rebuilt
 
-1130614
+363
 00:18:50,614 --> 00:18:52,705
 into a new shopping street
 
-1132746
+364
 00:18:52,746 --> 00:18:55,379
 absolutely no customers have been coming to buy stuff.
 
-1135536
+365
 00:18:55,536 --> 00:18:58,077
 Originally, I had thought about renovating the shop
 
-1138118
+366
 00:18:58,118 --> 00:19:00,537
 But there are simply no customers coming
 
-1141150
+367
 00:19:01,150 --> 00:19:03,076
 It's really quite a headache
 
-1144242
+368
 00:19:04,242 --> 00:19:06,457
 Please rest easy, leave it to me!
 
-1146677
+369
 00:19:06,677 --> 00:19:08,492
 Let's make advertisements for Araware
 
-1148533
+370
 00:19:08,533 --> 00:19:10,565
 And turn this place into the bustling
 
-1150605
+371
 00:19:10,605 --> 00:19:12,292
 most popular shop!
 
-1152922
+372
 00:19:12,922 --> 00:19:14,155
 Impossible
 
-1154196
+373
 00:19:14,196 --> 00:19:17,081
 Also, I don't have the money to film commercials
 
-1157156
+374
 00:19:17,156 --> 00:19:19,082
 I won't charge any fees
 
-1160092
+375
 00:19:20,092 --> 00:19:23,126
 We hope as many people as possible can know that this shop
 
-1163166
+376
 00:19:23,166 --> 00:19:26,424
 Has such delicious red bean buns and wagashi!
 
-1166465
+377
 00:19:26,465 --> 00:19:27,839
 Could that really work?
 
-1169230
+378
 00:19:29,230 --> 00:19:30,051
 Alright
 
-1170091
+379
 00:19:30,091 --> 00:19:32,764
 The broadcast range will be set to the entire city
 
-1172805
+380
 00:19:32,805 --> 00:19:33,378
 Well, then
 
-1173418
+381
 00:19:33,418 --> 00:19:36,217
 The promotion will use these two types of wagashi, right?
 
-1176258
+382
 00:19:36,258 --> 00:19:37,128
 Yes
 
-1177208
+383
 00:19:37,208 --> 00:19:38,759
 But you don't even have a camera
 
-1178799
+384
 00:19:38,799 --> 00:19:40,778
 How can we film the advertisement?
 
-1180938
+385
 00:19:40,938 --> 00:19:42,395
 Leave it to us
 
-1182436
+386
 00:19:42,436 --> 00:19:44,108
 Doraemon, are you ready?
 
-1184255
+387
 00:19:44,255 --> 00:19:45,282
 Ready
 
-1185628
+388
 00:19:45,628 --> 00:19:47,288
 Let's start then!
 
-1187558
+389
 00:19:47,558 --> 00:19:48,965
 Counting down five seconds
 
-1189006
+390
 00:19:49,006 --> 00:19:52,746
 Four, three, two, one
 
-1192979
+391
 00:19:52,979 --> 00:19:53,979
 Start!
 
-1194370
+392
 00:19:54,370 --> 00:19:55,905
 What do you think of this one?
 
-1196004
+393
 00:19:56,004 --> 00:19:58,231
 With a big mirror attached
 
-1198272
+394
 00:19:58,272 --> 00:20:01,279
 Araware's wagashi are the triple crown of wagashi!
 
-1201719
+395
 00:20:01,719 --> 00:20:03,511
 Red bean buns are on a big sale!
 
-1204598
+396
 00:20:04,598 --> 00:20:06,972
 Red bean buns are only 80 yen!
 
-1209425
+397
 00:20:09,425 --> 00:20:12,564
 Araware's red bean buns are usually not available for 80 yen!
 
-1212644
+398
 00:20:12,644 --> 00:20:14,311
 Hey, what's going on?
 
-1214670
+399
 00:20:14,670 --> 00:20:17,377
 In short, it's very delicious, great value, and number one in Japan!
 
-1217418
+400
 00:20:17,418 --> 00:20:18,904
 Nobita, you're so mean!
 
-1218990
+401
 00:20:18,990 --> 00:20:20,864
 Araware...
 
-1221030
+402
 00:20:21,030 --> 00:20:24,019
 - Araware...
 - Araware...
 
-1224060
+403
 00:20:24,060 --> 00:20:26,100
 Nobita, those two?
 
-1227721
+404
 00:20:27,721 --> 00:20:30,811
 Customers should be coming soon
 
-1230852
+405
 00:20:30,852 --> 00:20:33,145
 Why isn't anyone coming?
 
-1233431
+406
 00:20:33,431 --> 00:20:35,351
 Let me go see what's going on
 
-1236772
+407
 00:20:36,772 --> 00:20:38,592
 There are no customers
 
-1238633
+408
 00:20:38,633 --> 00:20:39,656
 Here it is!
 
-1240141
+409
 00:20:40,141 --> 00:20:41,348
 It's that kid!
 
-1241455
+410
 00:20:41,455 --> 00:20:42,948
 Here they come, customers!
 
-1242989
+411
 00:20:42,989 --> 00:20:44,078
 Get him!
 
-1247555
+412
 00:20:47,555 --> 00:20:48,729
 How could this happen?
 
-1248769
+413
 00:20:48,769 --> 00:20:50,528
 Why is everyone so angry?
 
-1250981
+414
 00:20:50,981 --> 00:20:52,974
 Nobita, hurry over here!
 
-1253087
+415
 00:20:53,087 --> 00:20:55,006
 - Doraemon!
 - Don't run...
 
-1258806
+416
 00:20:58,806 --> 00:20:59,853
 Strange
 
-1260120
+417
 00:21:00,120 --> 00:21:02,273
 Ads like that are a total nuisance!
 
-1263226
+418
 00:21:03,226 --> 00:21:04,287
 That scared me
 
-1264328
+419
 00:21:04,328 --> 00:21:05,727
 Hurry back
 
-1266322
+420
 00:21:06,322 --> 00:21:08,169
 Huh, everyone's angry?
 
-1268210
+421
 00:21:08,210 --> 00:21:09,189
 Yes
 
-1269230
+422
 00:21:09,230 --> 00:21:12,217
 That's why I didn't really want to advertise in the first place
 
-1272257
+423
 00:21:12,257 --> 00:21:13,803
 It's really asking for trouble
 
-1273844
+424
 00:21:13,844 --> 00:21:15,230
 - I'm sorry
 - I'm sorry
 
-1275271
+425
 00:21:15,271 --> 00:21:18,017
 Now customers will be even less likely to come
 
-1279260
+426
 00:21:19,260 --> 00:21:21,097
 What should we do now?
 
-1281420
+427
 00:21:21,420 --> 00:21:23,336
 If customers don't come and buy stuff
 
-1283615
+428
 00:21:23,615 --> 00:21:26,144
 this shop will close down very soon!
 
-1287466
+429
 00:21:27,466 --> 00:21:29,190
 It's our fault!
 
-1291662
+430
 00:21:31,662 --> 00:21:32,641
 - I'm sorry...
 - I'm sorry...
 
-1292682
+431
 00:21:32,682 --> 00:21:34,889
 The one who should be crying is me
 
-1297720
+432
 00:21:37,720 --> 00:21:39,119
 Forget it, it doesn't matter
 
-1299160
+433
 00:21:39,160 --> 00:21:40,659
 Please don't cry anymore
 
-1301260
+434
 00:21:41,260 --> 00:21:43,415
 Actually, this month is when I originally planned
 
-1303456
+435
 00:21:43,456 --> 00:21:44,999
 to close the shop
 
-1305879
+436
 00:21:45,879 --> 00:21:47,646
 Mr. Araware
 
-1308032
+437
 00:21:48,032 --> 00:21:49,211
 If you don't mind
 
-1309251
+438
 00:21:49,251 --> 00:21:52,265
 Please eat as much as you want of the pastries in the shop
 
-1312497
+439
 00:21:52,497 --> 00:21:54,160
 How can we accept this?
 
-1314200
+440
 00:21:54,200 --> 00:21:56,063
 We clearly couldn't help you at all
 
-1316107
+441
 00:21:56,107 --> 00:21:57,676
 And you still treat us to a meal?
 
-1317827
+442
 00:21:57,827 --> 00:22:00,465
 Even though it was only for a moment, I was very happy
 
-1320505
+443
 00:22:00,505 --> 00:22:02,178
 Thank you all very much
 
-1322364
+444
 00:22:02,364 --> 00:22:04,762
 And also, the way you ate with such enjoyment
 
-1324802
+445
 00:22:04,802 --> 00:22:06,562
 I really want to see it once more
 
-1326856
+446
 00:22:06,856 --> 00:22:07,976
 - Yes
 - Yes
 
-1329373
+447
 00:22:09,373 --> 00:22:11,183
 Help yourselves
 
-1340255
+448
 00:22:20,255 --> 00:22:22,117
 - Bon appetit!
 - Bon appetit!
 
-1343382
+449
 00:22:23,382 --> 00:22:24,757
 It's so tasty!
 
-1346063
+450
 00:22:26,063 --> 00:22:27,783
 So tasty, I can't stop eating!
 
-1348451
+451
 00:22:28,451 --> 00:22:29,591
 Another skewer!
 
-1349632
+452
 00:22:29,632 --> 00:22:31,118
 No fair, I want one too!
 
-1352086
+453
 00:22:32,086 --> 00:22:34,473
 - Yum!
 - Yum!
 
-1356383
+454
 00:22:36,383 --> 00:22:38,018
 Looks delicious
 
-1358765
+455
 00:22:38,765 --> 00:22:39,739
 Over there
 
-1360078
+456
 00:22:40,078 --> 00:22:42,999
 This pomelo cake is really tasty!
 
-1363455
+457
 00:22:43,455 --> 00:22:44,795
 It’s the one from earlier
 
-1365055
+458
 00:22:45,055 --> 00:22:47,177
 Kintsuba is also the best in the world!
 
-1367723
+459
 00:22:47,723 --> 00:22:50,011
 - Mom, buy that one for me
 - I can't believe how tasty it is
 
-1370330
+460
 00:22:50,330 --> 00:22:52,070
 So happy!
 
-1372111
+461
 00:22:52,111 --> 00:22:54,141
 That place is... Araware?
 
-1374487
+462
 00:22:54,487 --> 00:22:56,720
 I can't take it anymore, I need to go out for a bit.
 
-1377508
+463
 00:22:57,508 --> 00:22:58,642
 I'm going too.
 
-1379177
+464
 00:22:59,177 --> 00:23:00,957
 Hey, where are you guys going?
 
-1382568
+465
 00:23:02,568 --> 00:23:04,078
 I'm so full
 
-1384269
+466
 00:23:04,269 --> 00:23:06,445
 I'm already so full
 
-1386570
+467
 00:23:06,570 --> 00:23:09,041
 You're full? There's still a lot left.
 
-1389082
+468
 00:23:09,082 --> 00:23:10,907
 Excuse me, I'd like to buy kintsuba.
 
-1392077
+469
 00:23:12,077 --> 00:23:14,017
 I want red bean buns and kintsuba.
 
-1399796
+470
 00:23:19,796 --> 00:23:20,891
 Welcome!
 
-1400932
+471
 00:23:20,932 --> 00:23:22,111
 Yes, coming right up!
 
-1403679
+472
 00:23:23,679 --> 00:23:25,366
 Why are there suddenly so many people?
 
-1406610
+473
 00:23:26,610 --> 00:23:27,625
 It's this!
 
-1407666
+474
 00:23:27,666 --> 00:23:30,598
 The image projection mirror has been on the whole time, filming us
 
-1410769
+475
 00:23:30,769 --> 00:23:31,585
 Is that so?
 
-1416120
+476
 00:23:36,120 --> 00:23:38,386
 Please, everyone, do not push!
 
-1418520
+477
 00:23:38,520 --> 00:23:40,720
 - Thank you... Welcome, everyone!
 - Here are your red bean buns.
 
-1420761
+478
 00:23:40,761 --> 00:23:42,826
 This is too great, Mr. Araware.
 
-1423013
+479
 00:23:43,013 --> 00:23:44,933
 Yes, it's all thanks to you two!
 
-1424974
+480
 00:23:44,974 --> 00:23:46,100
 Thank you!
 
-1426141
+481
 00:23:46,141 --> 00:23:48,106
 Okay, these are yours
 
-1433028
+482
 00:23:53,028 --> 00:23:54,555
 Sha la la la la
 
-1434615
+483
 00:23:54,615 --> 00:23:57,054
 Accompany me to sing together
 
-1437141
+484
 00:23:57,141 --> 00:23:58,494
 Singing loudly
 
-1438548
+485
 00:23:58,548 --> 00:24:00,982
 Let's go have fun and step together
 
-1441161
+486
 00:24:01,161 --> 00:24:02,374
 Doraemon
 
-1442429
+487
 00:24:02,429 --> 00:24:04,408
 Let this moment not get old
 
-1444441
+488
 00:24:04,441 --> 00:24:10,818
 Beautiful scenery can be seen
