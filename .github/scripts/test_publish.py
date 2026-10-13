@@ -19,7 +19,7 @@ PUBLISH_PATH = Path(__file__).resolve().parent / "publish.py"
 SCRIPTS_DIR = Path(__file__).resolve().parent
 
 SEQUENTIAL = b"1\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
-CANONICAL = b"1000\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
+TIME_BASED = b"1000\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
 
 
 class ChangedSrtPathsTests(unittest.TestCase):
@@ -86,12 +86,12 @@ class PublishEndToEndTests(unittest.TestCase):
     def test_normalizes_commits_and_pushes(self):
         with tempfile.TemporaryDirectory() as d:
             repo = self._make_repo(d)
-            (repo / "Subtitles" / "ep1.srt").write_bytes(SEQUENTIAL)
+            (repo / "Subtitles" / "ep1.srt").write_bytes(TIME_BASED)
 
             result = self._publish(repo, "-m", "Add ep1", "--yes")
 
             self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-            self.assertEqual((repo / "Subtitles" / "ep1.srt").read_bytes(), CANONICAL)
+            self.assertEqual((repo / "Subtitles" / "ep1.srt").read_bytes(), SEQUENTIAL)
             log = _git("log", "--oneline", "@{u}", cwd=repo).stdout
             self.assertIn("Add ep1", log)
 
@@ -118,7 +118,7 @@ class PublishEndToEndTests(unittest.TestCase):
     def test_non_srt_changes_are_left_uncommitted(self):
         with tempfile.TemporaryDirectory() as d:
             repo = self._make_repo(d)
-            (repo / "Subtitles" / "ep1.srt").write_bytes(CANONICAL)
+            (repo / "Subtitles" / "ep1.srt").write_bytes(SEQUENTIAL)
             (repo / "README.md").write_text("unrelated edit")
 
             result = self._publish(repo, "-m", "Add ep1", "--yes")
@@ -130,12 +130,12 @@ class PublishEndToEndTests(unittest.TestCase):
     def test_no_normalize_leaves_files_alone(self):
         with tempfile.TemporaryDirectory() as d:
             repo = self._make_repo(d)
-            (repo / "Subtitles" / "ep1.srt").write_bytes(SEQUENTIAL)
+            (repo / "Subtitles" / "ep1.srt").write_bytes(TIME_BASED)
 
             result = self._publish(repo, "-m", "Add ep1", "--yes", "--no-normalize")
 
             self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-            self.assertEqual((repo / "Subtitles" / "ep1.srt").read_bytes(), SEQUENTIAL)
+            self.assertEqual((repo / "Subtitles" / "ep1.srt").read_bytes(), TIME_BASED)
 
     def test_style_warnings_do_not_block(self):
         with tempfile.TemporaryDirectory() as d:
@@ -197,14 +197,14 @@ class PublishEndToEndTests(unittest.TestCase):
     def test_stale_branch_keeps_the_commit_and_advises_rebase(self):
         with tempfile.TemporaryDirectory() as d:
             repo = self._make_repo(d)
-            # Advance the remote behind our back, like the normalize bot does.
+            # Advance the remote behind our back, like another contributor pushing.
             other = Path(d) / "other"
             _git("clone", "-q", str(repo.parent / "remote.git"), str(other), cwd=Path(d))
             _git("config", "user.email", "b@e.com", cwd=other)
-            _git("config", "user.name", "Bot", cwd=other)
-            (other / "bot.txt").write_text("x")
+            _git("config", "user.name", "Other", cwd=other)
+            (other / "other.txt").write_text("x")
             _git("add", "-A", cwd=other)
-            _git("commit", "-qm", "Normalize subtitle formatting [skip ci]", cwd=other)
+            _git("commit", "-qm", "Someone else's change", cwd=other)
             _git("push", "-q", cwd=other)
 
             (repo / "Subtitles" / "ep1.srt").write_bytes(SEQUENTIAL)

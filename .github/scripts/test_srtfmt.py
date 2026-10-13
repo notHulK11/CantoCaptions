@@ -108,13 +108,26 @@ class ParseTests(unittest.TestCase):
         with self.assertRaises(SrtParseError):
             parse(text)
 
-    def test_out_of_order_cues_is_hard_failure(self):
+    def test_out_of_order_cues_are_kept_in_file_order(self):
+        # Legitimate SRT -- overlapping on-screen text is often listed after
+        # the dialogue it overlaps. Never reordered: Subtitle Edit bookmarks
+        # are keyed to a cue's position in the file.
         text = (
             "1\n00:00:05,000 --> 00:00:06,000\n哦\n\n"
             "2\n00:00:01,000 --> 00:00:04,000\n喂\n"
         )
+        cues = parse(text)
+        self.assertEqual([c.start_ms for c in cues], [5000, 1000])
+
+    def test_empty_file_is_hard_failure(self):
         with self.assertRaises(SrtParseError):
-            parse(text)
+            parse("\n\n")
+
+    def test_non_utf8_raises_parse_error_not_unicode_error(self):
+        # Big5 for 喂 -- must surface as a readable error, not a traceback.
+        with self.assertRaises(SrtParseError) as ctx:
+            decode_srt(b"1\n00:00:01,000 --> 00:00:04,000\n\xb3\xde\n")
+        self.assertIn("UTF-8", str(ctx.exception))
 
     def test_decode_utf8_bom(self):
         raw = b"\xef\xbb\xbf1\n00:00:01,000 --> 00:00:04,000\n\xe5\x96\x82\n"
@@ -134,25 +147,12 @@ class ParseTests(unittest.TestCase):
 
 
 class AssignIdsTests(unittest.TestCase):
-    def test_ids_equal_start_ms(self):
+    def test_ids_are_sequential_from_one(self):
         cues = [Cue(1000, 4000, ["a"]), Cue(5120, 8400, ["b"])]
-        self.assertEqual(assign_ids(cues), [1000, 5120])
+        self.assertEqual(assign_ids(cues), [1, 2])
 
-    def test_zero_start_promoted_to_one(self):
-        cues = [Cue(0, 500, ["a"])]
-        self.assertEqual(assign_ids(cues), [1])
-
-    def test_collision_increments_by_one(self):
-        # {\an8} overlapping dialogue: two cues sharing a start time.
-        cues = [
-            Cue(1000, 2000, ["a"]),
-            Cue(1000, 2000, ["b"]),
-            Cue(1001, 3000, ["c"]),
-        ]
-        self.assertEqual(assign_ids(cues), [1000, 1001, 1002])
-
-    def test_zero_start_collision_chain(self):
-        cues = [Cue(0, 500, ["a"]), Cue(0, 500, ["b"]), Cue(1, 500, ["c"])]
+    def test_ids_follow_file_order_not_start_time(self):
+        cues = [Cue(5000, 6000, ["a"]), Cue(1000, 2000, ["b"]), Cue(1000, 2000, ["c"])]
         self.assertEqual(assign_ids(cues), [1, 2, 3])
 
 
@@ -162,8 +162,8 @@ class SerializeTests(unittest.TestCase):
         out = serialize(cues, assign_ids(cues))
         self.assertEqual(
             out,
-            "1000\n00:00:01,000 --> 00:00:04,000\n早晨\n\n"
-            "5120\n00:00:05,120 --> 00:00:08,400\n你食咗飯未呀\n",
+            "1\n00:00:01,000 --> 00:00:04,000\n早晨\n\n"
+            "2\n00:00:05,120 --> 00:00:08,400\n你食咗飯未呀\n",
         )
 
     def test_trailing_whitespace_stripped(self):
@@ -193,11 +193,36 @@ class CheckFileTests(unittest.TestCase):
         self.assertEqual(len(reasons), 1)
         self.assertIn("unparseable timestamp", reasons[0])
 
-    def test_utf8_bom_is_flagged(self):
+    def test_utf8_bom_is_not_flagged(self):
+        # Subtitle Edit writes one by default; every player reads it.
         raw = b"\xef\xbb\xbf1\n00:00:01,000 --> 00:00:04,000\n\xe5\x96\x82\n"
         ok, reasons = check_file(raw)
+        self.assertTrue(ok, reasons)
+
+    def test_non_utf8_is_flagged(self):
+        raw = b"1\n00:00:01,000 --> 00:00:04,000\n\xb3\xde\n"
+        ok, reasons = check_file(raw)
         self.assertFalse(ok)
-        self.assertTrue(any("UTF-8 with a BOM" in r for r in reasons))
+        self.assertTrue(any("UTF-8" in r for r in reasons))
+
+    def test_empty_cue_is_flagged(self):
+        raw = b"1\n00:00:01,000 --> 00:00:04,000\n\n2\n00:00:05,000 --> 00:00:06,000\n\xe5\x96\x82\n"
+        ok, reasons = check_file(raw)
+        self.assertFalse(ok)
+        self.assertTrue(any("no text" in r for r in reasons))
+
+    def test_end_before_start_is_flagged(self):
+        raw = b"1\n00:00:04,000 --> 00:00:01,000\n\xe5\x96\x82\n"
+        ok, reasons = check_file(raw)
+        self.assertFalse(ok)
+
+    def test_out_of_order_cues_are_not_flagged(self):
+        raw = (
+            "1\n00:00:05,000 --> 00:00:06,000\n哦\n\n"
+            "2\n00:00:01,000 --> 00:00:04,000\n喂\n"
+        ).encode("utf-8")
+        ok, reasons = check_file(raw)
+        self.assertTrue(ok, reasons)
 
     def test_utf16_is_flagged(self):
         body = "1\n00:00:01,000 --> 00:00:04,000\n喂\n"
@@ -206,11 +231,10 @@ class CheckFileTests(unittest.TestCase):
         self.assertFalse(ok)
         self.assertTrue(any("UTF-16" in r for r in reasons))
 
-    def test_crlf_is_flagged(self):
+    def test_crlf_is_not_flagged(self):
         raw = b"1\r\n00:00:01,000 --> 00:00:04,000\r\n\xe5\x96\x82\r\n"
         ok, reasons = check_file(raw)
-        self.assertFalse(ok)
-        self.assertTrue(any("CRLF" in r for r in reasons))
+        self.assertTrue(ok, reasons)
 
     def test_missing_trailing_newline_is_not_flagged(self):
         # No parser cares, and which convention a file ends up with is an
@@ -237,32 +261,21 @@ class CheckFileTests(unittest.TestCase):
         ok, reasons = check_file(raw)
         self.assertTrue(ok, reasons)
 
-    def test_dot_separator_is_flagged(self):
-        raw = b"1000\n00:00:01.000 --> 00:00:04.000\n\xe5\x96\x82\n"
-        ok, reasons = check_file(raw)
-        self.assertFalse(ok)
-        self.assertTrue(any("millisecond separator" in r for r in reasons))
-
-    def test_unpadded_hour_is_flagged(self):
-        raw = b"3601000\n1:00:01,000 --> 1:00:04,000\n\xe5\x96\x82\n"
-        ok, reasons = check_file(raw)
-        self.assertFalse(ok)
-        self.assertTrue(any("zero-padded" in r for r in reasons))
-
-    def test_trailing_whitespace_on_text_line_is_flagged(self):
-        raw = "1000\n00:00:01,000 --> 00:00:04,000\n喂  \n".encode("utf-8")
-        ok, reasons = check_file(raw)
-        self.assertFalse(ok)
-        self.assertTrue(any("trailing whitespace" in r for r in reasons))
-
-    def test_wrong_blank_line_count_is_flagged(self):
-        raw = (
-            "1000\n00:00:01,000 --> 00:00:04,000\n喂\n\n\n"
-            "5000\n00:00:05,000 --> 00:00:06,000\n哦\n"
-        ).encode("utf-8")
-        ok, reasons = check_file(raw)
-        self.assertFalse(ok)
-        self.assertTrue(any("blank line(s) before this cue" in r for r in reasons))
+    def test_cosmetic_formatting_is_not_flagged(self):
+        # '.' separators, unpadded hours, trailing whitespace and extra blank
+        # lines are all read fine by every player. Timestamps get a style
+        # warning from srtlint; none of it fails the check.
+        for raw in [
+            b"1\n00:00:01.000 --> 00:00:04.000\n\xe5\x96\x82\n",
+            b"1\n1:00:01,000 --> 1:00:04,000\n\xe5\x96\x82\n",
+            "1\n00:00:01,000 --> 00:00:04,000\n喂  \n".encode("utf-8"),
+            (
+                "1\n00:00:01,000 --> 00:00:04,000\n喂\n\n\n"
+                "2\n00:00:05,000 --> 00:00:06,000\n哦\n"
+            ).encode("utf-8"),
+        ]:
+            ok, reasons = check_file(raw)
+            self.assertTrue(ok, (raw, reasons))
 
     def _sequential_blocks(self, n: int, t0: int = 1000, step: int = 2000) -> list[str]:
         blocks = []
@@ -272,18 +285,13 @@ class CheckFileTests(unittest.TestCase):
             t += step
         return blocks
 
-    def test_editor_renumbered_plain_sequential_ids_pass(self):
-        # The core scenario this component exists to handle: a contributor
-        # opens a canonical file in an ordinary subtitle editor, fixes one
-        # line, and saves -- the editor renumbers every cue 1..N as a side
-        # effect. That must not fail the PR check; --write silently fixes
-        # IDs on merge to main regardless of what they were.
+    def test_plain_sequential_ids_pass(self):
         raw = ("\n\n".join(self._sequential_blocks(50)) + "\n").encode("utf-8")
         ok, reasons = check_file(raw)
         self.assertTrue(ok, reasons)
 
     def test_arbitrary_but_strictly_ascending_ids_pass(self):
-        # IDs need not be canonical *or* plain sequential -- just well-ordered.
+        # Cue numbers are never checked; any values pass.
         blocks = [
             f"{cue_id}\n{format_timestamp(t)} --> {format_timestamp(t + 500)}\n喂"
             for cue_id, t in [(5, 1000), (12, 3000), (47, 5000)]
@@ -292,24 +300,16 @@ class CheckFileTests(unittest.TestCase):
         ok, reasons = check_file(raw)
         self.assertTrue(ok, reasons)
 
-    def test_transposed_id_is_flagged_as_out_of_order(self):
-        # Regression: a file that is otherwise plain sequential (as any
-        # editor would leave it) but has a couple of cue IDs hand-edited into
-        # a mistake (duplicated / transposed) must still surface those
-        # specific lines, even though plain renumbering elsewhere is fine.
+    def test_duplicate_and_transposed_ids_pass(self):
+        # Players ignore cue numbers entirely, and any editor renumbers them
+        # on save, so a hand-edited mistake in one is nothing to fail over.
         blocks = self._sequential_blocks(10)
-        blocks[4] = blocks[4].replace("5\n", "3\n", 1)  # duplicate of cue 3's ID
-        blocks[6] = blocks[6].replace("7\n", "8\n", 1)  # transposed with cue 8
+        blocks[4] = blocks[4].replace("5\n", "3\n", 1)
+        blocks[6] = blocks[6].replace("7\n", "8\n", 1)
         blocks[7] = blocks[7].replace("8\n", "7\n", 1)
         raw = ("\n\n".join(blocks) + "\n").encode("utf-8")
-
         ok, reasons = check_file(raw)
-        self.assertFalse(ok)
-
-        order_lines = [r for r in reasons if "not greater than the previous" in r]
-        self.assertEqual(len(order_lines), 2, reasons)
-        self.assertTrue(any("cue ID is 3" in r for r in order_lines))
-        self.assertTrue(any("cue ID is 7" in r for r in order_lines))
+        self.assertTrue(ok, reasons)
 
     def test_diagnose_on_canonical_input_is_empty(self):
         cues = parse("1000\n00:00:01,000 --> 00:00:04,000\n喂\n")
@@ -334,14 +334,15 @@ class CheckCliTests(unittest.TestCase):
             self.assertEqual(result.returncode, 0)
             self.assertEqual(result.stdout, "")
 
-    def test_non_canonical_file_exits_one_and_reports(self):
+    def test_broken_file_exits_one_and_reports(self):
         with tempfile.TemporaryDirectory() as d:
             path = Path(d) / "bad.srt"
-            path.write_bytes(b"\xef\xbb\xbf1\n00:00:01,000 --> 00:00:04,000\n\xe5\x96\x82\n")
+            body = "1\n00:00:01,000 --> 00:00:04,000\n喂\n"
+            path.write_bytes(b"\xff\xfe" + body.encode("utf-16-le"))
             result = self._run(path)
             self.assertEqual(result.returncode, 1)
             self.assertIn(str(path), result.stdout)
-            self.assertIn("BOM", result.stdout)
+            self.assertIn("UTF-16", result.stdout)
 
     def test_mixed_files_exit_one_and_only_report_the_bad_one(self):
         with tempfile.TemporaryDirectory() as d:
@@ -357,18 +358,16 @@ class CheckCliTests(unittest.TestCase):
 
 class WriteFileTests(unittest.TestCase):
     def test_canonical_input_is_reported_unchanged(self):
-        raw = b"1000\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
+        raw = b"1\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
         canonical, changed = write_file(raw)
         self.assertFalse(changed)
         self.assertEqual(canonical, raw)
 
-    def test_sequential_ids_are_rewritten_to_start_time_derived(self):
-        # Unlike --check, --write fully canonicalizes IDs -- this is where
-        # editor-renumbered files actually get fixed on merge to main.
-        raw = b"1\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
+    def test_start_time_ids_are_rewritten_to_sequential(self):
+        raw = b"1000\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
         canonical, changed = write_file(raw)
         self.assertTrue(changed)
-        self.assertTrue(canonical.startswith(b"1000\n"))
+        self.assertTrue(canonical.startswith(b"1\n"))
 
     def test_hard_parse_failure_raises(self):
         raw = b"1\nnot a timestamp\n\xe5\x96\x82\n"
@@ -387,7 +386,7 @@ class WriteCliTests(unittest.TestCase):
     def test_canonical_file_is_untouched_and_silent(self):
         with tempfile.TemporaryDirectory() as d:
             path = Path(d) / "canonical.srt"
-            raw = b"1000\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
+            raw = b"1\n00:00:01,000 --> 00:00:04,000\n\xe6\x97\xa9\xe6\x99\xa8\n"
             path.write_bytes(raw)
             mtime_before = path.stat().st_mtime_ns
             result = self._run(path)
@@ -408,7 +407,7 @@ class WriteCliTests(unittest.TestCase):
             self.assertIn(str(path), result.stdout)
             self.assertEqual(
                 path.read_bytes(),
-                "1000\n00:00:01,000 --> 00:00:04,000\n喂\n".encode("utf-8"),
+                "1\n00:00:01,000 --> 00:00:04,000\n喂\n".encode("utf-8"),
             )
 
     def test_write_output_is_idempotent(self):
@@ -507,6 +506,23 @@ class LintTests(unittest.TestCase):
         # toward the visible-character line-length limit.
         cues = self._cues("1000\n00:00:01,000 --> 00:00:05,000\n{\\an8}喂\n")
         self.assertEqual(srtlint.lint(cues), [])
+
+    def test_out_of_order_cue_is_flagged(self):
+        cues = self._cues(
+            "1\n00:00:05,000 --> 00:00:06,000\n哦\n\n"
+            "2\n00:00:01,000 --> 00:00:04,000\n喂\n"
+        )
+        items = srtlint.lint_items(cues)
+        self.assertEqual([w.rule for w in items], ["Out of order"])
+        self.assertEqual(items[0].cue_number, 2)
+
+    def test_nonstandard_timestamp_is_flagged(self):
+        cues = self._cues("1\n00:00:01.000 --> 00:00:04.000\n喂\n")
+        self.assertEqual([w.rule for w in srtlint.lint_items(cues)], ["Nonstandard timestamp"])
+
+    def test_lint_strings_carry_cue_and_line(self):
+        cues = self._cues("1\n00:00:01,000 --> 00:00:01,100\n喂\n")
+        self.assertEqual(srtlint.lint(cues), ["Cue 1 (line 2) — cue lasts 100ms. Minimum is 400ms."])
 
     def test_parse_error_propagates_to_caller(self):
         with self.assertRaises(SrtParseError):

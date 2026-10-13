@@ -41,13 +41,10 @@ How you can make it easy for us:
 ## What happens after you submit
 
 A Pull Request will get created to track your changes. On the Pull Request, an 
-automated check will run against your files and and will flag lines if 
-something needs fixing (wrong file encoding, a line that's too long, etc.).
-
-If you just added the file and didn't run any scripts, a maintainer will run a
-process to normalize the line numbers in the SRT file (see 
-[`MAINTAINERS.md`](/.github/MAINTAINERS.md) to know how that works). This allows 
-us to view changes to the file more clearly on Github.
+automated check will run against your files. It only fails if a file is
+actually broken (wrong file encoding, an empty subtitle, a timestamp it can't
+read). It may also leave style suggestions on some lines, such as a line
+that's too long. Those are just suggestions and never block anything.
 
 ## If you use Git locally
 
@@ -60,7 +57,7 @@ All you need is Python 3. There is nothing to install and no dependencies.
 Run these from the top of your copy of the repo.
 
 **Check for problems** that would be flagged on your pull request (wrong file
-encoding, malformed timestamps, cues that are out of order):
+encoding, malformed timestamps, empty subtitles):
 
 ```sh
 python3 .github/scripts/srtfmt.py --check "Subtitles/Movies/Original/Your Movie (1990)/your-file.srt"
@@ -81,9 +78,8 @@ and subtitle numbering:
 python3 .github/scripts/srtfmt.py --write "Subtitles/Movies/Original/Your Movie (1990)/your-file.srt"
 ```
 
-Running `--write` before you commit is the most useful of the three: it makes
-the diff on your pull request show only the lines you actually changed, which
-makes review much faster.
+`--write` is optional. Use it if `--check` complains about the file's
+encoding, for example, since it re-saves the file as UTF-8.
 
 A few notes:
 
