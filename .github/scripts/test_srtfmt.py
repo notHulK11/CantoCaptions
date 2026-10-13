@@ -98,6 +98,11 @@ class ParseTests(unittest.TestCase):
         with self.assertRaises(SrtParseError):
             parse(text)
 
+    def test_unparseable_line_is_truncated_in_the_error(self):
+        with self.assertRaises(SrtParseError) as ctx:
+            parse("1\n" + "x" * 5000 + "\n喂\n")
+        self.assertLess(len(str(ctx.exception)), 200)
+
     def test_cue_with_no_text_is_hard_failure(self):
         text = "1\n00:00:01,000 --> 00:00:04,000\n\n2\n00:00:05,000 --> 00:00:06,000\n哦\n"
         with self.assertRaises(SrtParseError):

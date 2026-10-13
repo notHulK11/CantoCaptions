@@ -154,8 +154,10 @@ def parse(text: str) -> list[Cue]:
         timestamp_text = lines[i].strip()
         m = TIMESTAMP_RE.match(timestamp_text)
         if not m:
+            # Capped: a pasted-in block of text can put kilobytes on one line.
+            shown = lines[i] if len(lines[i]) <= 60 else lines[i][:60] + "…"
             raise SrtParseError(
-                f"line {i + 1}: unparseable timestamp line: {lines[i]!r}. "
+                f"line {i + 1}: unparseable timestamp line: {shown!r}. "
                 "Is there a blank line inside a subtitle, or a typo in the timestamp?"
             )
         start_ms = _to_ms(*m.groups()[0:4])
