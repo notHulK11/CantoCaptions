@@ -522,7 +522,7 @@ Come on，relax
 第二我又唔喺度住
 
 131
-00:14:00,200 --> 00:14:02,559
+00:14:00,215 --> 00:14:02,559
 係咩？你唔喺度住咩？
 
 132
@@ -1224,7 +1224,7 @@ Faye Wong個Faye啊，唔該
 
 306
 00:31:04,342 --> 00:31:06,605
-我係話佢「啫啫armani」啊
+我係話佢「啫啫Armani」啊
 
 307
 00:31:06,656 --> 00:31:07,022
@@ -2333,7 +2333,7 @@ Hey，relax
 寫下稿，好easy啫
 
 583
-00:54:42,002 --> 00:54:43,564
+00:54:41,988 --> 00:54:43,661
 帶個鬧鐘借畀你用
 
 584
@@ -2711,7 +2711,7 @@ Bingo！恭喜啊，恭喜
 我呢批金
 
 677
-01:11:39,711 --> 01:11:42,350
+01:11:39,686 --> 01:11:42,345
 終於都等到人嚟認領喇
 
 678
@@ -3114,7 +3114,7 @@ Bingo！恭喜啊，恭喜
 好似喺邊度聽過？
 
 777
-01:21:12,782 --> 01:21:13,596
+01:21:12,780 --> 01:21:13,596
 嗰邊啊！
 
 778
@@ -3272,11 +3272,11 @@ That falls softly on the meadow,
 
 816
 01:26:31,649 --> 01:26:35,204
-birds high upon the trees
+Birds high upon the trees
 
 817
 01:26:35,364 --> 01:26:39,878
-serenade the clouds with their melody
+Serenade the clouds with their melody
 
 818
 01:26:40,190 --> 01:26:45,098
@@ -3284,19 +3284,19 @@ Oh oh, see there beyond the hills,
 
 819
 01:26:45,245 --> 01:26:50,480
-the bright colors of the rainbow
+The bright colors of the rainbow
 
 820
 01:26:50,805 --> 01:26:54,379
-some magic from above
+Some magic from above
 
 821
 01:26:54,440 --> 01:26:56,680
-made this days for us
+Made this days for us
 
 822
 01:26:56,731 --> 01:27:00,176
-just to fall in love
+Just to fall in love
 
 823
 01:27:00,495 --> 01:27:04,543
@@ -3308,7 +3308,7 @@ And say once again you love me,
 
 825
 01:27:09,928 --> 01:27:13,602
-and if your love is true,
+And if your love is true,
 
 826
 01:27:13,653 --> 01:27:19,036
@@ -3320,7 +3320,7 @@ Now, I belong to you
 
 828
 01:27:30,481 --> 01:27:35,614
-from this day until forever,
+From this day until forever,
 
 829
 01:27:35,984 --> 01:27:39,308
