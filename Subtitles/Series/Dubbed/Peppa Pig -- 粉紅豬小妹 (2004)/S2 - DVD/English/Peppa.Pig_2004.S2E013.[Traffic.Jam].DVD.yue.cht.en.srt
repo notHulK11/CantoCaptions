@@ -1,0 +1,425 @@
+1
+00:00:02,938 --> 00:00:04,418
+I'm Peppa Pig
+
+2
+00:00:05,058 --> 00:00:07,298
+And this is my little brother, George
+
+3
+00:00:07,698 --> 00:00:09,578
+This is Mummy Pig
+
+4
+00:00:10,018 --> 00:00:11,418
+And this is Daddy Pig
+
+5
+00:00:13,738 --> 00:00:15,018
+Peppa Pig
+
+6
+00:00:19,099 --> 00:00:20,983
+"Traffic Jam"
+
+7
+00:00:22,179 --> 00:00:26,117
+Grandpa Pig and Granny Pig are making lunch
+for Peppa and her family
+
+8
+00:00:26,410 --> 00:00:28,998
+I've dug up some more potatoes
+
+9
+00:00:29,818 --> 00:00:31,292
+Oh, Grandpa
+
+10
+00:00:31,420 --> 00:00:33,802
+We have plenty of potatoes already
+
+11
+00:00:33,843 --> 00:00:36,861
+You can never have too many potatoes
+
+12
+00:00:36,901 --> 00:00:37,861
+All right
+
+13
+00:00:37,902 --> 00:00:39,902
+But put them in the oven first
+
+14
+00:00:39,942 --> 00:00:41,782
+They'll be here soon
+
+15
+00:00:42,383 --> 00:00:44,303
+We have plenty of time
+
+16
+00:00:44,343 --> 00:00:46,424
+It's only eleven o'clock
+
+17
+00:00:48,865 --> 00:00:50,985
+Peppa and her family are on their way
+
+18
+00:00:51,225 --> 00:00:52,787
+I wish we'd left earlier
+
+19
+00:00:52,827 --> 00:00:54,548
+We're going to be late again
+
+20
+00:00:54,589 --> 00:00:56,629
+It's fine, don't worry, Mummy
+
+21
+00:00:56,669 --> 00:00:58,831
+We still have plenty of time
+
+22
+00:00:58,871 --> 00:01:00,779
+Whenever we go to Granny and Grandpa's
+
+23
+00:01:00,819 --> 00:01:03,764
+We're never on time, we're always late
+
+24
+00:01:04,275 --> 00:01:06,917
+Not this time, I found a new way
+
+25
+00:01:07,037 --> 00:01:09,278
+It avoids all the traffic
+
+26
+00:01:11,841 --> 00:01:13,602
+I didn't expect this
+
+27
+00:01:13,642 --> 00:01:14,763
+Because of a traffic jam
+
+28
+00:01:14,803 --> 00:01:16,884
+Peppa and her family are stuck
+
+29
+00:01:17,558 --> 00:01:18,445
+Look
+
+30
+00:01:18,485 --> 00:01:21,967
+Danny and Granddad Dog are in front of us
+
+31
+00:01:22,007 --> 00:01:24,688
+Danny and Granddad Dog are stuck in traffic too
+
+32
+00:01:24,728 --> 00:01:26,008
+Hello, Peppa!
+
+33
+00:01:26,208 --> 00:01:27,610
+Hello, Peppa!
+
+34
+00:01:28,729 --> 00:01:31,971
+We're going to Granny and Grandpa's for lunch
+
+35
+00:01:32,064 --> 00:01:34,287
+It looks like we're going to be late
+
+36
+00:01:36,980 --> 00:01:40,878
+It's one o'clock already, and they're late again
+
+37
+00:01:40,919 --> 00:01:42,258
+Just like always
+
+38
+00:01:42,299 --> 00:01:44,219
+How are your potatoes coming along?
+
+39
+00:01:44,979 --> 00:01:47,699
+They need to bake a bit longer
+
+40
+00:01:50,926 --> 00:01:52,578
+Hello, Granny Pig speaking
+
+41
+00:01:52,618 --> 00:01:54,046
+Hello, Granny
+
+42
+00:01:54,097 --> 00:01:56,257
+We're stuck in traffic
+
+43
+00:01:56,297 --> 00:01:59,097
+Don't worry, our lunch isn't ready yet anyway
+
+44
+00:01:59,137 --> 00:02:01,336
+Grandpa made lots of potatoes today
+
+45
+00:02:01,456 --> 00:02:02,656
+See you soon
+
+46
+00:02:03,296 --> 00:02:05,656
+The whole family is still stuck in traffic
+
+47
+00:02:05,696 --> 00:02:09,616
+Looks like I still have time
+to go and dig up a few more potatoes
+
+48
+00:02:09,656 --> 00:02:10,816
+Oh, Grandpa!
+
+49
+00:02:12,296 --> 00:02:14,976
+We're moving so slowly
+
+50
+00:02:15,296 --> 00:02:18,336
+We'll never get to Granny and Grandpa's
+
+51
+00:02:18,376 --> 00:02:20,976
+Peppa's right, let's try another way
+
+52
+00:02:21,016 --> 00:02:23,177
+But there isn't another main road
+
+53
+00:02:23,217 --> 00:02:24,777
+I know a shortcut
+
+54
+00:02:26,615 --> 00:02:30,176
+Bye-bye, everyone, we're taking a shortcut!
+
+55
+00:02:30,217 --> 00:02:31,497
+Bye-bye, Peppa
+
+56
+00:02:31,538 --> 00:02:32,739
+Good luck!
+
+57
+00:02:32,779 --> 00:02:34,860
+Mummy Pig takes the shortcut
+
+58
+00:02:34,900 --> 00:02:36,452
+Past all the other cars
+
+59
+00:02:36,651 --> 00:02:38,727
+The shortcut is very bumpy
+
+60
+00:02:39,662 --> 00:02:41,063
+This is fun!
+
+61
+00:02:42,664 --> 00:02:44,345
+Are you sure this is the right way?
+
+62
+00:02:44,385 --> 00:02:45,145
+Trust me
+
+63
+00:02:45,185 --> 00:02:46,506
+Hello, ducks!
+
+64
+00:02:46,546 --> 00:02:48,667
+We're taking a shortcut
+
+65
+00:02:53,072 --> 00:02:55,232
+Look, straight back onto the main road
+
+66
+00:02:55,272 --> 00:02:57,032
+Well done, Mummy!
+
+67
+00:02:58,593 --> 00:03:01,435
+We're still behind Danny's truck
+
+68
+00:03:01,475 --> 00:03:02,112
+Alright?
+
+69
+00:03:02,153 --> 00:03:03,740
+Welcome back!
+
+70
+00:03:04,473 --> 00:03:05,393
+Oh dear
+
+71
+00:03:05,434 --> 00:03:08,253
+Mummy Pig's shortcut hasn't helped
+
+72
+00:03:11,323 --> 00:03:13,486
+Right, lunch is ready
+
+73
+00:03:13,526 --> 00:03:16,690
+And most importantly, the potatoes are baked
+
+74
+00:03:16,730 --> 00:03:18,102
+And beautifully baked, too
+
+75
+00:03:18,143 --> 00:03:19,454
+Lunch is ready
+
+76
+00:03:19,494 --> 00:03:22,258
+but Peppa and her family haven't arrived yet
+
+77
+00:03:25,537 --> 00:03:27,615
+Hello, Grandpa Pig speaking
+
+78
+00:03:27,698 --> 00:03:29,979
+We're nearly at your house
+
+79
+00:03:30,060 --> 00:03:31,380
+but there's still a big traffic jam
+
+80
+00:03:31,420 --> 00:03:33,662
+The traffic is still moving at a snail's pace
+
+81
+00:03:33,702 --> 00:03:37,143
+A very, very slow snail
+
+82
+00:03:38,544 --> 00:03:40,305
+They're nearly here
+
+83
+00:03:40,345 --> 00:03:42,546
+but they're still stuck in traffic and moving very slowly
+
+84
+00:03:42,586 --> 00:03:44,187
+Poor things
+
+85
+00:03:44,227 --> 00:03:46,468
+All the food laid out will get cold
+
+86
+00:03:46,508 --> 00:03:48,269
+I have a wonderful idea
+
+87
+00:03:48,309 --> 00:03:50,710
+I'll go and fetch the wheelbarrow
+
+88
+00:03:51,031 --> 00:03:53,074
+What is Grandpa Pig going to do?
+
+89
+00:03:54,079 --> 00:03:54,959
+Granny Pig
+
+90
+00:03:55,642 --> 00:03:59,210
+Quick, put the lunch in the wheelbarrow
+
+91
+00:03:59,252 --> 00:04:00,934
+Coming, Grandpa Pig
+
+92
+00:04:02,899 --> 00:04:05,659
+If they can't come here for lunch
+
+93
+00:04:05,699 --> 00:04:08,059
+we'll take lunch to them!
+
+94
+00:04:09,980 --> 00:04:10,940
+Look!
+
+95
+00:04:11,180 --> 00:04:13,100
+It's Grandpa and Granny Pig!
+
+96
+00:04:13,420 --> 00:04:16,060
+They've brought our lunch in a wheelbarrow
+
+97
+00:04:16,820 --> 00:04:18,541
+Don't drive off yet!
+
+98
+00:04:19,221 --> 00:04:21,701
+Lunch has arrived!
+
+99
+00:04:21,866 --> 00:04:23,621
+Is there enough lunch
+
+100
+00:04:23,661 --> 00:04:26,542
+to share with Danny and Granddad Dog?
+
+101
+00:04:26,582 --> 00:04:28,825
+There's plenty of food for everyone
+
+102
+00:04:28,865 --> 00:04:31,332
+Hooray, potatoes!
+
+103
+00:04:32,505 --> 00:04:33,987
+Well done, Grandpa!
+
+104
+00:04:34,027 --> 00:04:36,311
+Good thing you made so many potatoes
+
+105
+00:04:37,110 --> 00:04:38,191
+I told you so
+
+106
+00:04:38,231 --> 00:04:40,993
+You can never have too many potatoes
